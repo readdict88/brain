@@ -7,19 +7,12 @@
         "id": "8cc371a17ff5a677",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "2f55b197d38cb9ec"
-      },
-      {
-        "id": "f882d5a63d62ea84",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "2f55b197d38cb9ec"
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -75,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +88,7 @@
   },
   "active": "8cc371a17ff5a677",
   "lastOpenFiles": [
-    "P3KA.md",
-    "Untitled.md"
+    "Untitled.md",
+    "P3KA.md"
   ]
 }
