@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hudaya",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3ada7853d6cb7953",
+        "id": "69a266758cea45af",
         "type": "tabs",
         "children": [
           {
@@ -87,7 +87,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3ada7853d6cb7953",
+        "type": "tabs",
+        "children": [
           {
             "id": "d9c29de21a23b05d",
             "type": "leaf",
@@ -115,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
