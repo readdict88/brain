@@ -44,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7a1d2ce695cf2983",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -73,6 +81,25 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "d9c29de21a23b05d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6946e403f3943bf1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]

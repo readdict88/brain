@@ -4,11 +4,16 @@
   "switcher",
   "graph",
   "backlink",
+  "tag-pane",
   "page-preview",
+  "daily-notes",
   "note-composer",
   "command-palette",
+  "starred",
   "markdown-importer",
+  "zk-prefixer",
   "word-count",
+  "slides",
   "open-with-default-app",
   "file-recovery"
 ]
