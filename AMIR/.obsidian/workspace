@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc371a17ff5a677",
+        "id": "fdc89d1f7ff967bf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
+            "file": "DAILY/19-07-2021.md",
             "mode": "source"
           }
         }
@@ -39,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hudaya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
+                "file": "DAILY/19-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,18 +106,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8cc371a17ff5a677",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8cc371a17ff5a677",
+  "active": "fdc89d1f7ff967bf",
   "lastOpenFiles": [
-    "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/19-07-2021.md",
+    "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/14-07-2021.md",
     "Zettelkasten.md",
     "How to Take Smart Notes.md",

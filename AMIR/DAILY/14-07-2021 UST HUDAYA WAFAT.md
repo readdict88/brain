@@ -28,3 +28,5 @@
 - Adzan dan Iqamah saat mengubur mayat, menandakan shalat adalah penentu nasib seseorang di alam kubur dan akhirat. Jangan acuhkan seruan Allah (adzan), Allah rindu hambanya memohon dan berdoa saat shalat dan zikir
 - Bu Hudaya sabar luar biasa. Beliau baru menangis setelah ambulan ust Hudaya hilang dari pandangan.
 - Beliau berkali2 pingin merasakan qoah aula Gontor 2 meski belum jadi
+
+#kematian #dzikrulmaut #hudaya 
