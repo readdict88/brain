@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/19-07-2021.md",
+            "file": "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/19-07-2021.md",
+                "file": "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,16 +106,18 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "8cc371a17ff5a677",
   "lastOpenFiles": [
+    "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/19-07-2021.md",
+    "DAILY/14-07-2021.md",
     "Zettelkasten.md",
     "How to Take Smart Notes.md",
     "Untitled.md",
