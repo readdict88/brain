@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-kanban",
-  "calendar"
+  "calendar",
+  "obsidian-outliner",
+  "nldates-obsidian"
 ]
