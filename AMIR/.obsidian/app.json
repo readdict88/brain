@@ -1,4 +1,6 @@
 {
   "trashOption": "local",
-  "promptDelete": false
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true
 }
