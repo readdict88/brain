@@ -7,8 +7,11 @@
         "id": "8cc371a17ff5a677",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY/19-07-2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY/19-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +115,7 @@
   },
   "active": "8cc371a17ff5a677",
   "lastOpenFiles": [
+    "DAILY/19-07-2021.md",
     "Zettelkasten.md",
     "How to Take Smart Notes.md",
     "Untitled.md",
