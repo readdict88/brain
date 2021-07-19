@@ -3,5 +3,8 @@
   "obsidian-kanban",
   "calendar",
   "obsidian-outliner",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-extract-pdf-highlights",
+  "folder-note-plugin",
+  "obsidian-reading-time"
 ]
