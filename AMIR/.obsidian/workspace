@@ -7,11 +7,8 @@
         "id": "8cc371a17ff5a677",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How to Take Smart Notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "8cc371a17ff5a677",
   "lastOpenFiles": [
+    "Zettelkasten.md",
     "How to Take Smart Notes.md",
     "Untitled.md",
     "P3KA.md"
