@@ -14,31 +14,17 @@
 - Mendengar kematian, jangan hanya diam. Bantu hingga tuntas, iringi ke pemakaman, itu hak seorang muslim yang wajib bagi muslim lain
 - Saat sakit datang, segeralah berobat. Ikhtiar. Jangan hanya diam. Allah beri sakit juga beri sehat. Namun takdirnya datang dengan sebab.
 - إذا قدر الله شيئا هيأ له الأسباب Jika Allah menginginkan terjadi sesuatu, takdirnya akan turun dengan sebab rasional manusia.
-
-Saat orang sakit, tawarkan segenap bantuan yang kita bisa. Obat, jasa, apapun. Bisa jadi itu merubah takdir Allah.
-
-Jangan sampai penyesalan datang saat kita tak memberi bantuan apapun padahal mampu, sebelum semua terlambat
-
-Banyak yang mampu tidak mau. Semoga kita selalu mau meski tidak mampu, syukur2 mau dan mampu membantu
-
-Pondok terus berjalan, siapapun masinisnya. Figur terus berganti, namun nilai dan jiwa kekal abadi
-
-Jangan hanya wariskan harta ke keluarga dan orang lain. Wariskan iman dan nilai.
-
-Apa yang kau sembah setelahku? Itu pertanyaan para Nabi sebelum ajal kepada keluarganya.
-
-Selama keluarga mati dalam keadaan iman, Jannah tetap menjadi jaminan tempat kembalinya.
-
-Lawan kekufuran sekuat2nya, takutlah keluarga ada yang mati selain dengan kalimat tauhid
-
-Kerja dunia bisa kau tunda dan rancang sepuasnya seakan kau hidup selamanya. Amal akhirat kerjakan segera seakan malaikat todongkan maut di lehermu
-
-Boleh menangis, tapi jangan sekali-kali menangisi. Kuatlah hadapi takdir. Allah menilai sikap kita di setiap ujian dan musibah.
-
-Nilai sendiri dirimu, andai kau mati saat ini juga, seberapa banyak orang yang kehilangan? Seberapa besar jasa ihsan budi tak berbalas kita untuk orang lain?
-
-Adzan dan Iqamah saat mengubur mayat, menandakan shalat adalah penentu nasib seseorang di alam kubur dan akhirat. Jangan acuhkan seruan Allah (adzan), Allah rindu hambanya memohon dan berdoa saat shalat dan zikir
-
-~~Bu Hudaya sabar luar biasa. Beliau baru menangis setelah ambulan ust Hudaya hilang dari pandangan.~~
-
-~~Beliau berkali2 pingin merasakan qoah aula Gontor 2 meski belum jadi~~
+- Saat orang sakit, tawarkan segenap bantuan yang kita bisa. Obat, jasa, apapun. Bisa jadi itu merubah takdir Allah.
+- Jangan sampai penyesalan datang saat kita tak memberi bantuan apapun padahal mampu, sebelum semua terlambat
+- Banyak yang mampu tidak mau. Semoga kita selalu mau meski tidak mampu, syukur2 mau dan mampu membantu
+- Pondok terus berjalan, siapapun masinisnya. Figur terus berganti, namun nilai dan jiwa kekal abadi
+- Jangan hanya wariskan harta ke keluarga dan orang lain. Wariskan iman dan nilai.
+- Apa yang kau sembah setelahku? Itu pertanyaan para Nabi sebelum ajal kepada keluarganya.
+- Selama keluarga mati dalam keadaan iman, Jannah tetap menjadi jaminan tempat kembalinya.
+- Lawan kekufuran sekuat2nya, takutlah keluarga ada yang mati selain dengan kalimat tauhid
+- Kerja dunia bisa kau tunda dan rancang sepuasnya seakan kau hidup selamanya. Amal akhirat kerjakan segera seakan malaikat todongkan maut di lehermu
+- Boleh menangis, tapi jangan sekali-kali menangisi. Kuatlah hadapi takdir. Allah menilai sikap kita di setiap ujian dan musibah.
+- Nilai sendiri dirimu, andai kau mati saat ini juga, seberapa banyak orang yang kehilangan? Seberapa besar jasa ihsan budi tak berbalas kita untuk orang lain?
+- Adzan dan Iqamah saat mengubur mayat, menandakan shalat adalah penentu nasib seseorang di alam kubur dan akhirat. Jangan acuhkan seruan Allah (adzan), Allah rindu hambanya memohon dan berdoa saat shalat dan zikir
+- Bu Hudaya sabar luar biasa. Beliau baru menangis setelah ambulan ust Hudaya hilang dari pandangan.
+- Beliau berkali2 pingin merasakan qoah aula Gontor 2 meski belum jadi
