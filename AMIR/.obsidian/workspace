@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/19-07-2021.md",
+            "file": "DAILY/20-07-2021.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/19-07-2021.md",
+                "file": "DAILY/20-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "3535ebb68cc70f65",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -109,7 +117,7 @@
             "id": "6946e403f3943bf1",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -129,6 +137,7 @@
   },
   "active": "fdc89d1f7ff967bf",
   "lastOpenFiles": [
+    "DAILY/20-07-2021.md",
     "DAILY/19-07-2021.md",
     "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/14-07-2021.md",
