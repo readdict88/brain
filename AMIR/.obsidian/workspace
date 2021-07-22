@@ -7,11 +7,8 @@
         "id": "fdc89d1f7ff967bf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zettelkasten.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
