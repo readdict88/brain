@@ -7,8 +7,11 @@
         "id": "fdc89d1f7ff967bf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY/14-07-2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY/14-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,9 +143,9 @@
   },
   "active": "fdc89d1f7ff967bf",
   "lastOpenFiles": [
-    "Untitled.md",
-    "DAILY/20-07-2021.md",
     "DAILY/14-07-2021.md",
+    "DAILY/20-07-2021.md",
+    "Untitled.md",
     "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/19-07-2021.md",
     "Zettelkasten.md",
