@@ -52,7 +52,7 @@
             "id": "7a1d2ce695cf2983",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "empty",
               "state": {}
             }
           }
@@ -91,6 +91,14 @@
             "id": "3535ebb68cc70f65",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e1980528ec41567b",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
@@ -106,11 +114,8 @@
             "id": "d9c29de21a23b05d",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
