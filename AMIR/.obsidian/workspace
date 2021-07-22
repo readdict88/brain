@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/20-07-2021.md",
+            "file": "zettelkasten.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/20-07-2021.md",
+                "file": "zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,13 +143,13 @@
   },
   "active": "fdc89d1f7ff967bf",
   "lastOpenFiles": [
+    "Untitled.md",
     "DAILY/20-07-2021.md",
     "DAILY/14-07-2021.md",
     "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/19-07-2021.md",
     "Zettelkasten.md",
     "How to Take Smart Notes.md",
-    "Untitled.md",
     "P3KA.md"
   ]
 }
