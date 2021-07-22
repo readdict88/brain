@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fdc89d1f7ff967bf",
+        "id": "05e3ea7370cd264e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/22-07-2021.md",
+            "file": "ZETTELKASTEN/2. SOURCE NOTE/How To Take Smart Notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/22-07-2021.md",
+                "file": "ZETTELKASTEN/2. SOURCE NOTE/How To Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,16 +126,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fdc89d1f7ff967bf",
+  "active": "05e3ea7370cd264e",
   "lastOpenFiles": [
+    "ZETTELKASTEN/2. SOURCE NOTE/How To Take Smart Notes.md",
+    "Untitled.md",
+    "ZETTELKASTEN/2. SOURCE NOTE/Untitled.md",
+    "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
+    "conflict-files-obsidian-git.md",
     "DAILY/22-07-2021.md",
     "DAILY/20-07-2021.md",
     "DAILY/19-07-2021.md",
     "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
-    "DAILY/14-07-2021.md",
-    "Zettelkasten.md",
-    "How to Take Smart Notes.md",
-    "Untitled.md",
-    "P3KA.md"
+    "DAILY/14-07-2021.md"
   ]
 }

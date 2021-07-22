@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
@@ -10,3 +11,6 @@
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true
 }
+=======
+{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":10,"autoPullInterval":0,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":false,"showStatusBar":true}
+>>>>>>> 57ae4dccae203ce116040e608dba6035cc1c6f19

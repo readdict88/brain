@@ -1,0 +1,1 @@
+When we look at ideas, it is needed to take a look for their connections
