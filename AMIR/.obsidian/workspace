@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/14-07-2021.md",
+            "file": "DAILY/22-07-2021.md",
             "mode": "source"
           }
         }
@@ -55,6 +55,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d1120e79e3651fc4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY/14-07-2021.md",
+                "file": "DAILY/22-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +109,17 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "4197f8c6936dedc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -143,6 +162,7 @@
   },
   "active": "fdc89d1f7ff967bf",
   "lastOpenFiles": [
+    "DAILY/22-07-2021.md",
     "DAILY/14-07-2021.md",
     "DAILY/20-07-2021.md",
     "Untitled.md",
