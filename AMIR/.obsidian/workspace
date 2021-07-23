@@ -7,8 +7,11 @@
         "id": "1cce4026cf05f0f6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY/23-07-2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY/23-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +162,7 @@
   },
   "active": "1cce4026cf05f0f6",
   "lastOpenFiles": [
+    "DAILY/23-07-2021.md",
     "conflict-files-obsidian-git.md",
     "DAILY/14-07-2021.md",
     "DAILY/20-07-2021.md",
@@ -166,7 +171,6 @@
     "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
     "DAILY/19-07-2021.md",
     "Zettelkasten.md",
-    "How to Take Smart Notes.md",
-    "P3KA.md"
+    "How to Take Smart Notes.md"
   ]
 }
