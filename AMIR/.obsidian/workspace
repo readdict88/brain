@@ -10,6 +10,17 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "1d0636ec673a6334",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -130,8 +144,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2731822c9e29d5b7",
+  "active": "1d0636ec673a6334",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "DAILY/20-07-2021.md",
     "DAILY/23-07-2021.md",
     "DAILY/22-07-2021.md",
@@ -140,7 +155,6 @@
     "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
     "Untitled.md",
     "ZETTELKASTEN/2. SOURCE NOTE/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "DAILY/19-07-2021.md"
   ]
 }
