@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1cce4026cf05f0f6",
+        "id": "1b064b3d2db7cc94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY/23-07-2021.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bfb6140c4bf7960d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "ZETTELKASTEN/1. RANDOM NOTE/202107232040.md",
             "mode": "source"
           }
         }
@@ -95,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ZETTELKASTEN/1. RANDOM NOTE/202107232040.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +119,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3750967488d4403",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZETTELKASTEN/1. RANDOM NOTE/202107232040.md"
               }
             }
           }
@@ -171,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfb6140c4bf7960d",
+  "active": "1b064b3d2db7cc94",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "DAILY/23-07-2021.md",
+    "ZETTELKASTEN/1. RANDOM NOTE/202107232040.md",
     "DAILY/14-07-2021.md",
+    "DAILY/23-07-2021.md",
+    "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
+    "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
+    "conflict-files-obsidian-git.md",
     "DAILY/20-07-2021.md",
     "DAILY/22-07-2021.md",
     "Untitled.md",
-    "DAILY/14-07-2021 UST HUDAYA WAFAT.md",
-    "DAILY/19-07-2021.md",
-    "Zettelkasten.md",
-    "How to Take Smart Notes.md"
+    "DAILY/14-07-2021 UST HUDAYA WAFAT.md"
   ]
 }
