@@ -1,4 +1,16 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Cybertron"
+  "baseFontSize": 20,
+  "cssTheme": "Moonlight",
+  "enabledCssSnippets": [
+    "list",
+    "check",
+    "hyphen",
+    "quote",
+    "enlarge",
+    "image-adjustments-by-SIRvb",
+    "kanban-css-by-SIRvb",
+    "sliding-panes-No-Gradient",
+    "rtl"
+  ],
+  "theme": "obsidian"
 }
