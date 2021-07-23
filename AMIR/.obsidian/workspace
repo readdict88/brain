@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
+            "file": "DAILY/14-07-2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
+                "file": "DAILY/14-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,8 +93,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md"
+                "file": "DAILY/14-07-2021.md"
               }
+            }
+          },
+          {
+            "id": "7a2cd4018fc367a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -130,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,6 +147,7 @@
   },
   "active": "2731822c9e29d5b7",
   "lastOpenFiles": [
+    "DAILY/14-07-2021.md",
     "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
     "ZETTELKASTEN/2. SOURCE NOTE/How To Take Smart Notes.md",
     "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
@@ -146,7 +156,6 @@
     "DAILY/23-07-2021.md",
     "DAILY/22-07-2021.md",
     "Untitled.md",
-    "ZETTELKASTEN/2. SOURCE NOTE/Untitled.md",
-    "DAILY/19-07-2021.md"
+    "ZETTELKASTEN/2. SOURCE NOTE/Untitled.md"
   ]
 }
