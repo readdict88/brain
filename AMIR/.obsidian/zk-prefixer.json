@@ -1,3 +1,5 @@
 {
-  "folder": "ZETTELKASTEN/1. RANDOM NOTE"
+  "folder": "ZETTELKASTEN/1. RANDOM NOTE",
+  "format": "DD-MM-YY HH.mm",
+  "template": "Zettel Template"
 }
