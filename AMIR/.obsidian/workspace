@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
+            "file": "DAILY/24-07-2021.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
+                "file": "DAILY/24-07-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md"
+                "file": "DAILY/24-07-2021.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "b55227d0d8dba542",
   "lastOpenFiles": [
+    "DAILY/24-07-2021.md",
     "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md",
     "ZETTELKASTEN/2. SOURCE NOTE/How To Take Smart Notes.md",
     "ZETTELKASTEN/1. RANDOM NOTE/23-07-21 21.06.md",
@@ -156,7 +157,6 @@
     "ZETTELKASTEN/1. RANDOM NOTE/202107221431.md",
     "ZETTELKASTEN/1. RANDOM NOTE/202107232040.md",
     "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "DAILY/20-07-2021.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
