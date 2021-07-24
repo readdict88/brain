@@ -1,10 +1,17 @@
-### Content
+**Content:**
 
+[put here]
 
+---
+**Reference**
+[bookname]
 
+---
+**tag**
+[tag]
 
-#### Reference
+---
 
-##### tag
-
-**LINKS**
+**LINKS, see also:**
+- [link1]
+- [link2]
