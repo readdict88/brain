@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+            "file": "templates/Zettel Template.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+                "file": "templates/Zettel Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md"
+                "file": "templates/Zettel Template.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "1f3c5d3ecfe71ba7",
   "lastOpenFiles": [
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "templates/Untitled.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-25 11.53.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Ideas need revision.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md",
     "ZETTELKASTEN/Zettel Template.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md",
     "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
-    "DAILY-INBOX/24-07-2021.md",
-    "ZETTELKASTEN/1. RANDOM NOTE/23-07-21 21.06.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-25 11.53.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+    "Untitled.md",
+    "templates/Untitled.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/Ideas need revision.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md"
   ]
 }
