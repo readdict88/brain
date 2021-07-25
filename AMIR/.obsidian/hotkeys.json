@@ -7,6 +7,15 @@
       "key": "`"
     }
   ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
   "obsidian-git:push": [
     {
       "modifiers": [
@@ -14,21 +23,6 @@
         "Shift"
       ],
       "key": "S"
-    }
-  ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Z"
     }
   ]
 }
