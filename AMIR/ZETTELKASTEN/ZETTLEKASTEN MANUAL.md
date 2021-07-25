@@ -56,7 +56,7 @@ It is important to reflect on the purpose of these different types of notes. Fle
 
 Most ideas will not stand the test of time, while others might become the seed for a major project. Unfortunately, they are not easy to distinguish right away. That is why the threshold to write an idea down has to be as low as possible, but it is equally crucial to elaborate on them within a day or two. A good indication that a note has been left unprocessed too long is when you no longer understand what you meant or it appears banal. In the first case, you forgot what it was supposed to remind you of. In the second case, you forgot the context that gave it its meaning.
 
-The only permanently stored notes are the literature notes in the reference system and the main notes in the slip-box. The former can be very brief as the context is clearly the text they refer to. The latter need be written with more care and details as they need to be self-explanatory. Luhmann never underlined sentences in the text he read or wrote comments in the margins. All he did was take brief notes about the ideas that caught his attention in a text on a separate piece of paper: “I make a note with the bibliographic details. On the backside I would write ‘on page x is this, on page y is that,’ and then it goes into the bibliographic slip-box where I collect everything I read.” (Hagen, 1997)[13] But before he stored them away, he would read what he noted down during the day, think about its relevance for his own lines of thought and write about it, filling his main slip-box with permanent notes. Nothing in this box would ever get thrown away. Some notes might disappear into the background and never catch his attention again, while others might become connection points to various lines of reasoning and reappear on a regular basis in various contexts.
+The only permanently stored notes are the literature notes in the reference system and the main notes in the slip-box. The former can be very brief as the context is clearly the text they refer to. The latter need be written with more care and details as they need to be self-explanatory. Luhmann never underlined sentences in the text he read or wrote comments in the margins. All he did was take brief notes about the ideas that caught his attention in a text on a separate piece of paper: “I make a note with the bibliographic details. On the backside I would write ‘on page *x* is this, on page *y* is that,’ and then it goes into the bibliographic slip-box where I collect everything I read.” (Hagen, 1997)[13] But before he stored them away, he would read what he noted down during the day, think about its relevance for his own lines of thought and write about it, filling his main slip-box with permanent notes. Nothing in this box would ever get thrown away. Some notes might disappear into the background and never catch his attention again, while others might become connection points to various lines of reasoning and reappear on a regular basis in various contexts.
 
 As it is not possible to foresee the development of the slip-box, the fate of the notes is nothing to worry about. In contrast to the fleeting notes, every permanent note for the slip-box is elaborated enough to have the potential to become part of or inspire a final written piece, but that can not be decided on up front as their relevance depends on future thinking and developments. The notes are no longer reminders of thoughts orideas, but contain the actual thought or idea in written form. This is a crucial difference.
 
@@ -66,13 +66,13 @@ The last type of note, the ones that are related to only one specific project, a
 
 ---
 ## Project-related notes can be:
-·      comments in the manuscript
-·      collections of project-related literature
-·      outlines
-·      snippets of drafts
-·      reminders
-·      to-do lists
-·      and of course the draft itself.
+· comments in the manuscript
+· collections of project-related literature
+· outlines
+· snippets of drafts
+· reminders
+· to-do lists
+· and of course the draft itself.
 
 The Zettelkasten has the built-in function of project-specific desktops. Here, you can not only structure your thoughts and conceptualise the chapters of your draft, but also collect and sort the notes for this specific project without fear that they will water down or interfere with the slip-box itself. You can even change the notes according to your project without affecting the notes in the slip-box.
 
