@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "32dfc57448d9e98b",
+        "id": "1f3c5d3ecfe71ba7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md",
+            "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md",
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md"
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32dfc57448d9e98b",
+  "active": "1f3c5d3ecfe71ba7",
   "lastOpenFiles": [
-    "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Ideas need revision.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+    "templates/Untitled.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-25 11.53.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/Ideas need revision.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/21-07-25 08.43.md",
     "ZETTELKASTEN/Zettel Template.md",
     "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
     "DAILY-INBOX/24-07-2021.md",
-    "ZETTELKASTEN/1. RANDOM NOTE/23-07-21 21.06.md",
-    "Zettel Template.md",
-    "DAILY/24-07-2021.md"
+    "ZETTELKASTEN/1. RANDOM NOTE/23-07-21 21.06.md"
   ]
 }
