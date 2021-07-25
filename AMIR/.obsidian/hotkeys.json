@@ -21,7 +21,14 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Numpad0"
+      "key": "E"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }
