@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "ZETTELKASTEN/MANUAL.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -172,15 +172,15 @@
   },
   "active": "e66dc5dcc304eb60",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ZETTELKASTEN/MANUAL.md",
+    "ZETTELKASTEN/Zettel Template.md",
+    "ZETTELKASTEN/1. LITERATURE NOTE/21-07-25 08.43.md",
     "ZETTELKASTEN/1. LITERATURE NOTE/2107250831.md",
+    "Untitled.md",
     "ZETTELKASTEN/1. LITERATURE NOTE/23-07-21 21.06.md",
     "ZETTELKASTEN/1. LITERATURE NOTE/2507210830.md",
     "ZETTELKASTEN/1. LITERATURE NOTE/2507210831.md",
     "ZETTELKASTEN/1. LITERATURE NOTE/25-07-21 08.29.md",
-    "Zettel Template.md",
-    "conflict-files-obsidian-git.md",
-    "DAILY/24-07-2021.md",
-    "ZETTELKASTEN/3. PERMANENT NOTE/Ideas need revision.md"
+    "Zettel Template.md"
   ]
 }
