@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ztemplates/INDEX NOTES.md",
+            "file": "ztemplates/SOURCE-REFERENCE.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ztemplates/INDEX NOTES.md",
+                "file": "ztemplates/SOURCE-REFERENCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ztemplates/INDEX NOTES.md"
+                "file": "ztemplates/SOURCE-REFERENCE.md"
               }
             }
           },
@@ -148,10 +148,10 @@
   },
   "active": "1f3c5d3ecfe71ba7",
   "lastOpenFiles": [
+    "ztemplates/SOURCE-REFERENCE.md",
     "ztemplates/Untitled.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-25 11.53.md",
     "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
-    "ztemplates/SOURCE-REFERENCE.md",
     "ztemplates/Zettel Template.md",
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
