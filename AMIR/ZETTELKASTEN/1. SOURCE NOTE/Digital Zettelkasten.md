@@ -1,4 +1,4 @@
-Title:How to Take Smart Notes - Sonke Ahrens
+Title:
 Author:
 Publisher, Publisher:
 Year:
