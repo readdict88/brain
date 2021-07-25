@@ -15,5 +15,13 @@
       ],
       "key": "S"
     }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
   ]
 }
