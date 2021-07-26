@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
+            "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md"
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md"
               }
             }
           },
@@ -148,6 +148,8 @@
   },
   "active": "289fda33eff2f1f8",
   "lastOpenFiles": [
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md",
     "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-26 14.11.md",
@@ -155,8 +157,6 @@
     "ztemplates/Zettel Template.md",
     "ztemplates/Source-Ref Template.md",
     "TULISAN UST HUDAYA.md",
-    "ztemplates/SOURCE-REFERENCE.md",
-    "ztemplates/Untitled.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
+    "ztemplates/SOURCE-REFERENCE.md"
   ]
 }
