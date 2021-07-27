@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20976e1b17451191",
+        "id": "42d02f6488e68010",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "TULISAN UST HUDAYA.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TULISAN UST HUDAYA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TULISAN UST HUDAYA.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,8 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20976e1b17451191",
+  "active": "42d02f6488e68010",
   "lastOpenFiles": [
+    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-27 22.25.md",
+    "TULISAN UST HUDAYA.md",
     "Untitled.md",
     "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md",
     "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
@@ -179,8 +175,6 @@
     "ztemplates/Source-Ref Template.md",
     "ztemplates/Index Template.md",
     "DAILY-INBOX-FLEETING/25-07-2021.md",
-    "DAILY-INBOX-FLEETING/14-07-2021.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-25 11.53.md",
-    "ZETTELKASTEN/ZETTLEKASTEN MANUAL.md"
+    "DAILY-INBOX-FLEETING/14-07-2021.md"
   ]
 }
