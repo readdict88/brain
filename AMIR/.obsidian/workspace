@@ -10,6 +10,17 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "dcc0ec3a7d5e0e9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -164,8 +178,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42d02f6488e68010",
+  "active": "dcc0ec3a7d5e0e9a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-27 22.25.md",
     "TULISAN UST HUDAYA.md",
     "Untitled.md",
@@ -174,7 +189,6 @@
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ztemplates/Source-Ref Template.md",
     "ztemplates/Index Template.md",
-    "DAILY-INBOX-FLEETING/25-07-2021.md",
-    "DAILY-INBOX-FLEETING/14-07-2021.md"
+    "DAILY-INBOX-FLEETING/25-07-2021.md"
   ]
 }
