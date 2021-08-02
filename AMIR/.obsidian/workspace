@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42d02f6488e68010",
+        "id": "99c27ce19815d0a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42d02f6488e68010",
+  "active": "99c27ce19815d0a7",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/25-07-2021.md",
+    "ztemplates/Source-Ref Template.md",
+    "ztemplates/Zettel Template.md",
+    "ztemplates/Index Template.md",
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-27 22.25.md",
     "TULISAN UST HUDAYA.md",
     "Untitled.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "ztemplates/Source-Ref Template.md",
-    "ztemplates/Index Template.md",
-    "DAILY-INBOX-FLEETING/25-07-2021.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md"
   ]
 }
