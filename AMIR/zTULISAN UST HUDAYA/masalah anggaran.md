@@ -6,4 +6,7 @@ Dulu kelas 6 saya merupakan musikus angkatan, menjadi keyboardis dan gitaris, se
 
 Tahun pertama pengabdian, saya dapat amanah mengurus majalah An-Nahdhah internal pondok, tulisan dari guru dan santri untuk santri juga. Sangat senang sekali saya dapat akses komputer dan internet kencang di zamannya saat itu. Hobi saya oprek software settings dan multimedia sekaligus menulis tersalurkan dengan klimaks di bagian An-Nahdhah. Bersama ust Ridha Sadiq dan ust Muhlas saya berhasil menerbitkan sekian edisi majalah, bahkan sukses mendaftarkan nomor ISBN dengan usaha sendiri.
 
-Dekat dengan ust Muhlas, saya tahu bahwa musik adalah 
+Dekat dengan ust Muhlas, saya tahu bahwa musik itu hukumnya mulhiy, melalaikan. Saya  sendiri juga punya target saat itu untuk mengejar beasiswa Madinah melalui muqabalah yang dulu cukup sering diadakan di Gontor 2. Sempat ingin main ke studio, namun seringkali merasa segan dengan dominasi senior di sana. Walhasil, saya memutuskan berhenti bermusik dalam setahun. Meski beberapa kali masih sempat bermain dengan Ust Haris dan Ust Firjon mengiringi SAHARA (Shalawat Hadrah Gontor 2). Bahkan mencoba mulai rekaman dengan alat seadanya, di situlah semangat untuk membangun studio rekaman muncul... Agak aneh memang, berhenti tapi tetap ada semangat.
+
+
+
