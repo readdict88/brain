@@ -7,8 +7,11 @@
         "id": "99c27ce19815d0a7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/02-08-2021.md"
+              }
             }
           }
         ],
@@ -166,6 +172,7 @@
   },
   "active": "99c27ce19815d0a7",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/02-08-2021.md",
     "DAILY-INBOX-FLEETING/25-07-2021.md",
     "ztemplates/Source-Ref Template.md",
     "ztemplates/Zettel Template.md",
@@ -174,7 +181,6 @@
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-27 22.25.md",
     "TULISAN UST HUDAYA.md",
-    "Untitled.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md"
+    "Untitled.md"
   ]
 }
