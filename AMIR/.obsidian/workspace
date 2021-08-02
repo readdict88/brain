@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "99c27ce19815d0a7",
+        "id": "37bd0d7db7e9e7b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
-            "mode": "preview"
+            "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,12 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/02-08-2021.md"
+                "file": "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3ada7853d6cb7953",
@@ -170,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99c27ce19815d0a7",
+  "active": "37bd0d7db7e9e7b3",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/02-08-2021.md",
-    "DAILY-INBOX-FLEETING/25-07-2021.md",
-    "ztemplates/Source-Ref Template.md",
-    "ztemplates/Zettel Template.md",
-    "ztemplates/Index Template.md",
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
-    "conflict-files-obsidian-git.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-27 22.25.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-26 14.11.md",
+    "DAILY-INBOX-FLEETING/14-07-2021.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/21-08-02 22.56.md",
+    "ztemplates/Index Template.md",
+    "ztemplates/Zettel Template.md",
     "TULISAN UST HUDAYA.md",
-    "Untitled.md"
+    "DAILY-INBOX-FLEETING/02-08-2021.md",
+    "DAILY-INBOX-FLEETING/25-07-2021.md"
   ]
 }
