@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37bd0d7db7e9e7b3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "0944eab3e47ea173",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/14-07-2021.md",
+            "file": "zTULISAN UST HUDAYA/masalah anggaran.md",
             "mode": "source"
           }
         }
@@ -79,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -96,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/02-08-2021.md",
+                "file": "zTULISAN UST HUDAYA/masalah anggaran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/02-08-2021.md"
+                "file": "zTULISAN UST HUDAYA/masalah anggaran.md"
               }
             }
           },
@@ -187,19 +175,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37bd0d7db7e9e7b3",
+  "active": "0944eab3e47ea173",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/02-08-2021.md",
+    "TULISAN UST HUDAYA/Untitled.md",
     "DAILY-INBOX-FLEETING/14-07-2021.md",
+    "TULISAN UST HUDAYA.md",
+    "DAILY-INBOX-FLEETING/02-08-2021.md",
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-07-26 14.11.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/21-08-02 22.56.md",
     "ztemplates/Index Template.md",
-    "ztemplates/Zettel Template.md",
-    "TULISAN UST HUDAYA.md",
-    "DAILY-INBOX-FLEETING/25-07-2021.md"
+    "ztemplates/Zettel Template.md"
   ]
 }
