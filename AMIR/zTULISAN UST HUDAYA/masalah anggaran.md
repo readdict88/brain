@@ -1,6 +1,6 @@
 "Kamu jangan bandingkan Gontor 2 dengan Gontor Pusat yang sudah 90 tahun!! Dulu terbatas fasilitas saja bisa maju", bentak ust Hudaya saat saya mengajukan komputer super mahal untuk kebutuhan studio dengan alasan "Gontor Pusat seperti ini speknya ustadz.."
 
-# SEJARAH GORDA RECORDING STUDIO
+# IHSAN UST HUDAYA KEPADA STUDIO
 Dulu kelas 6 saya merupakan musikus angkatan, menjadi keyboardis dan gitaris, sekaligus arranger-composer, ala kadarnya. Bersama 5 orang lain, kami namai grup musik dengan nama MAGNETIC (Smart Generation Unity of Music). Alhamdulillah kami berhasil menelurkan 10 lagu untuk satu album kelas 6, dan 10 lagu lain yang belum terekam menjadi album di masa pengabdian. Sampai sekarang hubungan kami masih terjalin dengan sangat baik.
 
 Tahun pertama pengabdian, saya dapat amanah mengurus majalah An-Nahdhah internal pondok, tulisan dari guru dan santri untuk santri juga. Sangat senang sekali saya dapat akses komputer dan internet kencang di zamannya saat itu. Hobi saya oprek software settings dan multimedia sekaligus menulis tersalurkan dengan klimaks di bagian An-Nahdhah. Bersama ust Ridha Sadiq dan ust Muhlas saya berhasil menerbitkan sekian edisi majalah, bahkan sukses mendaftarkan nomor ISBN dengan usaha sendiri.
@@ -21,7 +21,16 @@ Tahun ketiga pengabdian, studio semakin produktif dengan mulai produksi rekaman 
 
 Akhirnya saya mencoba ajukan alat satu per satu bagian. Pertama, komputer spek "dewa" di zamannya dengan budget 15 juta. Core i5 3570K dengan RAM 4x4GB, cukup mewah dibanding komputer yang ada di bagian lain. Selanjutnya, upgrade VGA dan power conditioner plus UPS. Selang beberapa bulan, meja studio dan mic. Semua saya hitung malah totalnya lebih dari ajuan awal 25 juta. Saya dapat simpulkan di sini, jika Ust Hudaya sudah memberi kepercayaan, segalanya akan diberikan dengan penuh amanah. Maka saya merasa hutang budi besar studio kepada beliau. Setiap pertemuan santri dimotivasi agar berkarya lebih sebagai bentuk balas budi atas segala kebaikan ust Hudaya kepada kami. 
 
-Studio dirombak sebagai wakaf guru pengabdian Prestigious Generation. Dana awal dari wakaf adalah 10 juta, namun akhirnya membengkak menjadi 70 juta ditambah dari dana pondok. Dua buah AC dipasang luar-dalam dengan kekuatan masing-masing 3 PK, sangat berlebih dari kebutuhan. Televisi 50 inch dibeli dan dipasang dalam studio. Semua fasilitas dipenuhi agar santri dapat tersalurkan bakatnya di studio. Sekali lagi, amanah untuk menjaga dan peduli pun terus digaungkan beliau dalam setiap kesempatan kami melapor. 
+Studio dirombak sebagai wakaf guru pengabdian Prestigious Generation. Dana awal dari wakaf adalah 10 juta, namun akhirnya membengkak menjadi 70 juta ditambah dari dana pondok. Dua buah AC dipasang luar-dalam dengan kekuatan masing-masing 3 PK, sangat berlebih dari kebutuhan. Televisi 50 inch dibeli dan dipasang dalam studio. Semua fasilitas dipenuhi agar santri dapat tersalurkan bakatnya di studio. Sekali lagi, amanah untuk menjaga dan peduli pun terus digaungkan beliau dalam setiap kesempatan kami melapor. Terakhir, kami mengajukan soundsystem dari subwoofer dan satelite monitor dengan total 35 juta. Maasyaa Allah..
+
+Ada kisah lucu saat membeli soundsystem mahal itu. Pertama kali, saya ajukan anggaran lewat ust Izzi staf ADM sekaligus pembimbing studio. Setelah anggaran cair, ternyata saya salah strategi. Saya sangat terbiasa beli Online. 70 persen alat studio dibeli online. Namun ternyata saat itu belum chat memastikan ketersediaan barang dan akhirnya transaksi batal begitu saja. Beliau menanyakan berkali-kali nasib anggaran yang tak terbeli itu. Ingin menjawab namun lidah kelu tiada berucap. Walhasil, anggaran dicabut dengan kekecewaan dari ust Hudaya. Maafkan saya ustadz.. 
+
+Dari situ, saya menggaet staf CID, ust Amar dan ust Daniel. Saya jelaskan masalahnya, lalu diarahkan untuk membeli offline di toko langganan mereka. Akhirnya saya survey sendiri dengan telepon berbagai toko, survey sound terbaik sesuai budget, dan kembali mengajukan ke beliau sekian bulan berselang. Alhamdulillah, kami dapat soundsystem sangat baik. Subwoofer Behringer dipadu dengan satellite monitor dari Turbosound, anak cabang Behringer juga. Sound ini sempat kami pakai di acara walimah ust Sunanto, berhasil membawa nama baik Gontor 2 di kalangan guru-guru senior. Bahkan, ust Hudaya pun tidak segan untuk menawarkan kami sebagai hiburan live show di setiap pernikahan anak-anak guru senior, lengkap dengan soundsystem nya. SAHARA pun tampil membawakan hadrah lengkap dengan dangdut dan nasyid maupun qasidahnya. Beberapa video dapat dilihat di channel Youtube ust Haris Arfiansyah. Sungguh kenangan tak terlupakan..
+
+Dengan alat semewah itu, Gontor 2 tertuntut untuk 
+
+# KEY VALUES
+- Fasilitas 
 
 
 
