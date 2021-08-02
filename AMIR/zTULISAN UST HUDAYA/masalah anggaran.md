@@ -23,14 +23,20 @@ Akhirnya saya mencoba ajukan alat satu per satu bagian. Pertama, komputer spek "
 
 Studio dirombak sebagai wakaf guru pengabdian Prestigious Generation. Dana awal dari wakaf adalah 10 juta, namun akhirnya membengkak menjadi 70 juta ditambah dari dana pondok. Dua buah AC dipasang luar-dalam dengan kekuatan masing-masing 3 PK, sangat berlebih dari kebutuhan. Televisi 50 inch dibeli dan dipasang dalam studio. Semua fasilitas dipenuhi agar santri dapat tersalurkan bakatnya di studio. Sekali lagi, amanah untuk menjaga dan peduli pun terus digaungkan beliau dalam setiap kesempatan kami melapor. Terakhir, kami mengajukan soundsystem dari subwoofer dan satelite monitor dengan total 35 juta. Maasyaa Allah..
 
-Ada kisah lucu saat membeli soundsystem mahal itu. Pertama kali, saya ajukan anggaran lewat ust Izzi staf ADM sekaligus pembimbing studio. Setelah anggaran cair, ternyata saya salah strategi. Saya sangat terbiasa beli Online. 70 persen alat studio dibeli online. Namun ternyata saat itu belum chat memastikan ketersediaan barang dan akhirnya transaksi batal begitu saja. Beliau menanyakan berkali-kali nasib anggaran yang tak terbeli itu. Ingin menjawab namun lidah kelu tiada berucap. Walhasil, anggaran dicabut dengan kekecewaan dari ust Hudaya. Maafkan saya ustadz.. 
+Ada kisah konyol saat membeli soundsystem mahal itu. Pertama kali, saya ajukan anggaran lewat ust Izzi staf ADM sekaligus pembimbing studio. Setelah anggaran cair, ternyata saya salah strategi. Saya sangat terbiasa beli Online. 70 persen alat studio dibeli online. Namun ternyata saat itu belum chat memastikan ketersediaan barang dan akhirnya transaksi batal begitu saja. Beliau menanyakan berkali-kali nasib anggaran yang tak terbeli itu. Ingin menjawab namun lidah kelu tiada berucap. Walhasil, anggaran dicabut dengan kekecewaan dari ust Hudaya. Maafkan saya ustadz.. 
 
 Dari situ, saya menggaet staf CID, ust Amar dan ust Daniel. Saya jelaskan masalahnya, lalu diarahkan untuk membeli offline di toko langganan mereka. Akhirnya saya survey sendiri dengan telepon berbagai toko, survey sound terbaik sesuai budget, dan kembali mengajukan ke beliau sekian bulan berselang. Alhamdulillah, kami dapat soundsystem sangat baik. Subwoofer Behringer dipadu dengan satellite monitor dari Turbosound, anak cabang Behringer juga. Sound ini sempat kami pakai di acara walimah ust Sunanto, berhasil membawa nama baik Gontor 2 di kalangan guru-guru senior. Bahkan, ust Hudaya pun tidak segan untuk menawarkan kami sebagai hiburan live show di setiap pernikahan anak-anak guru senior, lengkap dengan soundsystem nya. SAHARA pun tampil membawakan hadrah lengkap dengan dangdut dan nasyid maupun qasidahnya. Beberapa video dapat dilihat di channel Youtube ust Haris Arfiansyah. Sungguh kenangan tak terlupakan..
 
-Dengan alat semewah itu, Gontor 2 tertuntut untuk 
+Dengan alat semewah itu, Gontor 2 tertuntut untuk berkarya lebih baik. Ust Hudaya berkali-kali mengingatkan agar santri berbakat diberi wadah untuk mengembangkan diri di studio. Rekrutmen tidak perlu dibuat rumit, cukup dibawa ke studio, diuji, dikenalkan, lalu dilibatkan setiap kegiatan, sehingga santri betah nyaman dan akhirnya mau berjuang. 
+
+Penggunaan satu studio ini sering jadi permasalahan. Ketika masa-masa sibuk P3KA, studio tidak pernah sepi dari latihan. Rebutan pun kerap terjadi, antara SAHARA, Band, MAHADASA, Nasyid, dan tentunya Dangdut di bawah bendera AN-NADWAH (Alunan Nada dan Dakwah). Ketika kami sampaikan, beliau menekankan solusi penjadwalan yang jelas dan disiplin. Latihan harus dalam keadaan sudah menguasai alat masing-masing. Gitaris hafal kunci, drummer menguasai beat lagu, keyboardis kuasai solo intro, dan tentunya vokalis hafal lirik. Jadwal pun harus ditepati on time. Tidak boleh ada terlambat dan bermain-main sendiri tanpa tujuan. Harus ada band leader yang mengatur jalannya latihan, mengoreksi kesalahan, memberi solusi, dan seterusnya. Sehingga rebutan studio pun tidak akan terjadi. 
 
 # KEY VALUES
-- Fasilitas 
+- Fasilitas hanya alat, SDM adalah kunci utama kemajuan
+- Majunya SDM perlu dengan disiplin dan tanamkan rasa kepemilikan dan tanggungjawab
+- Jangan mudah-mudah kiblat ke Gontor dalam setiap pergerakan. Lihat kondisi yang terjadi, analisa, dan beri solusi tepat dan terbaik.
+- Amanah itu mahal, jika rusak tidak akan mudah didapat kembali
+- 
 
 
 
