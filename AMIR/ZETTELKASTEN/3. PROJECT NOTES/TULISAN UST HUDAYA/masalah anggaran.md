@@ -37,7 +37,6 @@ Penggunaan satu studio ini sering jadi permasalahan. Ketika masa-masa sibuk P3KA
 - Jangan mudah-mudah kiblat ke Gontor dalam setiap pergerakan. Lihat kondisi yang terjadi, analisa, dan beri solusi tepat dan terbaik.
 - Amanah itu mahal, jika rusak tidak akan mudah didapat kembali
 - Menanamkan nilai harus dibicarakan seribu kali
-- 
 
 
 
