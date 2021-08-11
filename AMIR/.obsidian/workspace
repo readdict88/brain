@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md"
               }
             }
           },
@@ -180,15 +181,15 @@
   },
   "active": "0944eab3e47ea173",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
     "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
     "ZETTELKASTEN/3. PROJECT NOTES/THESIS INDEX.md",
     "zTULISAN UST HUDAYA/masalah anggaran.md",
     "TULISAN UST HUDAYA/Untitled.md",
     "DAILY-INBOX-FLEETING/14-07-2021.md",
     "TULISAN UST HUDAYA.md",
     "DAILY-INBOX-FLEETING/02-08-2021.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/21-07-26 14.11.md"
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
   ]
 }
