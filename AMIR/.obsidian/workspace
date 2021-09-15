@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8fe59f69e1a723",
+        "id": "101b1349340db328",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "3ada7853d6cb7953",
@@ -176,20 +176,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 100,
     "collapsed": true
   },
-  "active": "4f8fe59f69e1a723",
+  "active": "101b1349340db328",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-08-22 13.19 Psikologi Kepo.md",
-    "DAILY-INBOX-FLEETING/2021-09-06.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-06 21.42.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
-    "DAILY-INBOX-FLEETING/2021-08-22.md"
+    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-06 21.42.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-16 05.15.md",
+    "DAILY-INBOX-FLEETING/2021-09-16.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-08-22 13.19 Psikologi Kepo.md"
   ]
 }
