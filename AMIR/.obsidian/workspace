@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md"
               }
             }
           },
@@ -181,8 +180,8 @@
   },
   "active": "101b1349340db328",
   "lastOpenFiles": [
-    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
     "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
