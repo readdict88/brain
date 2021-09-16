@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
               }
             }
           },
@@ -175,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 776.5
   },
   "active": "101b1349340db328",
   "lastOpenFiles": [
