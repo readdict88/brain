@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+            "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "101b1349340db328",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-09-19.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم 12-8.md",
     "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-08-22 13.19 Psikologi Kepo.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
+    "DAILY-INBOX-FLEETING/2021-08-22.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-06 21.42.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-16 05.15.md",
-    "DAILY-INBOX-FLEETING/2021-09-16.md"
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
   ]
 }
