@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a6193f46eaffe5a8",
+        "id": "1d1c454e9427d294",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2021-09-20.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -61,13 +64,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -83,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2021-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2021-09-20.md"
+              }
             }
           },
           {
@@ -158,8 +162,10 @@
     "width": 256.5,
     "collapsed": true
   },
-  "active": "a6193f46eaffe5a8",
+  "active": "1d1c454e9427d294",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-09-20.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-20 14.29.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
@@ -167,8 +173,6 @@
     "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-    "Format your notes.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 11.42.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
   ]
 }
