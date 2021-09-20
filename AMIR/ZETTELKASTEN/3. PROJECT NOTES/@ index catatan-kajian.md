@@ -1,5 +1,5 @@
 # KUMPUL:
-1. [[2021-08-22#^c9dab8|Kumpul Prodi Ust Harda]]
+1. [[2021-08-22#^1b978a|Kumpul Prodi Ust Harda]]
 2. [[2021-09-19#MONITORING DOKTORAL S3|Monitoring S3]]
 3. [[2021-09-19#MEETING WEB 2021-09-19|Meeting Web]]
 
