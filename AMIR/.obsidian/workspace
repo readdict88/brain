@@ -4,51 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f655b4200453e33",
-        "type": "split",
-        "children": [
-          {
-            "id": "cfbd57cba87106bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "407d05558ebbd6b7",
-            "type": "split",
-            "children": [
-              {
-                "id": "c574e2b082427ac0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
-                    "mode": "preview"
-                  }
-                }
-              },
-              {
-                "id": "0a8e34b2b0931bec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-                    "mode": "preview"
-                  }
-                }
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical"
+        "id": "a6193f46eaffe5a8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inde",
+                "query": "hudaya",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,17 +158,17 @@
     "width": 256.5,
     "collapsed": true
   },
-  "active": "cfbd57cba87106bb",
+  "active": "a6193f46eaffe5a8",
   "lastOpenFiles": [
-    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
     "Format your notes.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 11.42.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 13.02.md",
-    "DAILY-INBOX-FLEETING/2021-09-06.md",
-    "ztemplates/Index Template.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 11.42.md"
   ]
 }
