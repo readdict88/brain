@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md"
               }
             }
           },
@@ -174,11 +174,11 @@
     "width": 256.5,
     "collapsed": true
   },
-  "active": "0a8e34b2b0931bec",
+  "active": "1aff64041d38071c",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
     "Format your notes.md",
