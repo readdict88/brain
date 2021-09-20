@@ -36,19 +36,17 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "["
     }
   ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "]"
     }
   ]
 }
