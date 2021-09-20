@@ -4,26 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "0a8e34b2b0931bec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-            "mode": "preview"
+        "id": "3f655b4200453e33",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfbd57cba87106bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "407d05558ebbd6b7",
+            "type": "split",
+            "children": [
+              {
+                "id": "c574e2b082427ac0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "0a8e34b2b0931bec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
           }
-        }
-      },
-      {
-        "id": "c574e2b082427ac0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -50,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the",
+                "query": "inde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md"
               }
             }
           },
@@ -174,12 +200,12 @@
     "width": 256.5,
     "collapsed": true
   },
-  "active": "c574e2b082427ac0",
+  "active": "cfbd57cba87106bb",
   "lastOpenFiles": [
-    "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
-    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "DAILY-INBOX-FLEETING/2021-09-19.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/@ index project thesis.md",
+    "DAILY-INBOX-FLEETING/2021-09-19.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
     "Format your notes.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 11.42.md",
