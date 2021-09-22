@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-08-22.md",
-            "mode": "preview"
+            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
+            "mode": "source"
           }
         }
       },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-22.md",
+                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-22.md"
+                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "1d1c454e9427d294",
   "lastOpenFiles": [
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
     "DAILY-INBOX-FLEETING/2021-08-22.md",
     "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
@@ -179,7 +180,6 @@
     "DAILY-INBOX-FLEETING/2021-09-20.md",
     "DAILY-INBOX-FLEETING/2021-08-02.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-20 14.29.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
   ]
 }
