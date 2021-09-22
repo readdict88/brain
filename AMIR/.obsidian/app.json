@@ -1,5 +1,5 @@
 {
-  "trashOption": "local",
+  "trashOption": "system",
   "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true

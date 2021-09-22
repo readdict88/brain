@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1c454e9427d294",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "6761f5dcd00bce19",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+            "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
             "mode": "preview"
           }
         }
@@ -75,13 +64,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md"
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md"
               }
             }
           },
@@ -169,17 +156,17 @@
     "width": 453,
     "collapsed": true
   },
-  "active": "1d1c454e9427d294",
+  "active": "6761f5dcd00bce19",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-09-19.md",
+    "DAILY-INBOX-FLEETING/2021-09-20.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-19 11.42.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-22 10.10.md",
     "DAILY-INBOX-FLEETING/2021-08-22.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/@ index catatan-kajian.md",
-    "DAILY-INBOX-FLEETING/2021-09-19.md",
     "DAILY-INBOX-FLEETING/2021-09-06.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "DAILY-INBOX-FLEETING/2021-09-20.md",
     "DAILY-INBOX-FLEETING/2021-08-02.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-20 14.29.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-09-20 14.29.md"
   ]
 }
