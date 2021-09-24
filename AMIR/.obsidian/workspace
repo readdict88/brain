@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "DAILY-INBOX-FLEETING/2021-08-02.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-02.md",
+                "file": "@ index catatan-kajian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-02.md"
+                "file": "@ index catatan-kajian.md"
               }
             }
           },
@@ -176,12 +177,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
-  "active": "6761f5dcd00bce19",
+  "active": "caf5f0bf3899023e",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2021-08-02.md",
     "@ index catatan-kajian.md",
+    "DAILY-INBOX-FLEETING/2021-08-02.md",
     "DAILY-INBOX-FLEETING/2021-07-14.md",
     "DAILY-INBOX-FLEETING/2021-09-20.md",
     "14-07-2021.md",
