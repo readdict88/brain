@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-09-25.md",
+            "file": "Format your notes.md",
             "mode": "source"
           }
         }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-09-25.md",
+                "file": "Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-09-25.md"
+                "file": "Format your notes.md"
               }
             }
           },
@@ -155,20 +155,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453,
-    "collapsed": true
+    "width": 453
   },
   "active": "112c154990048d7b",
   "lastOpenFiles": [
+    "Format your notes.md",
+    "DAILY-INBOX-FLEETING/2021-08-12.md",
+    "ztemplates/Zettel Template.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
     "DAILY-INBOX-FLEETING/2021-09-25.md",
     "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/2021-08-02.md",
     "DAILY-INBOX-FLEETING/2021-07-14.md",
     "DAILY-INBOX-FLEETING/2021-09-20.md",
-    "14-07-2021.md",
-    "DAILY-INBOX-FLEETING/2021-09-19.md",
-    "DAILY-INBOX-FLEETING/2021-09-23.md",
-    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "@ index project thesis.md"
+    "14-07-2021.md"
   ]
 }
