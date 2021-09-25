@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "112c154990048d7b",
+        "id": "506d6ce6ecdffa8e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Format your notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Format your notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +149,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
-  "active": "112c154990048d7b",
+  "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
     "Format your notes.md",
     "DAILY-INBOX-FLEETING/2021-08-12.md",
