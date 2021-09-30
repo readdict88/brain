@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "506d6ce6ecdffa8e",
+        "id": "58e09b9e52839d92",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-            "mode": "source"
+            "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "monitor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
+                "file": "DAILY-INBOX-FLEETING/2021-09-19.md"
               }
             }
           },
@@ -158,8 +158,9 @@
     "width": 453,
     "collapsed": true
   },
-  "active": "506d6ce6ecdffa8e",
+  "active": "58e09b9e52839d92",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-09-19.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
@@ -168,7 +169,6 @@
     "Format your notes.md",
     "DAILY-INBOX-FLEETING/2021-08-12.md",
     "ztemplates/Zettel Template.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "@ index catatan-kajian.md"
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md"
   ]
 }
