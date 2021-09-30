@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -159,6 +160,7 @@
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "DAILY-INBOX-FLEETING/2021-09-25.md",
     "Format your notes.md",
     "DAILY-INBOX-FLEETING/2021-08-12.md",
@@ -166,7 +168,6 @@
     "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
     "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/2021-08-02.md",
-    "DAILY-INBOX-FLEETING/2021-07-14.md",
-    "DAILY-INBOX-FLEETING/2021-09-20.md"
+    "DAILY-INBOX-FLEETING/2021-07-14.md"
   ]
 }
