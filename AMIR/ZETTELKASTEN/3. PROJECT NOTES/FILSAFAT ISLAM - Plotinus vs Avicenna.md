@@ -1,0 +1,1 @@
+Emanation is adopted by avicenna to fuse the original concept from Plotinus that consists of Aristetolian metaphysics and Plotinian to be  merged with the Islamic monotheistic conception. 
