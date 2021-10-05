@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
             "mode": "source"
           }
         }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "DAILY-INBOX-FLEETING/2021-09-25.md",
     "Format your notes.md",
     "DAILY-INBOX-FLEETING/2021-08-12.md",
-    "ztemplates/Zettel Template.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "@ index catatan-kajian.md",
-    "DAILY-INBOX-FLEETING/2021-08-02.md",
-    "DAILY-INBOX-FLEETING/2021-07-14.md"
+    "ztemplates/Zettel Template.md"
   ]
 }
