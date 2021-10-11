@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
+            "file": "DAILY-INBOX-FLEETING/2021-10-11.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
+                "file": "DAILY-INBOX-FLEETING/2021-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
+                "file": "DAILY-INBOX-FLEETING/2021-10-11.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-10-11.md",
     "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
@@ -167,7 +168,6 @@
     "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "DAILY-INBOX-FLEETING/2021-09-25.md",
-    "Format your notes.md",
-    "DAILY-INBOX-FLEETING/2021-08-12.md"
+    "Format your notes.md"
   ]
 }
