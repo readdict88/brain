@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
+            "file": "DAILY-INBOX-FLEETING/2021-10-11.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#muhasabah",
+                "query": "mon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
+                "file": "DAILY-INBOX-FLEETING/2021-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
+                "file": "DAILY-INBOX-FLEETING/2021-10-11.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,15 +159,15 @@
   },
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-10-11.md",
+    "DAILY-INBOX-FLEETING/2021-10-12.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2021-10-12 15.18.md",
+    "DAILY-INBOX-FLEETING/2021-09-19.md",
+    "@ index catatan-kajian.md",
     "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
     "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/Untitled.md",
-    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "DAILY-INBOX-FLEETING/2021-09-25.md",
-    "Format your notes.md",
-    "DAILY-INBOX-FLEETING/2021-08-12.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
   ]
 }

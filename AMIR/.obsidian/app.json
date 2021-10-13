@@ -2,5 +2,11 @@
   "trashOption": "system",
   "promptDelete": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "pdfExportSettings": {
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
