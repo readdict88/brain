@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-10-13.md",
-            "mode": "preview"
+            "file": "DAILY-INBOX-FLEETING/2021-11-02.md",
+            "mode": "source"
           }
         }
       }
@@ -49,14 +49,6 @@
             }
           },
           {
-            "id": "7a1d2ce695cf2983",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d1120e79e3651fc4",
             "type": "leaf",
             "state": {
@@ -86,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-10-13.md",
+                "file": "DAILY-INBOX-FLEETING/2021-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,14 +87,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          },
-          {
-            "id": "3535ebb68cc70f65",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -130,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-10-13.md"
+                "file": "DAILY-INBOX-FLEETING/2021-11-02.md"
               }
             }
           },
@@ -160,6 +144,7 @@
   },
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-11-02.md",
     "DAILY-INBOX-FLEETING/2021-10-13.md",
     "DAILY-INBOX-FLEETING/2021-10-11.md",
     "DAILY-INBOX-FLEETING/2021-10-12.md",
@@ -168,7 +153,6 @@
     "@ index catatan-kajian.md",
     "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
     "conflict-files-obsidian-git.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md"
   ]
 }
