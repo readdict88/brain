@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-11-04.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-11-04.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-11-04.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
               }
             }
           },
@@ -143,6 +142,7 @@
   },
   "active": "506d6ce6ecdffa8e",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
     "DAILY-INBOX-FLEETING/2021-11-04.md",
     "DAILY-INBOX-FLEETING/2021-11-02.md",
     "DAILY-INBOX-FLEETING/2021-10-13.md",
@@ -151,7 +151,6 @@
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-10-12 15.18.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
     "@ index catatan-kajian.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
-    "conflict-files-obsidian-git.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
   ]
 }
