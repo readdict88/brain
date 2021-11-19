@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
+            "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md"
+                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md"
               }
             }
           },
@@ -142,6 +141,7 @@
   },
   "active": "3ea2aa78f114466d",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
     "DAILY-INBOX-FLEETING/2021-10-13.md",
     "conflict-files-obsidian-git.md",
@@ -150,7 +150,6 @@
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-10-12 15.18.md",
     "DAILY-INBOX-FLEETING/2021-09-19.md",
     "@ index catatan-kajian.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/إحياء علوم الدين.md"
+    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
   ]
 }
