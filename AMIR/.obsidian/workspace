@@ -88,14 +88,6 @@
             }
           },
           {
-            "id": "e1980528ec41567b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "4197f8c6936dedc9",
             "type": "leaf",
             "state": {
@@ -117,18 +109,18 @@
             }
           },
           {
-            "id": "171b97156aa56fa1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "ed4f7ef44cbe5f0b",
             "type": "leaf",
             "state": {
               "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c941cbbe6746f1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
