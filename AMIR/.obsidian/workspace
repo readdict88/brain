@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea2aa78f114466d",
+        "id": "c8a8c23a03604496",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,19 +123,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
-  "active": "3ea2aa78f114466d",
+  "active": "c8a8c23a03604496",
   "lastOpenFiles": [
+    "14-07-2021.md",
+    "@ index project thesis.md",
+    "DAILY-INBOX-FLEETING/2021-09-20.md",
+    "@ index catatan-kajian.md",
+    "DAILY-INBOX-FLEETING/2021-11-29.md",
     "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
     "DAILY-INBOX-FLEETING/2021-10-13.md",
     "conflict-files-obsidian-git.md",
-    "DAILY-INBOX-FLEETING/2021-10-11.md",
-    "DAILY-INBOX-FLEETING/2021-10-12.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-10-12 15.18.md",
-    "DAILY-INBOX-FLEETING/2021-09-19.md",
-    "@ index catatan-kajian.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
+    "DAILY-INBOX-FLEETING/2021-10-11.md"
   ]
 }
