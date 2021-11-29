@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea2aa78f114466d",
+        "id": "7bc618d3985900e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -60,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -76,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +82,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "e1980528ec41567b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -103,9 +108,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "171b97156aa56fa1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -115,23 +126,16 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4c941cbbe6746f1a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
-  "active": "3ea2aa78f114466d",
+  "active": "7bc618d3985900e2",
   "lastOpenFiles": [
     "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
