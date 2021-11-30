@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "282b677b0d0cc24f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2021-11-30.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -121,9 +132,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e93bd795e46e5d64",
+  "active": "282b677b0d0cc24f",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2021-11-30.md",
     "@ index catatan-kajian.md",
