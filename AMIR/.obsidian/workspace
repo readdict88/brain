@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "466e22104159db2e",
+    "id": "6fb30cfd16e785f4",
     "type": "split",
     "children": [
       {
-        "id": "c8a8c23a03604496",
+        "id": "a260fad15937eba2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "@ index catatan-kajian.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "@ index catatan-kajian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "@ index catatan-kajian.md"
+              }
             }
           },
           {
@@ -126,12 +132,12 @@
     "width": 453,
     "collapsed": true
   },
-  "active": "c8a8c23a03604496",
+  "active": "a260fad15937eba2",
   "lastOpenFiles": [
+    "@ index catatan-kajian.md",
     "14-07-2021.md",
     "@ index project thesis.md",
     "DAILY-INBOX-FLEETING/2021-09-20.md",
-    "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/2021-11-29.md",
     "ZETTELKASTEN/3. PROJECT NOTES/Latihan Nulis.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2021-11-19 19.32.md",
