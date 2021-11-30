@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "a260fad15937eba2",
         "type": "leaf",
         "state": {
@@ -12,6 +13,13 @@
             "file": "@ index catatan-kajian.md",
             "mode": "source"
           }
+=======
+        "id": "7bc618d3985900e2",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+>>>>>>> 261e33e298c9fab25ac60decebcb4b71421b5ae4
         }
       }
     ],
@@ -60,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9300c1dfed042a37",
@@ -76,7 +85,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "@ index catatan-kajian.md",
+=======
+>>>>>>> 261e33e298c9fab25ac60decebcb4b71421b5ae4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +97,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "e1980528ec41567b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -103,9 +123,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "@ index catatan-kajian.md"
               }
+=======
+              "state": {}
+            }
+          },
+          {
+            "id": "171b97156aa56fa1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+>>>>>>> 261e33e298c9fab25ac60decebcb4b71421b5ae4
             }
           },
           {
@@ -113,14 +145,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c941cbbe6746f1a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -132,7 +156,11 @@
     "width": 453,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "a260fad15937eba2",
+=======
+  "active": "7bc618d3985900e2",
+>>>>>>> 261e33e298c9fab25ac60decebcb4b71421b5ae4
   "lastOpenFiles": [
     "@ index catatan-kajian.md",
     "14-07-2021.md",
