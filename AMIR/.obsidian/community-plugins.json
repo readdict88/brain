@@ -3,7 +3,6 @@
   "obsidian-kanban",
   "calendar",
   "obsidian-outliner",
-  "nldates-obsidian",
   "obsidian-extract-pdf-highlights",
   "folder-note-plugin",
   "obsidian-reading-time",
@@ -15,5 +14,8 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-hider",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "nldates-obsidian",
+  "obsidian-mind-map",
+  "obsidian-pandoc"
 ]

@@ -9,3 +9,7 @@
 
 # PENGALAMAN-HIKMAH
 1. [[2021-09-20#^56cded|ujian SAB 2nd bride]]
+
+# KULIAH SMT 4
+1. [[2021-11-29#^ba3469|Islamisasi #1]]
+2. 

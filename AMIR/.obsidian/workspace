@@ -1,15 +1,26 @@
 {
   "main": {
-    "id": "510d8733b452d597",
+    "id": "d798f00a3ae2b21f",
     "type": "split",
     "children": [
       {
-        "id": "506d6ce6ecdffa8e",
+        "id": "e93bd795e46e5d64",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
+            "file": "DAILY-INBOX-FLEETING/2021-11-30.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "282b677b0d0cc24f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2021-11-30.md",
             "mode": "source"
           }
         }
@@ -18,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7a98531ab00d46d6",
+    "id": "59c35f45b13b87eb",
     "type": "split",
     "children": [
       {
-        "id": "4bf1feed92998629",
+        "id": "51ad6d626b329d87",
         "type": "tabs",
         "children": [
           {
-            "id": "bec1d131ba7be3f5",
+            "id": "ec5307129ab6577f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,22 +45,22 @@
             }
           },
           {
-            "id": "c2138e0501f56936",
+            "id": "9d62145eb99cc9a8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "mon",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "d1120e79e3651fc4",
+            "id": "074f74e38c20a6a2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,32 +75,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "9300c1dfed042a37",
+    "id": "f97471938c93e721",
     "type": "split",
     "children": [
       {
-        "id": "69a266758cea45af",
+        "id": "05757751e046e23b",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3ceec20ecd9f65",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "e1980528ec41567b",
+            "id": "fddd07d01faa42a6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -97,7 +91,24 @@
             }
           },
           {
-            "id": "4197f8c6936dedc9",
+            "id": "b7556c880517ba5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2021-11-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54609a9e61c3a545",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -108,50 +119,26 @@
             }
           },
           {
-            "id": "b3750967488d4403",
+            "id": "05d1edc0b9fc967a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md"
+                "file": "DAILY-INBOX-FLEETING/2021-11-30.md"
               }
             }
-          },
-          {
-            "id": "171b97156aa56fa1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ed4f7ef44cbe5f0b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 453,
+    "width": 300,
     "collapsed": true
   },
-  "active": "506d6ce6ecdffa8e",
+  "active": "282b677b0d0cc24f",
   "lastOpenFiles": [
-    "ZETTELKASTEN/3. PROJECT NOTES/تعليم المتعلم.md",
-    "DAILY-INBOX-FLEETING/2021-11-04.md",
-    "DAILY-INBOX-FLEETING/2021-11-02.md",
-    "DAILY-INBOX-FLEETING/2021-10-13.md",
-    "DAILY-INBOX-FLEETING/2021-10-11.md",
-    "DAILY-INBOX-FLEETING/2021-10-12.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2021-10-12 15.18.md",
-    "DAILY-INBOX-FLEETING/2021-09-19.md",
+    "DAILY-INBOX-FLEETING/2021-11-30.md",
     "@ index catatan-kajian.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/FILSAFAT ISLAM - Plotinus vs Avicenna.md"
+    "DAILY-INBOX-FLEETING/2021-11-29.md"
   ]
 }
