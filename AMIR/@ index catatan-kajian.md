@@ -2,6 +2,7 @@
 1. [[2021-08-22#^1b978a|Kumpul Prodi Ust Harda]]
 2. [[2021-09-19#MONITORING DOKTORAL S3|Monitoring S3]]
 3. [[2021-09-19#MEETING WEB 2021-09-19|Meeting Web]]
+4. [[2021-12-05#^302e28|Kuliah Umum KA UNIDA 2021]]
 
 # KAJIAN-DISKUSI:
 1. [[إحياء علوم الدين]]
