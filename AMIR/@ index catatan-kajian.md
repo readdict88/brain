@@ -13,4 +13,6 @@
 
 # KULIAH SMT 4
 1. [[2021-11-29#^ba3469|Islamisasi #1]]
-2. 
+
+# TUGAS KULIAH
+1. [[2021-12-06#^652b49]]

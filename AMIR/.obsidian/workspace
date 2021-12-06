@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
-            "mode": "preview"
+            "file": "DAILY-INBOX-FLEETING/2021-12-06.md",
+            "mode": "source"
           }
         }
       },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ index catatan-kajian.md",
+                "file": "DAILY-INBOX-FLEETING/2021-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@ index catatan-kajian.md"
+                "file": "DAILY-INBOX-FLEETING/2021-12-06.md"
               }
             }
           }
@@ -136,12 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d4d08d234d4dd62",
+  "active": "c47e4057ca2a5f35",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/2021-12-05.md",
-    "DAILY-INBOX-FLEETING/2021-11-30.md",
-    "DAILY-INBOX-FLEETING/2021-12-06.md",
-    "DAILY-INBOX-FLEETING/2021-11-29.md"
+    "DAILY-INBOX-FLEETING/2021-09-20.md",
+    "DAILY-INBOX-FLEETING/2021-11-29.md",
+    "DAILY-INBOX-FLEETING/2021-11-30.md"
   ]
 }
