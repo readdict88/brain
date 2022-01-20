@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "1d4d08d234d4dd62",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "@ index catatan-kajian.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
