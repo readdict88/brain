@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-01-18.md",
+            "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-01-18.md",
+                "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-01-18.md"
+                "file": "DAILY-INBOX-FLEETING/2022-01-20.md"
               }
             }
           },
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,6 +135,7 @@
   },
   "active": "9087dcc4f0e523ab",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-01-20.md",
     "DAILY-INBOX-FLEETING/2022-01-18.md",
     "DAILY-INBOX-FLEETING/2021-09-20.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-11 14.12.md",
