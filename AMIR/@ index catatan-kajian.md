@@ -7,6 +7,7 @@
 # KAJIAN-DISKUSI:
 1. [[إحياء علوم الدين]]
 2. [[تعليم المتعلم]]
+3. [[2022-01-20|Seminar Wasathiyah Prof Hamid 20-Jan]]
 
 # PENGALAMAN-HIKMAH
 1. [[2021-09-20#^56cded|ujian SAB 2nd bride]]

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9087dcc4f0e523ab",
+        "id": "0a72e9a98c5dd2b8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f97471938c93e721",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-01-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,16 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9087dcc4f0e523ab",
+  "active": "0a72e9a98c5dd2b8",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2022-01-20.md",
-    "DAILY-INBOX-FLEETING/2022-01-18.md",
-    "DAILY-INBOX-FLEETING/2021-09-20.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-11 14.12.md",
-    "DAILY-INBOX-FLEETING/2021-11-29.md",
-    "DAILY-INBOX-FLEETING/2021-12-06.md",
+    "ZETTELKASTEN.md",
+    "Format your notes.md",
+    "Slides Demo.md",
+    "@ index project thesis.md",
     "@ index catatan-kajian.md",
-    "DAILY-INBOX-FLEETING/2021-12-05.md",
-    "DAILY-INBOX-FLEETING/2021-11-30.md"
+    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+    "ZETTELKASTEN/3. PROJECT NOTES/ARCHIVE/Nulis Mr. Dadang.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
   ]
 }
