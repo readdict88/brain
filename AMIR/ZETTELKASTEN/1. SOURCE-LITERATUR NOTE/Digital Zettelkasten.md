@@ -1,18 +1,19 @@
 ![[Pasted image 20220121090408.png]]
 
-Title: 
+_Title:_ 
 Digital Zettelkasten
 
-Author: 
+_Author:_ 
 David Kadavy
 
-City, Publisher: N/A
+_City, Publisher:_
+N/A
 
-Year: 2021
+_Year:_
+2021
 
-edition: 1
-
-
+_edition:_
+1
 
 ---
 **SUMMARY**
