@@ -1,6 +1,6 @@
 {
-  "trashOption": "none",
-  "promptDelete": false,
+  "trashOption": "system",
+  "promptDelete": true,
   "foldHeading": true,
   "foldIndent": true,
   "pdfExportSettings": {
@@ -10,5 +10,7 @@
     "downscalePercent": 100
   },
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "zFiles-Images"
 }

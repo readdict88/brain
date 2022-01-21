@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a72e9a98c5dd2b8",
+        "id": "87d16b450df0c636",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ztemplates/Source-Ref Template.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ztemplates/Source-Ref Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ztemplates/Source-Ref Template.md"
+              }
             }
           },
           {
@@ -125,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a72e9a98c5dd2b8",
+  "active": "87d16b450df0c636",
   "lastOpenFiles": [
+    "ztemplates/Source-Ref Template.md",
+    "Untitled.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Subtle Art not Giving A Fuck.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
     "ZETTELKASTEN.md",
     "Format your notes.md",
     "Slides Demo.md",
-    "@ index project thesis.md",
-    "@ index catatan-kajian.md",
-    "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "ZETTELKASTEN/3. PROJECT NOTES/ARCHIVE/Nulis Mr. Dadang.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md"
+    "@ index project thesis.md"
   ]
 }
