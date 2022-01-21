@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ztemplates/Source-Ref Template.md",
+            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ztemplates/Source-Ref Template.md",
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ztemplates/Source-Ref Template.md"
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md"
               }
             }
           },
@@ -134,15 +134,15 @@
   },
   "active": "87d16b450df0c636",
   "lastOpenFiles": [
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked-about hope.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
+    "zFiles-Images/Pasted image 20220121090408.png",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/How To Take Smart Notes.md",
     "ztemplates/Source-Ref Template.md",
-    "Untitled.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Subtle Art not Giving A Fuck.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN.md",
-    "Format your notes.md",
-    "Slides Demo.md",
+    "DAILY-INBOX-FLEETING/2022-01-20.md",
+    "@ index catatan-kajian.md",
     "@ index project thesis.md"
   ]
 }
