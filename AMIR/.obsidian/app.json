@@ -12,5 +12,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "zFiles-Images"
+  "attachmentFolderPath": "zFiles-Images",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
