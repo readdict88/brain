@@ -21,11 +21,9 @@ _Keyword:_
 ---
 **SUMMARY**
 
-[INSERT HERE]
-
+Making habit is building system to your goal. It's achieved through creating environment that helps us to reach the things to act, not to distract. You must allow your identity to change also. To create a new habit you must make it obvious, attractive, easy, and satisfying. Oppositely, if you want to break bad habits, you must make it hidden, unattractive/disgusting, difficult to do, and unsatisfying. This way, you'll have a new identity as you change your habit. 
 
 
 ---
 **KEY QUOTES:**
 
-[INSERT HERE]

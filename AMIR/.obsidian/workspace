@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "07842d9833b87ffb",
+        "id": "a7e9270da888195a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+            "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+                "file": "DAILY-INBOX-FLEETING/2022-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md"
+                "file": "DAILY-INBOX-FLEETING/2022-01-20.md"
               }
             }
           },
@@ -126,24 +126,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "07842d9833b87ffb",
+  "active": "a7e9270da888195a",
   "lastOpenFiles": [
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Models_Attract Women through Honesty.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_about hope.md",
+    "DAILY-INBOX-FLEETING/2022-01-20.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
+    "Untitled.md",
     "ZETTELKASTEN/#ZETTLEKASTEN MANUAL.md",
     "ZETTELKASTEN/Format your notes.md",
-    "ztemplates/Index Template.md",
-    "ztemplates/Source-Ref Template.md"
+    "ztemplates/Zettel Template.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/Untitled 1.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/Untitled.md"
   ]
 }

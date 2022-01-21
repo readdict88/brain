@@ -1,7 +1,7 @@
 {
   "trashOption": "system",
   "promptDelete": true,
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": true,
   "pdfExportSettings": {
     "pageSize": "Legal",

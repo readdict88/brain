@@ -1,18 +1,17 @@
-**TOPIC:** 
+_TOPIC:_
 
 ---
-**tag:** [tag]
+_keyword/tag:_ [tag]
 
 
-**Content:**
-
+_Content:_
 [put here]
 
 
-**Reference**
+_Reference:_
 [bookname]
 
 
-**LINKS, see also:**
+_LINKS, see also:_
 - [link1]
 - [link2]
