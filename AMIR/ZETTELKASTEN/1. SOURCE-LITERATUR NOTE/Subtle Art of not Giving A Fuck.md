@@ -1,46 +1,18 @@
 ---
-Title:The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life
+Title: The Subtle Art of Not Giving a Fuck_A Counterintuitive Approach to Living a Good Life
 Author: Mark Manson
 City: New York
 Publisher: HarperOne
 Year: 2016
-Edition:
+Edition: 1
 #book
 
 ---
-[photo]
+![[Pasted image 20220121091059.png]]
 ## SUMMARY
-[insert here]
-
+>
 ## KEY QUOTES:
 - 
 - 
 
 > Keyword/Tags: 
-
-![[Pasted image 20220121091059.png]]
- 
-_Title:_
-
-_Author:_
-
-_City, Publisher:_
-, 
-
-_Year:_
-2016
-
-_edition:_
-1
-
----
-**SUMMARY**
-
-[INSERT HERE]
-
-
-
----
-**KEY QUOTES:**
-
-[INSERT HERE]

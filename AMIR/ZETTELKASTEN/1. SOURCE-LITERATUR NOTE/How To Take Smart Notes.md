@@ -11,8 +11,7 @@ Edition: 1
 ![[Pasted image 20220121092720.png]]
 
 ## SUMMARY
-[insert here]
-
+> 
 ## KEY QUOTES:
 - 
 - 

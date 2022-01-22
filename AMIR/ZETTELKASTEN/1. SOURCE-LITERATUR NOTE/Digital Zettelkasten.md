@@ -14,10 +14,7 @@ Edition: 1
 ---
 
 ## SUMMARY
-
--
--
--
+>
 
 ## KEY QUOTES:
 -
@@ -25,4 +22,4 @@ Edition: 1
 -
 
 
-Keyword/Tags: 
+>Keyword/Tags: 

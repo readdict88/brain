@@ -12,8 +12,7 @@ ISBN: 978-0-06-288847-1
 ![[Pasted image 20220121090624.png]]
 
 ## SUMMARY
-[insert here]
-
+> 
 ## KEY QUOTES:
 - 
 - 

@@ -10,8 +10,7 @@ Edition:
 ---
 [photo]
 ## SUMMARY
-[insert here]
-
+>
 ## KEY QUOTES:
 - 
 - 
