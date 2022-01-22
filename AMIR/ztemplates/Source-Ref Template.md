@@ -1,28 +1,19 @@
-_Title:_
-
-
-_Author:_
-
-
-_City, Publisher:_
-
-
-_Year:_
-
-
-_edition:_
-
-
-_Keyword:_
+---
+Title:
+Author:
+City:
+Publisher:
+Year:
+Edition:
+#book
 
 ---
-**SUMMARY**
+[photo]
+## SUMMARY
+[insert here]
 
-[INSERT HERE]
+## KEY QUOTES:
+- 
+- 
 
-
-
----
-**KEY QUOTES:**
-
-[INSERT HERE]
+> Keyword/Tags: 

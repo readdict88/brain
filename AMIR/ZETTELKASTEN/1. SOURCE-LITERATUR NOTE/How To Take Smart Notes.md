@@ -1,29 +1,20 @@
+---
+Title: How to Take Smart Notes_One Simple Technique to Boost Writing, Learning and Thinking_For Students, Academics and Nonfiction Book Writers
+Author: Sönke Ahrens
+City: North Charleston, SC
+Publisher: CreateSpace
+Year: 2017
+Edition: 1
+#book
+
+---
 ![[Pasted image 20220121092720.png]]
 
-_Title:_
-How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking: For Students, Academics and Nonfiction Book Writers
+## SUMMARY
+[insert here]
 
-_Author:_
-Sönke Ahrens
+## KEY QUOTES:
+- 
+- 
 
-_City, Publisher:_ 
-North Charleston, SC: CreateSpace
-
-_Year:_ 
-2017
-
-_edition:_
-1
-
----
-**SUMMARY**
-
-[INSERT HERE]
-
-
-
----
-**KEY QUOTES:**
-
-[INSERT HERE]
-
+> Keyword/Tags: 

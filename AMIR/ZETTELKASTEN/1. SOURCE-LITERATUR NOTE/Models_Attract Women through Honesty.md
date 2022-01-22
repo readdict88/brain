@@ -1,28 +1,20 @@
+---
+Title: Models_Attract Women through Honesty
+Author: Mark Manson
+City: NY
+Publisher: CreateSpace
+Year: 2016
+Edition: 1
+#book
+
+---
 ![[Pasted image 20220121093559.png]]
 
-_Title:_
-Models: Attract Women through Honesty
+## SUMMARY
+[insert here]
 
-_Author:_
-Mark Manson
+## KEY QUOTES:
+- 
+- 
 
-_City, Publisher:_
-NY, CreateSpace
-
-_Year:_
-2016
-
-_edition:_
-1
-
----
-**SUMMARY**
-
-[INSERT HERE]
-
-
-
----
-**KEY QUOTES:**
-
-[INSERT HERE]
+> Keyword/Tags: 

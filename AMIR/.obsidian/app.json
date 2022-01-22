@@ -14,5 +14,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "zFiles-Images",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true
 }

@@ -1,31 +1,21 @@
+---
+Title: Everything Is F*cked
+Author: Mark Manson
+City:
+Publisher: HarperCollins
+Year: 2019
+Edition: 1
+ISBN: 978-0-06-288847-1
+#book
+
+---
 ![[Pasted image 20220121090624.png]]
 
-_Title:_
-Everything Is F*cked
+## SUMMARY
+[insert here]
 
-_Author:_
-Mark Manson
+## KEY QUOTES:
+- 
+- 
 
-_City, Publisher:_
-HarperCollins
-
-_Year:_ 
-2019
-
-_edition:_ 1
-
-_ISBN:_ 
-978-0-06-288847-1
-
-
----
-**SUMMARY**
-
-[INSERT HERE]
-
-
-
----
-**KEY QUOTES:**
-
-[INSERT HERE]
+> Keyword/Tags: 
