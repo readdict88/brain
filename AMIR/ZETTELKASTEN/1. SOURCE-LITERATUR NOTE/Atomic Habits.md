@@ -5,7 +5,6 @@ City: SI
 Publisher: Penguin Publishing Group
 Year: 2018
 Edition: 1
-#book
 
 ---
 
@@ -25,3 +24,6 @@ Making habit is building system to your goal. It's achieved through creating env
 
 
 > Keyword/Tags: [[habit]] [[self improvement]] [[psychology]] [[productivity]]
+
+#book
+#literaturenote

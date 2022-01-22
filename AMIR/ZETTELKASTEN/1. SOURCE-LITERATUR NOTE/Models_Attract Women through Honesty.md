@@ -5,7 +5,6 @@ City: NY
 Publisher: CreateSpace
 Year: 2016
 Edition: 1
-#book
 
 ---
 ![[Pasted image 20220121093559.png]]
@@ -17,3 +16,6 @@ Edition: 1
 - 
 
 > Keyword/Tags: 
+
+#book
+#literaturenote

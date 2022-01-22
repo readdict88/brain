@@ -5,7 +5,6 @@ City: North Charleston, SC
 Publisher: CreateSpace
 Year: 2017
 Edition: 1
-#book
 
 ---
 ![[Pasted image 20220121092720.png]]
@@ -17,3 +16,6 @@ Edition: 1
 - 
 
 > Keyword/Tags: 
+ 
+#book
+#literaturenote

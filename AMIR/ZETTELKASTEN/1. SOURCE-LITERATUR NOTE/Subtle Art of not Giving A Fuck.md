@@ -5,7 +5,6 @@ City: New York
 Publisher: HarperOne
 Year: 2016
 Edition: 1
-#book
 
 ---
 ![[Pasted image 20220121091059.png]]
@@ -16,3 +15,7 @@ Edition: 1
 - 
 
 > Keyword/Tags: 
+
+
+#book
+#literaturenote

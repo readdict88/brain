@@ -23,3 +23,6 @@ Edition: 1
 
 
 >Keyword/Tags: 
+
+#book
+#literaturenote

@@ -5,7 +5,7 @@ City:
 Publisher:
 Year:
 Edition:
-#book
+
 
 ---
 [photo]
@@ -16,3 +16,6 @@ Edition:
 - 
 
 > Keyword/Tags: 
+
+#book
+#literaturenote 
