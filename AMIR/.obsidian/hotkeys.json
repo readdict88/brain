@@ -38,7 +38,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "["
+      "key": "ArrowLeft"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -46,7 +46,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "]"
+      "key": "ArrowRight"
     }
   ],
   "app:go-back": [
@@ -64,5 +64,6 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "obsidian-minimal-settings:toggle-hidden-borders": []
 }

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-            "mode": "source",
+            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
+                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md"
+                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md"
               }
             }
           },
@@ -126,24 +126,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e92f0cf21c328774",
   "lastOpenFiles": [
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Models_Attract Women through Honesty.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/How To Take Smart Notes.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/How To Take Smart Notes.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Models_Attract Women through Honesty.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
-    "zFiles-Images/Pasted image 20220122152425.png",
-    "zFiles-Images/Pasted image 20220121090549.png",
-    "zFiles-Images/Pasted image 20220121090408.png",
-    "zFiles-Images/Pasted image 20220121090624.png"
+    "00 index buku referensi.md",
+    "zFiles-Images/Pasted image 20220122152425.png"
   ]
 }
