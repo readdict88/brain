@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+            "file": "index buku referensi.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+                "file": "index buku referensi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md"
+                "file": "index buku referensi.md"
               }
             }
           },
@@ -135,15 +135,15 @@
   },
   "active": "1a55ec1e897585f2",
   "lastOpenFiles": [
+    "index buku referensi.md",
+    "@ index project thesis.md",
+    "@ index catatan-kajian.md",
+    "ztemplates/Index Template.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "ztemplates/Zettel Template.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Models_Attract Women through Honesty.md",
-    "DAILY-INBOX-FLEETING/2021-09-23.md",
-    "DAILY-INBOX-FLEETING/2021-09-06.md"
+    "ztemplates/Zettel Template.md"
   ]
 }
