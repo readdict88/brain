@@ -1,4 +1,4 @@
- #concept
+ [[concept]]
  # Writing a paper step by step
 
 1. Make ==fleeting notes==. Always have something at hand to write with to capture every idea that pops into your mind. Don’t worry too much about how you write it down or what you write it on. These are fleeting not es, mere reminders of what is in your head. They should not cause any distraction. Put them into one place, which you define as your inbox, and process them later. I usually have a simple notebook with me, but I am happy with napkins or receipts if nothing else is at hand. Sometimes I leave a voice record on my phone. If your thoughts are already sorted and you have the time, you can skip this step and write your idea directly down as a proper, permanent note for your slip-box.

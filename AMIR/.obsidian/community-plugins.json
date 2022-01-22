@@ -13,9 +13,10 @@
   "obsidian-emoji-toolbar",
   "table-editor-obsidian",
   "templater-obsidian",
-  "obsidian-hider",
-  "obsidian-minimal-settings",
   "nldates-obsidian",
   "obsidian-mind-map",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-minimal-settings",
+  "obsidian-rtl",
+  "obsidian-hider"
 ]

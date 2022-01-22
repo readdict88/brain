@@ -1,7 +1,7 @@
 {
-  "trashOption": "none",
-  "promptDelete": false,
-  "foldHeading": true,
+  "trashOption": "system",
+  "promptDelete": true,
+  "foldHeading": false,
   "foldIndent": true,
   "pdfExportSettings": {
     "pageSize": "Legal",
@@ -10,5 +10,9 @@
     "downscalePercent": 100
   },
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "zFiles-Images",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
