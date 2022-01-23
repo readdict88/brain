@@ -50,3 +50,4 @@ name New Course
 type command
 action QuickAdd: Add Course
 ```
+
