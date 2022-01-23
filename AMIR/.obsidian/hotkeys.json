@@ -38,7 +38,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "["
     }
   ],
   "app:toggle-right-sidebar": [
@@ -46,7 +46,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "]"
     }
   ],
   "app:go-back": [

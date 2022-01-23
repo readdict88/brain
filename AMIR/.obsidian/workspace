@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e92f0cf21c328774",
+        "id": "2370bc904e146e69",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "INDEX BACAAN.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f97471938c93e721",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "INDEX BACAAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "INDEX BACAAN.md"
+              }
             }
           },
           {
@@ -127,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e92f0cf21c328774",
+  "active": "2370bc904e146e69",
   "lastOpenFiles": [
-    "ZETTELKASTEN/Format your notes.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+    "INDEX BACAAN.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Models_Attract Women through Honesty.md",
+    "ztemplates/Source-Ref Template.md",
     "00 index buku referensi.md",
     "@ index project thesis.md",
     "@ index catatan-kajian.md",
-    "ztemplates/Zettel Template.md",
-    "ztemplates/Index Template.md",
-    "ztemplates/Source-Ref Template.md",
-    "zFiles-Images/Pasted image 20220122152555.png"
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/How To Take Smart Notes.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md"
   ]
 }

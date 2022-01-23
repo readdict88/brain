@@ -19,5 +19,7 @@
   "obsidian-minimal-settings",
   "obsidian-rtl",
   "obsidian-hider",
-  "dataview"
+  "dataview",
+  "buttons",
+  "quickadd"
 ]

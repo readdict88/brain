@@ -19,3 +19,4 @@ Edition: 1
 
 #book
 #literaturenote
+cover:: [[Pasted image 20220121093559.png]]

@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "id": "5dfe55f6-5bca-4648-9c3f-b8bb3380db2e",
+      "name": "Add Book",
+      "type": "Template",
+      "command": true,
+      "templatePath": "ztemplates/Source-Ref Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
