@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INDEX BACAAN.md",
+            "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX BACAAN.md",
+                "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INDEX BACAAN.md"
+                "file": "DAILY-INBOX-FLEETING/2021-12-05.md"
               }
             }
           },
@@ -135,15 +135,15 @@
   },
   "active": "2370bc904e146e69",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-12-05.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
     "INDEX BACAAN.md",
     "DAILY-INBOX-FLEETING/2022-01-23.md",
     "Eisenhower Priority.md",
     "ztemplates/Metada BACAAN.md",
-    "ztemplates/Source-Ref Template.md",
-    "ztemplates/Zettel Template.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "DAILY-INBOX-FLEETING/2021-08-22.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md"
+    "ztemplates/Source-Ref Template.md"
   ]
 }
