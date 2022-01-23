@@ -1,7 +1,7 @@
 {
   "trashOption": "system",
   "promptDelete": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "foldIndent": true,
   "pdfExportSettings": {
     "pageSize": "Legal",
@@ -15,5 +15,13 @@
   "attachmentFolderPath": "zFiles-Images",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ],
+  "strictLineBreaks": true
 }

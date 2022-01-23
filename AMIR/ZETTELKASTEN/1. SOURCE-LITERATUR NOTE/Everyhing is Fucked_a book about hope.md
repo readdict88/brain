@@ -9,7 +9,7 @@ ISBN: 978-0-06-288847-1
 
 ---
 
-![[Pasted image 20220122152555.png]]
+cover::![[Pasted image 20220122152555.png]]
 
 ## SUMMARY
 > 

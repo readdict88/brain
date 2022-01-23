@@ -6,16 +6,35 @@ Publisher:
 Year:
 Edition:
 
-
 ---
 [photo]
-## SUMMARY
+
+# 🚀 The Book in 3 Sentences
+
+# 🎨 Impressions
+
+## How I Discovered It
+
+## Who Should Read It?
+
+# ☘️ How the Book Changed Me
+
+How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
+
+# ✍️ My Top Quotes:
+- 
+- 
+
+
+# 📒 Summary + Notes
 >
-## KEY QUOTES:
-- 
-- 
+
+
+
+
 
 > Keyword/Tags: 
 
 #book
 #literaturenote 
+
