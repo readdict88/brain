@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2370bc904e146e69",
+        "id": "e92f0cf21c328774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "INDEX BACAAN.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX BACAAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INDEX BACAAN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,24 +119,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2370bc904e146e69",
+  "active": "e92f0cf21c328774",
   "lastOpenFiles": [
-    "INDEX BACAAN.md",
-    "DAILY-INBOX-FLEETING/2022-01-23.md",
-    "Eisenhower Priority.md",
-    "ztemplates/Metada BACAAN.md",
-    "ztemplates/Source-Ref Template.md",
-    "ztemplates/Zettel Template.md",
+    "ZETTELKASTEN/Format your notes.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "DAILY-INBOX-FLEETING/2021-08-22.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+    "00 index buku referensi.md",
+    "@ index project thesis.md",
+    "@ index catatan-kajian.md",
+    "ztemplates/Zettel Template.md",
+    "ztemplates/Index Template.md",
+    "ztemplates/Source-Ref Template.md",
+    "zFiles-Images/Pasted image 20220122152555.png"
   ]
 }
