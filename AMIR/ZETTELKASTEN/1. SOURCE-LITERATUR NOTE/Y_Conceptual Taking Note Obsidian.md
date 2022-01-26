@@ -18,7 +18,3 @@
 	- menghubungkan ide baru dengan ide lama yang sudah menjadi primary idea 
 - Tidak semua yang kita tahu itu penting, seringkali kita menulis catatan secara sequential dan kronologis, itu tidak menghasillkan konsep baru apapun
 - Gunakan pendekatan first principle thinking, membongkar hingga ke ide fundamental yang sudah disepakati kebenarannya dan tidak dipertanyakan lagi, mirip dengan konsep [[Rene Descartes]] yakni [[Cartesian Doubt]]
-
----
-# First Principle Thinking
-#atomicity #evergreennotes #filsafat/ilmu 
