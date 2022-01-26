@@ -1,9 +1,9 @@
 {
   "citationExportFormat": "csl-json",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Reading notes",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
+  "literatureNoteTitleTemplate": "{{authorString}}, {{title}}",
+  "literatureNoteFolder": "ZETTELKASTEN\\1. SOURCE-LITERATUR NOTE",
+  "literatureNoteContentTemplate": "\n# {{title}}\n### authors: {{authorString}}\n### year: {{year}}\n### place: {{publisherPlace}}\n### publisher: {{publisher}}\n### DOI: {{DOI}}\n### [Link Online]({{URL}})\n[See in Zotero]({{zoteroSelectURI}})\n\n---\n# Abstract:\n{{abstract}}\n\n# Notes:\n{{note}}\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": ""
+  "citationExportPath": "C:\\Users\\amirh\\Documents\\BOOKS\\.VAULT\\My Library.json"
 }

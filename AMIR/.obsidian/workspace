@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b7b583b9e26e640",
+        "id": "4ef6a96e95208c74",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "INDEX BACAAN.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX BACAAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "INDEX BACAAN.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -124,11 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b7b583b9e26e640",
+  "active": "4ef6a96e95208c74",
   "lastOpenFiles": [
-    "INDEX BACAAN.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md"
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/buku.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35 Feeling-emotions drives action-behavior.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Models_Attract Women through Honesty.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md"
   ]
 }

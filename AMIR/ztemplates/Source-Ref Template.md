@@ -1,10 +1,10 @@
----
-Title:
-Author:
-City:
-Publisher:
-Year:
-Edition:
+
+Title::
+Author::
+City::
+Publisher::
+Year::
+Edition::
 
 ---
 [photo]
@@ -22,7 +22,6 @@ Edition:
 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
 # ✍️ My Top Quotes:
-- 
 - 
 
 
