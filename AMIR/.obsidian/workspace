@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "d798f00a3ae2b21f",
+    "id": "8e2ed50e07d53e26",
     "type": "split",
     "children": [
       {
-        "id": "2f8ea17c69deac6b",
+        "id": "9b7b583b9e26e640",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
-=======
-            "file": "DAILY-INBOX-FLEETING/2021-09-06.md",
->>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
+            "file": "INDEX BACAAN.md",
             "mode": "source",
             "source": false
           }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "59c35f45b13b87eb",
+    "id": "167b61cde5fcb8c7",
     "type": "split",
     "children": [
       {
-        "id": "51ad6d626b329d87",
+        "id": "76a1f65b00cd847a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5307129ab6577f",
+            "id": "765144760916b261",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,13 +35,13 @@
             }
           },
           {
-            "id": "9d62145eb99cc9a8",
+            "id": "dccd1e303b5c766b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#literaturenote",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -54,7 +50,7 @@
             }
           },
           {
-            "id": "074f74e38c20a6a2",
+            "id": "7eaf6b7004517f04",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "f97471938c93e721",
+    "id": "ba8cea6feab9cb84",
     "type": "split",
     "children": [
       {
-        "id": "05757751e046e23b",
+        "id": "b2d46b84106d7319",
         "type": "tabs",
         "children": [
           {
-            "id": "fddd07d01faa42a6",
+            "id": "5ca6fb5b5519af9f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -84,28 +80,24 @@
             }
           },
           {
-            "id": "b7556c880517ba5a",
+            "id": "8baf5ab437a9dbb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
-=======
-                "file": "DAILY-INBOX-FLEETING/2021-09-06.md",
->>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
+                "file": "INDEX BACAAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "54609a9e61c3a545",
+            "id": "badd06deb0129e40",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,58 +108,27 @@
             }
           },
           {
-            "id": "05d1edc0b9fc967a",
+            "id": "2bae768a316fd830",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "DAILY-INBOX-FLEETING/2021-12-05.md"
-=======
-                "file": "DAILY-INBOX-FLEETING/2021-09-06.md"
->>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
+                "file": "INDEX BACAAN.md"
               }
             }
-          },
-          {
-            "id": "34c18acc3aa62167",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2f8ea17c69deac6b",
+  "active": "9b7b583b9e26e640",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "DAILY-INBOX-FLEETING/2021-12-05.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
     "INDEX BACAAN.md",
-    "DAILY-INBOX-FLEETING/2022-01-23.md",
-    "Eisenhower Priority.md",
-    "ztemplates/Metada BACAAN.md",
-    "ztemplates/Source-Ref Template.md"
-=======
-    "DAILY-INBOX-FLEETING/2021-09-06.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Models_Attract Women through Honesty.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Everyhing is Fucked_a book about hope.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
-    "zFiles-Images/Pasted image 20220121093559.png"
->>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md"
   ]
 }

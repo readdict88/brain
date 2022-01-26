@@ -1,6 +1,6 @@
 {
   "trashOption": "system",
-  "promptDelete": true,
+  "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true,
   "pdfExportSettings": {
