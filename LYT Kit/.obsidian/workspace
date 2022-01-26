@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Umami/MOCs Overview.md",
-            "mode": "preview"
+            "file": "Umami/MOCs as workbenches and maps.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -89,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Umami/MOCs Overview.md",
+                "file": "Umami/MOCs as workbenches and maps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umami/MOCs Overview.md",
+                "file": "Umami/MOCs as workbenches and maps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "703763732ad20208",
   "lastOpenFiles": [
-    "Umami/MOCs Overview.md",
-    "Umami/Zettelkasten and LYT Frameworks.md",
-    "Umami/Benefits of LYT frameworks.md",
-    "Umami/The forest entrance.md",
-    "_Start Here.md",
-    "Umami/LYT Kit.md",
-    "+Home.md",
-    "Umami/Mindsets MOC.md",
-    "Umami/Habits MOC.md",
-    "Sources/150 📚 The Almagest.md"
+    "Umami/MOCs as workbenches and maps.md",
+    "Bins/Images/LYT Kit/warehouse.jpg",
+    "Bins/Images/LYT Kit/Pale Blue Dot 4K Banner.png",
+    "Bins/Images/LYT Kit/Wolverine tethered.jpg",
+    "Bins/Images/LYT Kit/stay on target.jpg",
+    "Bins/Images/LYT Kit/moravian-workbench-will-myers-old-salem.jpg",
+    "Bins/Images/Flow/Flow Zone Channel.jpg",
+    "Bins/Images/Flow/Flow Map - Original.jpg",
+    "Bins/Images/Flow/Flow Map.png",
+    "Bins/Images/Flow/Four Factors of Flow.png"
   ]
 }

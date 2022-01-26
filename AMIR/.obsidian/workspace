@@ -4,12 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2370bc904e146e69",
+        "id": "2f8ea17c69deac6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+<<<<<<< HEAD
+            "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
+=======
+            "file": "DAILY-INBOX-FLEETING/2021-09-06.md",
+>>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
             "mode": "source",
             "source": false
           }
@@ -40,8 +44,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#literaturenote",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
+<<<<<<< HEAD
+                "file": "DAILY-INBOX-FLEETING/2021-12-05.md",
+=======
+                "file": "DAILY-INBOX-FLEETING/2021-09-06.md",
+>>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +121,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md"
+<<<<<<< HEAD
+                "file": "DAILY-INBOX-FLEETING/2021-12-05.md"
+=======
+                "file": "DAILY-INBOX-FLEETING/2021-09-06.md"
+>>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
               }
             }
           },
@@ -126,24 +138,36 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2370bc904e146e69",
+  "active": "2f8ea17c69deac6b",
   "lastOpenFiles": [
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Subtle Art of not Giving A Fuck.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
+<<<<<<< HEAD
     "DAILY-INBOX-FLEETING/2021-12-05.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Atomic Habits.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
     "INDEX BACAAN.md",
     "DAILY-INBOX-FLEETING/2022-01-23.md",
     "Eisenhower Priority.md",
-    "ztemplates/Metada BACAAN.md"
+    "ztemplates/Metada BACAAN.md",
+    "ztemplates/Source-Ref Template.md"
+=======
+    "DAILY-INBOX-FLEETING/2021-09-06.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Models_Attract Women through Honesty.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Everyhing is Fucked_a book about hope.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
+    "zFiles-Images/Pasted image 20220121093559.png"
+>>>>>>> 966c8e0fbc905ae933531f56621751e7ed775d81
   ]
 }

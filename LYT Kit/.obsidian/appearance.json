@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Cybertron",
+  "enabledCssSnippets": [
+    "cybertron",
+    "sliding-panes-No-Gradient",
+    "kanban-css-by-SIRvb",
+    "image-adjustments-by-SIRvb"
+  ],
+  "translucency": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}
