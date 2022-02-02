@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-08-02.md",
+            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba8cea6feab9cb84",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-02.md",
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-08-02.md"
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md"
               }
             }
           }
@@ -127,15 +126,15 @@
   },
   "active": "d6f00265f4b1211f",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2021-08-02.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ Morning Routine Prodductivity.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "ztemplates/WEB_template.md",
+    "ztemplates/Source-Ref Template.md",
+    "ztemplates/Meeting-Koordinasi.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
+    "DAILY-INBOX-FLEETING/2021-08-02.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35 Feeling-emotions drives action-behavior.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/zarkasyiWorldviewIslamDan2013.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md"
   ]
 }
