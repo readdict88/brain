@@ -104,7 +104,7 @@ If you want to enhance an existing process or belief, continuous improvement is 
 10.  Hat tip to Benedict Evans for his [tweets that inspired this example](https://twitter.com/benedictevans/status/884566566313971712).
 11.  Stereotypes fall into this style of thinking. “Oh, I once knew a poor person who was dumb, so all poor people must be dumb.” And so on. Anytime we judge someone by their group status rather than their individual characteristics we are reasoning about them by analogy.
 
-# ☘️ How the Book Changed Me
+# ☘️ How the Article Changed Me
 
 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
