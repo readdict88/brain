@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-02-12.md",
+            "file": "DAILY-INBOX-FLEETING/2022-02-15.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-02-12.md",
+                "file": "DAILY-INBOX-FLEETING/2022-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-02-12.md"
+                "file": "DAILY-INBOX-FLEETING/2022-02-15.md"
               }
             }
           }
@@ -127,6 +127,7 @@
   },
   "active": "d6f00265f4b1211f",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-02-15.md",
     "DAILY-INBOX-FLEETING/2022-02-12.md",
     "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
@@ -135,7 +136,6 @@
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35 Feeling-emotions drives action-behavior.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35.md"
   ]
 }
