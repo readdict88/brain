@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "af3014792c029f89",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DAILY-INBOX-FLEETING/2022-02-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DAILY-INBOX-FLEETING/2022-02-12.md"
               }
             }
           }
@@ -137,10 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af3014792c029f89",
+  "active": "d6f00265f4b1211f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "DAILY-INBOX-FLEETING/2022-02-12.md",
+    "conflict-files-obsidian-git.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
