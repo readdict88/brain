@@ -9,31 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-04-03.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "714dd4c870a750b1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-03-20.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1bb6a59b33b44d40",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-04-02.md",
+            "file": "DAILY-INBOX-FLEETING/2022-04-04.md",
             "mode": "source",
             "source": false
           }
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-04-03.md",
+                "file": "DAILY-INBOX-FLEETING/2022-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-04-03.md"
+                "file": "DAILY-INBOX-FLEETING/2022-04-04.md"
               }
             }
           }
@@ -151,6 +127,7 @@
   },
   "active": "d6f00265f4b1211f",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-04-04.md",
     "DAILY-INBOX-FLEETING/2022-04-03.md",
     "DAILY-INBOX-FLEETING/2022-03-20.md",
     "DAILY-INBOX-FLEETING/2022-04-02.md",
@@ -159,7 +136,6 @@
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md",
     "zFiles-Images/Pasted image 20220121093559.png",
     "zFiles-Images/Pasted image 20220121092720.png",
-    "zFiles-Images/Pasted image 20220121090408.png",
-    "zFiles-Images/Pasted image 20220121090549.png"
+    "zFiles-Images/Pasted image 20220121090408.png"
   ]
 }
