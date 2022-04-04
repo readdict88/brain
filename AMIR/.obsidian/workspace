@@ -122,11 +122,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "d6f00265f4b1211f",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-04-02.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
     "DAILY-INBOX-FLEETING/2022-04-03.md",
     "DAILY-INBOX-FLEETING/2022-04-04.md",
     "DAILY-INBOX-FLEETING/2022-03-20.md",
@@ -134,7 +136,6 @@
     "DAILY-INBOX-FLEETING/2022-03-06.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md",
     "zFiles-Images/Pasted image 20220121093559.png",
-    "zFiles-Images/Pasted image 20220121092720.png",
-    "zFiles-Images/Pasted image 20220121090408.png"
+    "zFiles-Images/Pasted image 20220121092720.png"
   ]
 }
