@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-04-05.md",
+            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba8cea6feab9cb84",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-04-05.md",
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-04-05.md"
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md"
               }
             }
           }
@@ -127,15 +126,15 @@
   },
   "active": "72984534cc93fae1",
   "lastOpenFiles": [
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_36 Questions to Love.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ Morning Routine Prodductivity.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Consistency.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "DAILY-INBOX-FLEETING/2022-04-05.md",
-    "Untitled.md",
-    "DAILY-INBOX-FLEETING/2022-04-02.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
-    "DAILY-INBOX-FLEETING/2022-04-03.md",
-    "DAILY-INBOX-FLEETING/2022-04-04.md",
-    "DAILY-INBOX-FLEETING/2022-03-20.md",
-    "DAILY-INBOX-FLEETING/2022-03-23.md",
-    "DAILY-INBOX-FLEETING/2022-03-06.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md"
+    "Untitled.md"
   ]
 }
