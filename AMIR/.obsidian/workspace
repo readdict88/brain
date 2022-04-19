@@ -7,8 +7,12 @@
         "id": "ab277ec834948066",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2022-04-05.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-04-05.md"
+              }
             }
           }
         ]
@@ -118,6 +125,8 @@
   },
   "active": "ab277ec834948066",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-04-05.md",
+    "DAILY-INBOX-FLEETING/2022-04-04.md",
     "DAILY-INBOX-FLEETING/2022-04-06.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
@@ -125,8 +134,6 @@
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_36 Questions to Love.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ Morning Routine Prodductivity.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Consistency.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md"
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_Consistency.md"
   ]
 }
