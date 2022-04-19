@@ -1,7 +1,3 @@
-inferiority
-superiority => self ideal (wealth, power, fame, beauty)
-safe guarding 
-
 # Full Transcript           
 It would not be easy to find another author, wrote Henry Ellenberger in the discovery of the unconscious, from which so much has been borrowed from all sides without acknowledgement than Alfred Adler.
 
@@ -33,7 +29,7 @@ An objective inferiority however only triggers feelings of inferiority, if it is
 
 Adler suggested there are two primary ways people deal with feelings of inferior. Either we see the circumstances which produce them as challenges to be confronted and so make use of coping behaviors. Or review them as problems to be avoided and resort to safeguarding behaviors
 
-Coping behaviors can be divided into two types: direct problem-solving and compensation. When we believe we can directly address the cause of our inferiority feelings we adopt a problem-solving approach. If we lose a job, we look for another one. If our skills are inadequate in a certain endeavor, we spend time improving them. If on the other hand direct problem solving is impossible, we may resort to the coping behavior called compensation. We look for ways to make up for our inferiority by excelling in a manner which can compensate for our deficit. For example, someone who loses their hearing may compensate by cultivating the ability to read lips
+Coping behaviors can be divided into two types: ==direct problem-solving== and ==compensation==. When we believe we can directly address the cause of our inferiority feelings we adopt a problem-solving approach. If we lose a job, we look for another one. If our skills are inadequate in a certain endeavor, we spend time improving them. If on the other hand direct problem solving is impossible, we may resort to the coping behavior called compensation. We look for ways to make up for our inferiority by excelling in a manner which can compensate for our deficit. For example, someone who loses their hearing may compensate by cultivating the ability to read lips
 
 Many people however are unwilling to address their issues in this manner and so turn to safeguarding behaviors. Safeguarding behaviors are used in the attempt to convince oneself and others that the reason they have failed to address their inferiorities and moved closer to their goals is because certain obstacles, which they claim lie outside of their control are impeding their progress. Adler likened the safeguarding behaviors to the sideshows seen at a circus. As they are used to distract attention away from the most pressing issues of one's life and to direct it instead to issues which are relatively trivial.
 
@@ -54,16 +50,15 @@ Courage wrote Adler is not an ability one either possesses or lacks. Courage is 
 We are capable of courageous behavior provided we are willing to engage in it. Given that we cannot expect life to cease challenging us. We have a choice, either we cultivate a courageous attitude and learn to coexist with the uncertainty and discomfort this will invite into our life, or we doom ourselves to waste away our days, receding further and further into the misery of our comfort zone.
 
 # Key things:
-Life Style: subjective unarticulated set of guidelines individuals develop and use to move them through life and toward their goals
+- inferiority
+- superiority => self ideal (wealth, power, fame, beauty)
+- safe guarding 
+- Life Style: subjective unarticulated set of guidelines individuals develop and use to move them through life and toward their goals
+- Objective inferiority only trigger feelings of inferiority if it is important to our striving after superiority
+- Becoming more aware of what we are striving for and adjusting our self ideal (if necessary) is crucial step toward self-improvement.
+- Courage: willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. We are capable of courageous behavior provided we are willing to engage in it. 
 
-objective inferiority only trigger feelings of inferiority if it is important to our striving after superiority
-
-Becoming more aware of what we are striving for and adjusting our self ideal (if necessary) is crucial setep toward self-improvement.
-
-Courage: willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. We are capable of courageous behavior provided we are willing to engage in it. 
-
-
-
+# Suggested Titles:
 Mental health inferiority
 
 SELF IDEAL according to Alfred Adler and Islam
