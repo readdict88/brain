@@ -30,6 +30,12 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 - Westernisasi merupakan gabungan dari kolonialisme, misionarisme, dan orientalisme.
 - Peradaban Barat singkatnya: peradaban Eropa yang berasal dari peradaban Yunani dikawinkan dengan peradaban Romawi dan disesuaikan dengan elemen kebudayaan bangsa Eropa terutama Jerman Inggris Perancis.
 - Western worldview bisa disebut juga scientific worldview. 
+- rasionalisme dan sekularisme menjadi penopang modernitas
+- Pokok lain adalah empirisisme, dualisme (ontologi), dan humanisme..
+- Postmodernisme bisa disebut anti thesis modernisme atau justru pengembangannya.
+- Postmo melawan absolutisme, termasuk kebenaran absolut sains. 
+- Nietzsche melawan kuasa absolut Tuhan, menegaskan relativisme manusia dengan menyatakan "God is dead"
+- 
 
 
 
@@ -39,3 +45,5 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 #book
 #literaturenote 
 
+# Questions:
+- apakah dualisme salah satu contoh dichotomy
