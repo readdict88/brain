@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2021-07-14.md",
+            "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba8cea6feab9cb84",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-07-14.md",
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2021-07-14.md"
+                "file": "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Untitled.md"
               }
             }
           }
@@ -126,7 +127,7 @@
   },
   "active": "ab277ec834948066",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2021-07-14.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Untitled.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/THESIS/Individual Psychology - Alfred Adler.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
