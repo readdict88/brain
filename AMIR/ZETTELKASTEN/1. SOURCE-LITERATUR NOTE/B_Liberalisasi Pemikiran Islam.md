@@ -47,4 +47,4 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 #literaturenote 
 
 # Questions:
-- apakah dualisme salah satu contoh dichotomy
+- apakah dualisme salah satu contoh dichotomy?
