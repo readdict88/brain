@@ -35,6 +35,7 @@ How my life / behaviour / thoughts / ideas have changed as a result of reading t
 - Postmodernisme bisa disebut anti thesis modernisme atau justru pengembangannya.
 - Postmo melawan absolutisme, termasuk kebenaran absolut sains. 
 - Nietzsche melawan kuasa absolut Tuhan, menegaskan relativisme manusia dengan menyatakan "God is dead"
+- misionaris beroperasi perang pemikiran berkedok bantuan sosial dan kemanusiaan
 - 
 
 
