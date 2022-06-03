@@ -10,7 +10,7 @@ Edition:: 1
 ![[Pasted image 20220601204019.png]]
 
 # 🚀 The Book in 3 Sentences
-
+Serangan pemikiran bermula dari globalisasi-westernisasi Barat yang berawal dari 
 # 🎨 Impressions
 
 ## How I Discovered It
