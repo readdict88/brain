@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "73aec08c5c94e520",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d445712b49efbfa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Code Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d90f18be52c34a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "b89280f9135c6901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1e2cc04e5afa67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f6af6d881cbf9c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "921772a6f7d1974b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29cf7da16436e825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f215dc2872a4da79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d445712b49efbfa",
+  "lastOpenFiles": [
+    "Code Index.md",
+    "An Integrated Qualitative Analysis Environment with Obsidian.md"
+  ]
+}
