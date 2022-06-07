@@ -10,10 +10,9 @@
   "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
-      "key": "Z"
+      "key": "V"
     }
   ],
   "obsidian-git:push": [
