@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md",
+            "file": "DAILY-INBOX-FLEETING/2022-06-14.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md",
+                "file": "DAILY-INBOX-FLEETING/2022-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md"
+                "file": "DAILY-INBOX-FLEETING/2022-06-14.md"
               }
             }
           },
@@ -126,16 +126,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6a208978f3a3a01f",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-06-14.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Untitled.md",
@@ -144,7 +143,6 @@
     "DAILY-INBOX-FLEETING/2022-06-05.md",
     "zFiles-Images/Recording 20220605170604.webm",
     "zFiles-Images/Recording 20220605170534.webm",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-05 17.05.md",
-    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/ARCHIVE/Nulis Mr. Dadang.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-05 17.05.md"
   ]
 }
