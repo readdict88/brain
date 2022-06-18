@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a208978f3a3a01f",
+        "id": "727a4d6e90b2771c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-06-16.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba8cea6feab9cb84",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-06-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,8 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a208978f3a3a01f",
+  "active": "727a4d6e90b2771c",
   "lastOpenFiles": [
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/H. F. Zarkasyi, J. Arroisi, M. Taqiyuddin, ..., Islamisasi Ilmu Komunikasi_ Telaah atas Karya Mohd Yusof Hussain.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/A Haque, Psychology from Islamic perspective_ Contributions of early Muslim scholars and challenges to contemporary Muslim psychologists.md",
     "DAILY-INBOX-FLEETING/2022-06-16.md",
     "DAILY-INBOX-FLEETING/2022-06-14.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md",
@@ -142,8 +136,6 @@
     "ZETTELKASTEN/2. PERMANENT NOTE/Untitled.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35 Feeling-emotions drives action-behavior.md",
     "DAILY-INBOX-FLEETING/2022-06-07.md",
-    "DAILY-INBOX-FLEETING/2022-06-05.md",
-    "zFiles-Images/Recording 20220605170604.webm",
-    "zFiles-Images/Recording 20220605170534.webm"
+    "DAILY-INBOX-FLEETING/2022-06-05.md"
   ]
 }
