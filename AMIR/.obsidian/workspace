@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "727a4d6e90b2771c",
+        "id": "fdfcc0cbfd4e3dad",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2022-06-16.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba8cea6feab9cb84",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-06-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-06-16.md"
+              }
             }
           },
           {
@@ -125,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "727a4d6e90b2771c",
+  "active": "fdfcc0cbfd4e3dad",
   "lastOpenFiles": [
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/H. F. Zarkasyi, J. Arroisi, M. Taqiyuddin, ..., Islamisasi Ilmu Komunikasi_ Telaah atas Karya Mohd Yusof Hussain.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/A Haque, Psychology from Islamic perspective_ Contributions of early Muslim scholars and challenges to contemporary Muslim psychologists.md",
     "DAILY-INBOX-FLEETING/2022-06-16.md",
-    "DAILY-INBOX-FLEETING/2022-06-14.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-06-07 22.11 TELEOLOGY.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Untitled.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/@Muhammad Mumtaz Ali, Issues in Islamization of human knowledge_ Civilization building discourse of contemporary Muslim thinkers.md",
+    "@ index catatan-kajian.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/@Muhammad Amimul Ahsan, Dr. Abul Kalam Mohammad Shahed, Afzal Ahmad, Islamization of Knowledge_ An Agenda for Muslim Intellectuals.md",
+    "ztemplates/Cornell Taking Notes.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/H Abu-Raiya, Towards a systematic Qura'nic theory of personality.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Ibn Qayyim Al-Jauziyyah, ‘Uddatu as-Ṣābirīn wa Dhakhīrat as-Shākirin.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 10.35 Feeling-emotions drives action-behavior.md",
-    "DAILY-INBOX-FLEETING/2022-06-07.md",
-    "DAILY-INBOX-FLEETING/2022-06-05.md"
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md"
   ]
 }
