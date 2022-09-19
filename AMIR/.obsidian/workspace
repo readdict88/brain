@@ -7,8 +7,12 @@
         "id": "22942939b478b499",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DAILY-INBOX-FLEETING/2022-09-20.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +112,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-09-20.md"
+              }
+            }
+          },
+          {
+            "id": "cd2c00725428b87f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -118,5 +134,16 @@
     "collapsed": true
   },
   "active": "22942939b478b499",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-06-05.md",
+    "DAILY-INBOX-FLEETING/2022-06-07.md",
+    "DAILY-INBOX-FLEETING/2022-06-14.md",
+    "DAILY-INBOX-FLEETING/2022-06-16.md",
+    "DAILY-INBOX-FLEETING/2022-07-31.md",
+    "DAILY-INBOX-FLEETING/2022-08-22.md",
+    "DAILY-INBOX-FLEETING/2022-08-24.md",
+    "DAILY-INBOX-FLEETING/2022-09-20.md",
+    "DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
+    "DAILY-INBOX-FLEETING/2021-08-12.md"
+  ]
 }
