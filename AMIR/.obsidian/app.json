@@ -20,8 +20,8 @@
   "rightToLeft": false,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "en-US",
-    "id"
+    "id",
+    "en-US"
   ],
   "strictLineBreaks": true
 }
