@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAILY-INBOX-FLEETING/2022-09-30.md",
+            "file": "ZETTELKASTEN/Format your notes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "format your",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-09-30.md",
+                "file": "ZETTELKASTEN/Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-09-30.md"
+                "file": "ZETTELKASTEN/Format your notes.md"
               }
             }
           },
@@ -134,15 +133,15 @@
   },
   "active": "22942939b478b499",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-10-01.md",
+    "DAILY-INBOX-FLEETING/2022-09-30.md",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
+    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
+    "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-09-23.md",
     "DAILY-INBOX-FLEETING/2022-09-20.md",
     "DAILY-INBOX-FLEETING/2022-06-05.md",
     "DAILY-INBOX-FLEETING/2022-06-07.md",
-    "DAILY-INBOX-FLEETING/2022-06-14.md",
-    "DAILY-INBOX-FLEETING/2022-06-16.md",
-    "DAILY-INBOX-FLEETING/2022-07-31.md",
-    "DAILY-INBOX-FLEETING/2022-08-22.md",
-    "DAILY-INBOX-FLEETING/2022-08-24.md",
-    "DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf"
+    "DAILY-INBOX-FLEETING/2022-06-14.md"
   ]
 }
