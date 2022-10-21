@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,6 +143,7 @@
   },
   "active": "22942939b478b499",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-10-21.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-10-01.md",
     "DAILY-INBOX-FLEETING/2022-09-30.md",
@@ -154,7 +152,6 @@
     "DAILY-INBOX-FLEETING/2022-09-23.md",
     "DAILY-INBOX-FLEETING/2022-09-20.md",
     "DAILY-INBOX-FLEETING/2022-06-05.md",
-    "DAILY-INBOX-FLEETING/2022-06-07.md",
-    "DAILY-INBOX-FLEETING/2022-06-14.md"
+    "DAILY-INBOX-FLEETING/2022-06-07.md"
   ]
 }
