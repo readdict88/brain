@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md",
+                "file": "DAILY-INBOX-FLEETING/2022-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md",
+                "file": "DAILY-INBOX-FLEETING/2022-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md"
+                "file": "DAILY-INBOX-FLEETING/2022-10-23.md"
               }
             }
           },
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
@@ -147,6 +146,7 @@
   "active": "22942939b478b499",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-10-21.md",
+    "Buttons 1.0 is Coming.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-10-01.md",
     "DAILY-INBOX-FLEETING/2022-09-30.md",
@@ -154,7 +154,6 @@
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "DAILY-INBOX-FLEETING/2022-09-23.md",
     "DAILY-INBOX-FLEETING/2022-09-20.md",
-    "DAILY-INBOX-FLEETING/2022-06-05.md",
-    "DAILY-INBOX-FLEETING/2022-06-07.md"
+    "DAILY-INBOX-FLEETING/2022-06-05.md"
   ]
 }
