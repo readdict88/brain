@@ -11,8 +11,12 @@
             "id": "16e370440fb98642",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md"
+              }
             }
           },
           {
@@ -138,8 +145,8 @@
   },
   "active": "16e370440fb98642",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2022-10-24.md",
     "DAILY-INBOX-FLEETING/2022-10-21.md",
+    "DAILY-INBOX-FLEETING/2022-10-24.md",
     "DAILY-INBOX-FLEETING/2022-10-23.md",
     "Buttons 1.0 is Coming.md",
     "ZETTELKASTEN/Format your notes.md",
