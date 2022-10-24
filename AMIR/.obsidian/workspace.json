@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-23.md",
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-23.md",
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-23.md"
+                "file": "DAILY-INBOX-FLEETING/2022-10-24.md"
               }
             }
           },
@@ -138,13 +138,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "22942939b478b499",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-10-23.md",
     "DAILY-INBOX-FLEETING/2022-10-21.md",
     "Buttons 1.0 is Coming.md",
     "ZETTELKASTEN/Format your notes.md",
@@ -153,7 +155,6 @@
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "DAILY-INBOX-FLEETING/2022-09-23.md",
-    "DAILY-INBOX-FLEETING/2022-09-20.md",
-    "DAILY-INBOX-FLEETING/2022-06-05.md"
+    "DAILY-INBOX-FLEETING/2022-09-20.md"
   ]
 }
