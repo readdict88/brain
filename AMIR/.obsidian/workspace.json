@@ -4,22 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "e5d0a9f656714faa",
+        "id": "caeb2468e912b0dd",
         "type": "tabs",
         "children": [
-          {
-            "id": "16e370440fb98642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
           {
             "id": "09ae17545371e456",
             "type": "leaf",
@@ -30,8 +17,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1a049afa1966b41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e370440fb98642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-10-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-29.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,15 +156,15 @@
   },
   "active": "09ae17545371e456",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-10-30.md",
+    "DAILY-INBOX-FLEETING/2022-10-24.md",
+    "DAILY-INBOX-FLEETING/2022-10-29.md",
     "DAILY-INBOX-FLEETING/2022-10-23.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-10-21.md",
-    "DAILY-INBOX-FLEETING/2022-10-24.md",
     "Buttons 1.0 is Coming.md",
     "DAILY-INBOX-FLEETING/2022-10-01.md",
     "DAILY-INBOX-FLEETING/2022-09-30.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
-    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "DAILY-INBOX-FLEETING/2022-09-23.md"
+    "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md"
   ]
 }
