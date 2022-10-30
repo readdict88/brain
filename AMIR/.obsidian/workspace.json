@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09ae17545371e456",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +152,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "16e370440fb98642",
+  "active": "09ae17545371e456",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-10-23.md",
     "ZETTELKASTEN/Format your notes.md",
