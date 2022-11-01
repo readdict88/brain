@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "16e370440fb98642",
   "lastOpenFiles": [
