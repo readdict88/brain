@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "caeb2468e912b0dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09ae17545371e456",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1a049afa1966b41d",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-30.md",
+                "file": "DAILY-INBOX-FLEETING/2022-11-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-11-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-11-01.md"
+              }
             }
           },
           {
@@ -154,7 +141,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "09ae17545371e456",
+  "active": "16e370440fb98642",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-10-30.md",
     "DAILY-INBOX-FLEETING/2022-10-24.md",
