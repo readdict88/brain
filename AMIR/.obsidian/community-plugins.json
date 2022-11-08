@@ -15,14 +15,13 @@
   "nldates-obsidian",
   "obsidian-mind-map",
   "obsidian-pandoc",
-  "obsidian-minimal-settings",
   "obsidian-rtl",
-  "obsidian-hider",
   "dataview",
   "buttons",
   "quickadd",
   "obsidian-style-settings",
   "obsidian-contextual-typography",
   "obsidian-smart-typography",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-hider"
 ]
