@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-07.md",
+                "file": "DAILY-INBOX-FLEETING/2022-11-08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-07.md",
+                "file": "DAILY-INBOX-FLEETING/2022-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-07.md"
+                "file": "DAILY-INBOX-FLEETING/2022-11-08.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   },
   "active": "16e370440fb98642",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-11-07.md",
     "DAILY-INBOX-FLEETING/2022-11-06.md",
     "DAILY-INBOX-FLEETING/2022-11-01.md",
     "DAILY-INBOX-FLEETING/2022-10-30.md",
@@ -151,7 +152,6 @@
     "DAILY-INBOX-FLEETING/2022-10-23.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-10-21.md",
-    "Buttons 1.0 is Coming.md",
-    "DAILY-INBOX-FLEETING/2022-10-01.md"
+    "Buttons 1.0 is Coming.md"
   ]
 }
