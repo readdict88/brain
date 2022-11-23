@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-21.md",
+                "file": "DAILY-INBOX-FLEETING/2022-11-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-21.md",
+                "file": "DAILY-INBOX-FLEETING/2022-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-11-21.md"
+                "file": "DAILY-INBOX-FLEETING/2022-11-23.md"
               }
             }
           },
@@ -141,8 +141,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "16e370440fb98642",
+  "active": "37dee227d49c0a3a",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-11-21.md",
     "DAILY-INBOX-FLEETING/2022-11-19.md",
     "DAILY-INBOX-FLEETING/2022-11-13.md",
     "DAILY-INBOX-FLEETING/2022-11-11.md",
@@ -151,7 +152,6 @@
     "DAILY-INBOX-FLEETING/2022-11-07.md",
     "DAILY-INBOX-FLEETING/2022-11-06.md",
     "DAILY-INBOX-FLEETING/2022-11-01.md",
-    "DAILY-INBOX-FLEETING/2022-11-21.md",
     "DAILY-INBOX-FLEETING/Untitled.md"
   ]
 }
