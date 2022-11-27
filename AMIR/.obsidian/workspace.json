@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22942939b478b499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-10-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f8290ca3f24d62cb",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,6 +143,7 @@
   "active": "f8290ca3f24d62cb",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-10-21.md",
+    "DAILY-INBOX-FLEETING/2022-11-27.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-10-01.md",
     "DAILY-INBOX-FLEETING/2022-09-30.md",
@@ -163,7 +151,6 @@
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "DAILY-INBOX-FLEETING/2022-09-23.md",
     "DAILY-INBOX-FLEETING/2022-09-20.md",
-    "DAILY-INBOX-FLEETING/2022-06-05.md",
-    "DAILY-INBOX-FLEETING/2022-06-07.md"
+    "DAILY-INBOX-FLEETING/2022-06-05.md"
   ]
 }
