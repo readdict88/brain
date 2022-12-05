@@ -10,6 +10,20 @@
           {
             "id": "f8290ca3f24d62cb",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2022-12-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1eae843fe56c108d",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +155,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f8290ca3f24d62cb",
+  "active": "1eae843fe56c108d",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2022-11-29.md",
     "DAILY-INBOX-FLEETING/2022-11-27.md",
