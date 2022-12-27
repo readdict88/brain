@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-12-15.md",
+                "file": "DAILY-INBOX-FLEETING/2022-12-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-12-15.md",
+                "file": "DAILY-INBOX-FLEETING/2022-12-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2022-12-15.md"
+                "file": "DAILY-INBOX-FLEETING/2022-12-27.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "1eae843fe56c108d",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2022-12-15.md",
     "DAILY-INBOX-FLEETING/2022-12-05.md",
     "DAILY-INBOX-FLEETING/2022-11-29.md",
     "DAILY-INBOX-FLEETING/2022-11-27.md",
@@ -165,7 +166,6 @@
     "DAILY-INBOX-FLEETING/2022-10-01.md",
     "DAILY-INBOX-FLEETING/2022-09-30.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2022-01-21 11.03 Kenapa sekolah atau kuliah.md",
-    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
-    "DAILY-INBOX-FLEETING/2022-09-23.md"
+    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
   ]
 }
