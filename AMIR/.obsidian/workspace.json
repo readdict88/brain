@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-02-03.md",
+                "file": "ZETTELKASTEN/Format your notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
               "type": "search",
               "state": {
                 "query": "Akrim",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -80,13 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-02-03.md",
+                "file": "ZETTELKASTEN/Format your notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-02-03.md"
+                "file": "ZETTELKASTEN/Format your notes.md"
               }
             }
           },
@@ -172,6 +170,7 @@
   },
   "active": "1eae843fe56c108d",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2023-02-03.md",
     "DAILY-INBOX-FLEETING/2023-01-09.md",
     "DAILY-INBOX-FLEETING/2022-11-23.md",
     "DAILY-INBOX-FLEETING/2021-12-05.md",
@@ -180,7 +179,6 @@
     "DAILY-INBOX-FLEETING/2022-12-05.md",
     "DAILY-INBOX-FLEETING/2022-11-29.md",
     "DAILY-INBOX-FLEETING/2022-11-27.md",
-    "DAILY-INBOX-FLEETING/2022-10-21.md",
-    "ZETTELKASTEN/Format your notes.md"
+    "DAILY-INBOX-FLEETING/2022-10-21.md"
   ]
 }
