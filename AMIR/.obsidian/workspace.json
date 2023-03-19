@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c72177ac15a174cc",
+        "id": "6ae55b08c8ff2959",
         "type": "tabs",
         "children": [
           {
-            "id": "026aa9f111eda6bd",
+            "id": "5edba03e97575efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "026aa9f111eda6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-W11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-03-19.md",
+                "file": "2023-W11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,12 +135,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-03-19.md"
+                "file": "2023-W11.md"
               }
             }
+          },
+          {
+            "id": "e32692853496ef15",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,14 +170,14 @@
   "active": "026aa9f111eda6bd",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2023-03-19.md",
+    "2023-W11.md",
+    "DAILY-INBOX-FLEETING/2023-03-18.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2023-03-19 17.06.md",
     "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2022-12-05.md",
     "ZETTELKASTEN/Untitled.md",
     "DAILY-INBOX-FLEETING/2023-02-03.md",
     "DAILY-INBOX-FLEETING/2023-01-09.md",
-    "DAILY-INBOX-FLEETING/2022-11-23.md",
-    "DAILY-INBOX-FLEETING/2021-12-05.md",
-    "DAILY-INBOX-FLEETING/2022-12-27.md"
+    "DAILY-INBOX-FLEETING/2022-11-23.md"
   ]
 }
