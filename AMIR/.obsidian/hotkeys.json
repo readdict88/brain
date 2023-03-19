@@ -2,9 +2,9 @@
   "obsidian-emoji-toolbar:emoji-picker:open-picker": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
-      "key": "`"
+      "key": "/"
     }
   ],
   "markdown:toggle-preview": [
@@ -72,6 +72,14 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "obsidian-text-format:text-format-togglecase": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F3"
     }
   ]
 }

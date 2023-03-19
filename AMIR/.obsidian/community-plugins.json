@@ -10,7 +10,6 @@
   "note-refactor-obsidian",
   "tag-wrangler",
   "obsidian-emoji-toolbar",
-  "table-editor-obsidian",
   "templater-obsidian",
   "nldates-obsidian",
   "obsidian-mind-map",
@@ -23,5 +22,7 @@
   "obsidian-contextual-typography",
   "obsidian-smart-typography",
   "obsidian-citation-plugin",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-text-format",
+  "table-editor-obsidian"
 ]
