@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7e5eb383384fee7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7e5eb383384fee7",
+  "active": "5edba03e97575efa",
   "lastOpenFiles": [
     "DAILY-INBOX-FLEETING/2023-04-27.md",
     "DAILY-INBOX-FLEETING/2023-05-02.md",
