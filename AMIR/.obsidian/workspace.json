@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "66a934d4b45ab6c4",
+        "id": "c583a6a826fbf536",
         "type": "tabs",
         "children": [
           {
-            "id": "be8b2a75ca542632",
+            "id": "b6f3aa741d2524c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2023-05-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -54,14 +58,6 @@
             }
           },
           {
-            "id": "4825369b56d270c2",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "79c0c196a7769543",
             "type": "leaf",
             "state": {
@@ -70,7 +66,7 @@
             }
           },
           {
-            "id": "763e5a4dfb86647f",
+            "id": "5ac275fb49462e54",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -78,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -106,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2023-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2023-05-26.md"
+              }
             }
           },
           {
@@ -151,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,9 +170,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8b2a75ca542632",
+  "active": "b6f3aa741d2524c9",
   "lastOpenFiles": [
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
+    "DAILY-INBOX-FLEETING/2021-07-14.md",
     "@ index project thesis.md",
+    "00 index buku referensi.md",
+    "2023-W11.md",
+    "@ index catatan-kajian.md",
+    "DAILY-INBOX-FLEETING/2023-05-26.md",
     "Eisenhower Priority.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -194,13 +199,10 @@
     "DAILY-INBOX-FLEETING/2023-03-19.md",
     "ZETTELKASTEN/Format your notes.md",
     "ZETTELKASTEN/().md",
-    "2023-W11.md",
     "DAILY-INBOX-FLEETING/2023-03-18.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2023-03-19 17.06.md",
     "DAILY-INBOX-FLEETING/2022-12-05.md",
     "ZETTELKASTEN/Untitled.md",
-    "DAILY-INBOX-FLEETING/2023-02-03.md",
-    "DAILY-INBOX-FLEETING/2023-01-09.md",
-    "DAILY-INBOX-FLEETING/2022-11-23.md"
+    "DAILY-INBOX-FLEETING/2023-02-03.md"
   ]
 }
