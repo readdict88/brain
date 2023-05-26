@@ -3737,18 +3737,9 @@ class CSSSettingsManager {
             Object.keys(config).forEach((settingId) => {
                 const setting = config[settingId];
                 if (setting.type === SettingType.CLASS_TOGGLE) {
-                    document.body.classList.remove(setting.id);
-                }
-                else if (setting.type === SettingType.CLASS_SELECT) {
-                    const multiToggle = setting;
-                    multiToggle.options.forEach((v) => {
-                        if (typeof v === 'string') {
-                            document.body.classList.remove(v);
-                        }
-                        else {
-                            document.body.classList.remove(v.value);
-                        }
-                    });
+                    if (this.getSetting(section, settingId)) {
+                        document.body.classList.remove(setting.id);
+                    }
                 }
             });
         });
@@ -3828,22 +3819,16 @@ class CSSSettingsManager {
     setSetting(sectionId, settingId, value) {
         this.settings[`${sectionId}@@${settingId}`] = value;
         this.save();
-        this.removeClasses();
-        this.initClasses();
     }
     setSettings(settings) {
         Object.keys(settings).forEach((id) => {
             this.settings[id] = settings[id];
         });
-        this.removeClasses();
-        this.initClasses();
         return this.save();
     }
     clearSetting(sectionId, settingId) {
         delete this.settings[`${sectionId}@@${settingId}`];
         this.save();
-        this.removeClasses();
-        this.initClasses();
     }
     clearSection(sectionId) {
         Object.keys(this.settings).forEach((key) => {
@@ -3853,8 +3838,6 @@ class CSSSettingsManager {
             }
         });
         this.save();
-        this.removeClasses();
-        this.initClasses();
     }
     export(section, config) {
         new ExportModal(this.plugin.app, this.plugin, section, config).open();
@@ -8044,6 +8027,13 @@ function createDescription(description, def, defLabel) {
     }
     return fragment;
 }
+let timer;
+function customDebounce(cb, timeout = 300) {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+        cb();
+    }, timeout);
+}
 
 var fuzzysort = createCommonjsModule(function (module) {
 ((root, UMD) => {
@@ -8589,28 +8579,16 @@ var fuzzysort = createCommonjsModule(function (module) {
 // TODO: (perf) prepareSearch seems slow
 });
 
-class AbstractSettingComponent extends obsidian.Component {
-    constructor(parent, sectionId, sectionName, setting, settingsManager, isView) {
-        super();
-        this.childEl = null;
-        this.parent = parent;
+class AbstractSettingComponent {
+    constructor(sectionId, sectionName, setting, settingsManager, isView) {
         this.sectionId = sectionId;
         this.sectionName = sectionName;
         this.setting = setting;
         this.settingsManager = settingsManager;
         this.isView = isView;
+        this.onInit();
     }
-    get containerEl() {
-        return this.parent instanceof HTMLElement
-            ? this.parent
-            : this.parent.childEl;
-    }
-    onload() {
-        this.render();
-    }
-    onunload() {
-        this.destroy();
-    }
+    onInit() { }
     /**
      * Matches the Component against `str`. A perfect match returns 0, no match returns negative infinity.
      *
@@ -8636,10 +8614,10 @@ class AbstractSettingComponent extends obsidian.Component {
 const resetTooltip = 'Restore default';
 
 class ClassToggleSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(description !== null && description !== void 0 ? description : '');
         this.settingEl.addToggle((toggle) => {
@@ -8647,6 +8625,12 @@ class ClassToggleSettingComponent extends AbstractSettingComponent {
             toggle.setValue(value !== undefined ? !!value : !!this.setting.default);
             toggle.onChange((value) => {
                 this.settingsManager.setSetting(this.sectionId, this.setting.id, value);
+                if (value) {
+                    document.body.classList.add(this.setting.id);
+                }
+                else {
+                    document.body.classList.remove(this.setting.id);
+                }
             });
             this.toggleComponent = toggle;
         });
@@ -8655,6 +8639,12 @@ class ClassToggleSettingComponent extends AbstractSettingComponent {
             b.onClick(() => {
                 const value = !!this.setting.default;
                 this.toggleComponent.setValue(value);
+                if (value) {
+                    document.body.classList.add(this.setting.id);
+                }
+                else {
+                    document.body.classList.remove(this.setting.id);
+                }
                 this.settingsManager.clearSetting(this.sectionId, this.setting.id);
             });
             b.setTooltip(resetTooltip);
@@ -8668,7 +8658,7 @@ class ClassToggleSettingComponent extends AbstractSettingComponent {
 }
 
 class ClassMultiToggleSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting.default !== 'string') {
@@ -8676,7 +8666,7 @@ class ClassMultiToggleSettingComponent extends AbstractSettingComponent {
         }
         let prevValue = this.getPreviousValue();
         const defaultLabel = this.getDefaultOptionLabel();
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default, defaultLabel));
         this.settingEl.addDropdown((dropdown) => {
@@ -8694,6 +8684,12 @@ class ClassMultiToggleSettingComponent extends AbstractSettingComponent {
             dropdown.setValue(prevValue);
             dropdown.onChange((value) => {
                 this.settingsManager.setSetting(this.sectionId, this.setting.id, value);
+                if (value !== 'none') {
+                    document.body.classList.add(value);
+                }
+                if (prevValue) {
+                    document.body.classList.remove(prevValue);
+                }
                 prevValue = value;
             });
             this.dropdownComponent = dropdown;
@@ -8701,7 +8697,14 @@ class ClassMultiToggleSettingComponent extends AbstractSettingComponent {
         this.settingEl.addExtraButton((b) => {
             b.setIcon('reset');
             b.onClick(() => {
+                const value = this.setting.default || 'none';
                 this.dropdownComponent.setValue(this.setting.default || 'none');
+                if (value !== 'none') {
+                    document.body.classList.add(value);
+                }
+                if (prevValue) {
+                    document.body.classList.remove(prevValue);
+                }
                 this.settingsManager.clearSetting(this.sectionId, this.setting.id);
             });
             b.setTooltip(resetTooltip);
@@ -8746,13 +8749,13 @@ class ClassMultiToggleSettingComponent extends AbstractSettingComponent {
 }
 
 class VariableTextSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting.default !== 'string') {
             return console.error(`${t('Error:')} ${title} ${t('missing default value')}`);
         }
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default));
         this.settingEl.addText((text) => {
@@ -8784,13 +8787,13 @@ class VariableTextSettingComponent extends AbstractSettingComponent {
 }
 
 class VariableNumberSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting.default !== 'number') {
             return console.error(`${t('Error:')} ${title} ${t('missing default value')}`);
         }
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default.toString(10)));
         this.settingEl.addText((text) => {
@@ -8820,13 +8823,13 @@ class VariableNumberSettingComponent extends AbstractSettingComponent {
 }
 
 class VariableNumberSliderSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting.default !== 'number') {
             return console.error(`${t('Error:')} ${title} ${t('missing default value')}`);
         }
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default.toString(10)));
         this.settingEl.addSlider((slider) => {
@@ -8857,14 +8860,14 @@ class VariableNumberSliderSettingComponent extends AbstractSettingComponent {
 }
 
 class VariableSelectSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting.default !== 'string') {
             return console.error(`${t('Error:')} ${title} ${t('missing default value')}`);
         }
         const defaultLabel = this.getDefaultOptionLabel();
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default, defaultLabel));
         this.settingEl.addDropdown((dropdown) => {
@@ -8929,7 +8932,7 @@ var pickr_min = createCommonjsModule(function (module, exports) {
 var Pickr = /*@__PURE__*/getDefaultExportFromCjs(pickr_min);
 
 class VariableColorSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         var _a;
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
@@ -8951,16 +8954,16 @@ class VariableColorSettingComponent extends AbstractSettingComponent {
         if (value !== undefined) {
             swatches.push(value);
         }
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         this.settingEl.setDesc(createDescription(description, this.setting.default));
         // fix, so that the color is correctly shown before the color picker has been opened
         const defaultColor = value !== undefined ? value : this.setting.default;
-        this.containerEl.style.setProperty('--pcr-color', defaultColor);
+        containerEl.style.setProperty('--pcr-color', defaultColor);
         this.pickr = Pickr.create(getPickrSettings({
             isView: this.isView,
             el: this.settingEl.controlEl.createDiv({ cls: 'picker' }),
-            containerEl: this.containerEl,
+            containerEl: containerEl,
             swatches: swatches,
             opacity: this.setting.opacity,
             defaultColor: defaultColor,
@@ -8974,9 +8977,7 @@ class VariableColorSettingComponent extends AbstractSettingComponent {
         });
         this.pickr.on('show', () => {
             const { result } = this.pickr.getRoot().interaction;
-            activeWindow.requestAnimationFrame(() => {
-                activeWindow.requestAnimationFrame(() => result.select());
-            });
+            requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
         });
         this.pickr.on('cancel', onPickrCancel);
         this.settingEl.addExtraButton((b) => {
@@ -8998,7 +8999,7 @@ class VariableColorSettingComponent extends AbstractSettingComponent {
 }
 
 class VariableThemedColorSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
         if (typeof this.setting['default-light'] !== 'string' ||
@@ -9027,7 +9028,7 @@ class VariableThemedColorSettingComponent extends AbstractSettingComponent {
         if (valueDark !== undefined) {
             swatchesDark.push(valueDark);
         }
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setName(title);
         // Construct description
         this.settingEl.descEl.createSpan({}, (span) => {
@@ -9050,9 +9051,9 @@ class VariableThemedColorSettingComponent extends AbstractSettingComponent {
             cls: 'themed-color-wrapper',
         });
         // Create light color picker
-        this.createColorPickerLight(wrapper, this.containerEl, swatchesLight, valueLight, idLight);
+        this.createColorPickerLight(wrapper, containerEl, swatchesLight, valueLight, idLight);
         // Create dark color picker
-        this.createColorPickerDark(wrapper, this.containerEl, swatchesDark, valueDark, idDark);
+        this.createColorPickerDark(wrapper, containerEl, swatchesDark, valueDark, idDark);
         this.settingEl.settingEl.dataset.id = this.setting.id;
     }
     destroy() {
@@ -9080,7 +9081,7 @@ class VariableThemedColorSettingComponent extends AbstractSettingComponent {
         }));
         this.pickrLight.on('show', () => {
             const { result } = this.pickrLight.getRoot().interaction;
-            activeWindow.requestAnimationFrame(() => activeWindow.requestAnimationFrame(() => result.select()));
+            requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
         });
         this.pickrLight.on('save', (color, instance) => this.onSave(idLight, color, instance));
         this.pickrLight.on('cancel', onPickrCancel);
@@ -9109,7 +9110,7 @@ class VariableThemedColorSettingComponent extends AbstractSettingComponent {
         }));
         this.pickrDark.on('show', () => {
             const { result } = this.pickrDark.getRoot().interaction;
-            activeWindow.requestAnimationFrame(() => activeWindow.requestAnimationFrame(() => result.select()));
+            requestAnimationFrame(() => requestAnimationFrame(() => result.select()));
         });
         this.pickrDark.on('save', (color, instance) => this.onSave(idDark, color, instance));
         this.pickrDark.on('cancel', onPickrCancel);
@@ -9131,17 +9132,17 @@ class VariableThemedColorSettingComponent extends AbstractSettingComponent {
 }
 
 class InfoTextSettingComponent extends AbstractSettingComponent {
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setClass('style-settings-info-text');
         if (title) {
             this.settingEl.setName(title);
         }
         if (description) {
             if (this.setting.markdown) {
-                obsidian.MarkdownRenderer.renderMarkdown(description, this.settingEl.descEl, '', this);
+                obsidian.MarkdownRenderer.renderMarkdown(description, this.settingEl.descEl, '', undefined);
                 this.settingEl.descEl.addClass('style-settings-markdown');
             }
             else {
@@ -9156,84 +9157,52 @@ class InfoTextSettingComponent extends AbstractSettingComponent {
     }
 }
 
-function createSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView) {
+function createSettingComponent(sectionId, sectionName, setting, settingsManager, isView) {
     if (setting.type === SettingType.HEADING) {
-        return new HeadingSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new HeadingSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.INFO_TEXT) {
-        return new InfoTextSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new InfoTextSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.CLASS_TOGGLE) {
-        return new ClassToggleSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new ClassToggleSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.CLASS_SELECT) {
-        return new ClassMultiToggleSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new ClassMultiToggleSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_TEXT) {
-        return new VariableTextSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableTextSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_NUMBER) {
-        return new VariableNumberSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableNumberSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_NUMBER_SLIDER) {
-        return new VariableNumberSliderSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableNumberSliderSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_SELECT) {
-        return new VariableSelectSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableSelectSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_COLOR) {
-        return new VariableColorSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableColorSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else if (setting.type === SettingType.VARIABLE_THEMED_COLOR) {
-        return new VariableThemedColorSettingComponent(parent, sectionId, sectionName, setting, settingsManager, isView);
+        return new VariableThemedColorSettingComponent(sectionId, sectionName, setting, settingsManager, isView);
     }
     else {
         return undefined;
     }
 }
-function buildSettingComponentTree(opts) {
-    const { containerEl, isView, sectionId, settings, settingsManager, sectionName, } = opts;
-    const root = new HeadingSettingComponent(containerEl, sectionId, sectionName, settings[0], settingsManager, isView);
-    let currentHeading = root;
-    for (const setting of settings.splice(1)) {
-        if (setting.type === 'heading') {
-            const newHeading = setting;
-            if (newHeading.level < currentHeading.setting.level) {
-                while (newHeading.level < currentHeading.setting.level) {
-                    currentHeading = currentHeading.parent;
-                }
-                if (currentHeading.setting.id === root.setting.id) {
-                    currentHeading = currentHeading.addSettingChild(newHeading);
-                }
-                else {
-                    currentHeading = currentHeading.parent.addSettingChild(newHeading);
-                }
-            }
-            else if (newHeading.level === currentHeading.setting.level) {
-                currentHeading = currentHeading.parent.addSettingChild(newHeading);
-            }
-            else {
-                currentHeading = currentHeading.addSettingChild(newHeading);
-            }
-        }
-        else {
-            currentHeading.addSettingChild(setting);
-        }
-    }
-    return root;
-}
 class HeadingSettingComponent extends AbstractSettingComponent {
-    constructor() {
-        super(...arguments);
+    onInit() {
         this.children = [];
         this.filteredChildren = [];
         this.filterMode = false;
         this.filterResultCount = 0;
     }
-    render() {
+    render(containerEl) {
         const title = getTitle(this.setting);
         const description = getDescription(this.setting);
-        this.settingEl = new obsidian.Setting(this.containerEl);
+        this.settingEl = new obsidian.Setting(containerEl);
         this.settingEl.setHeading();
         this.settingEl.setClass('style-settings-heading');
         this.settingEl.setName(title);
@@ -9245,28 +9214,28 @@ class HeadingSettingComponent extends AbstractSettingComponent {
         });
         obsidian.setIcon(iconContainer, 'right-triangle');
         this.settingEl.nameEl.prepend(iconContainer);
-        this.resultsEl = this.settingEl.nameEl.createSpan({
-            cls: 'style-settings-filter-result-count',
-            text: this.filterMode ? `${this.filterResultCount} Results` : undefined,
-        });
+        if (this.filterMode) {
+            this.settingEl.nameEl.createSpan({
+                cls: 'style-settings-filter-result-count',
+                text: `${this.filterResultCount} Results`,
+            });
+        }
         this.settingEl.settingEl.addEventListener('click', () => {
             this.toggleVisible();
         });
         this.addResetButton();
         this.addExportButton();
-        this.childEl = this.containerEl.createDiv({
-            cls: 'style-settings-container',
-        });
+        this.childEl = containerEl.createDiv({ cls: 'style-settings-container' });
         this.setCollapsed(this.setting.collapsed);
     }
     destroy() {
         var _a;
-        this.removeChildren();
+        if (!this.setting.collapsed) {
+            this.destroyChildren();
+        }
         (_a = this.settingEl) === null || _a === void 0 ? void 0 : _a.settingEl.remove();
-        this.childEl.remove();
     }
     filter(filterString) {
-        var _a;
         this.filteredChildren = [];
         this.filterResultCount = 0;
         for (const child of this.children) {
@@ -9285,18 +9254,10 @@ class HeadingSettingComponent extends AbstractSettingComponent {
             }
         }
         this.filterMode = true;
-        if (this.filterResultCount) {
-            this.setCollapsed(false);
-        }
-        else {
-            this.setCollapsed(true);
-        }
-        this.renderChildren();
-        (_a = this.resultsEl) === null || _a === void 0 ? void 0 : _a.setText(`${this.filterResultCount} Results`);
+        this.setting.collapsed = false;
         return this.filterResultCount;
     }
     clearFilter() {
-        var _a;
         this.filteredChildren = [];
         for (const child of this.children) {
             if (child.setting.type === SettingType.HEADING) {
@@ -9304,37 +9265,36 @@ class HeadingSettingComponent extends AbstractSettingComponent {
             }
         }
         this.filterMode = false;
-        this.setCollapsed(true);
-        this.renderChildren();
-        (_a = this.resultsEl) === null || _a === void 0 ? void 0 : _a.empty();
+        this.setting.collapsed = true;
     }
     renderChildren() {
-        this.removeChildren();
+        this.destroyChildren();
         if (this.filterMode) {
             for (const child of this.filteredChildren) {
-                this.addChild(child);
+                child.render(this.childEl);
             }
         }
         else {
             for (const child of this.children) {
-                this.addChild(child);
+                child.render(this.childEl);
             }
         }
     }
-    removeChildren() {
+    destroyChildren() {
+        var _a;
         for (const child of this.children) {
-            this.removeChild(child);
+            child.destroy();
         }
+        (_a = this.childEl) === null || _a === void 0 ? void 0 : _a.empty();
     }
     toggleVisible() {
         this.setCollapsed(!this.setting.collapsed);
     }
     setCollapsed(collapsed) {
-        var _a;
         this.setting.collapsed = collapsed;
-        (_a = this.settingEl) === null || _a === void 0 ? void 0 : _a.settingEl.toggleClass('is-collapsed', collapsed);
+        this.settingEl.settingEl.toggleClass('is-collapsed', collapsed);
         if (collapsed) {
-            this.removeChildren();
+            this.destroyChildren();
         }
         else {
             this.renderChildren();
@@ -9362,10 +9322,13 @@ class HeadingSettingComponent extends AbstractSettingComponent {
             });
         });
     }
-    addSettingChild(child) {
-        const newSettingComponent = createSettingComponent(this, this.sectionId, this.sectionName, child, this.settingsManager, this.isView);
+    addChild(child) {
+        const newSettingComponent = createSettingComponent(this.sectionId, this.sectionName, child, this.settingsManager, this.isView);
         if (!newSettingComponent) {
             return undefined;
+        }
+        if (newSettingComponent.setting.type === SettingType.HEADING) {
+            newSettingComponent.parent = this;
         }
         this.children.push(newSettingComponent);
         return newSettingComponent;
@@ -9381,10 +9344,40 @@ class HeadingSettingComponent extends AbstractSettingComponent {
         return children;
     }
 }
+function buildSettingComponentTree(opts) {
+    const { isView, sectionId, settings, settingsManager, sectionName } = opts;
+    const root = new HeadingSettingComponent(sectionId, sectionName, settings[0], settingsManager, isView);
+    let currentHeading = root;
+    for (const setting of settings.splice(1)) {
+        if (setting.type === 'heading') {
+            const newHeading = setting;
+            if (newHeading.level < currentHeading.setting.level) {
+                while (newHeading.level < currentHeading.setting.level) {
+                    currentHeading = currentHeading.parent;
+                }
+                if (currentHeading.setting.id === root.setting.id) {
+                    currentHeading = currentHeading.addChild(newHeading);
+                }
+                else {
+                    currentHeading = currentHeading.parent.addChild(newHeading);
+                }
+            }
+            else if (newHeading.level === currentHeading.setting.level) {
+                currentHeading = currentHeading.parent.addChild(newHeading);
+            }
+            else {
+                currentHeading = currentHeading.addChild(newHeading);
+            }
+        }
+        else {
+            currentHeading.addChild(setting);
+        }
+    }
+    return root;
+}
 
-class SettingsMarkup extends obsidian.Component {
+class SettingsMarkup {
     constructor(app, plugin, containerEl, isView) {
-        super();
         this.settingsComponentTrees = [];
         this.filterString = '';
         this.settings = [];
@@ -9394,31 +9387,23 @@ class SettingsMarkup extends obsidian.Component {
         this.containerEl = containerEl;
         this.isView = !!isView;
     }
-    onload() {
-        this.display();
-    }
-    onunload() {
-        this.settingsComponentTrees = [];
-    }
     display() {
         this.generate(this.settings);
-    }
-    removeChildren() {
-        for (const settingsComponentTree of this.settingsComponentTrees) {
-            this.removeChild(settingsComponentTree);
-        }
     }
     /**
      * Recursively destroys all setting elements.
      */
     cleanup() {
         var _a;
-        this.removeChildren();
+        for (const settingsComponentTree of this.settingsComponentTrees) {
+            settingsComponentTree.destroy();
+        }
         (_a = this.settingsContainerEl) === null || _a === void 0 ? void 0 : _a.empty();
     }
     setSettings(settings, errorList) {
         this.settings = settings;
         this.errorList = errorList;
+        this.plugin.settingsManager.setConfig(settings);
         if (this.containerEl.parentNode) {
             this.generate(settings);
         }
@@ -9494,15 +9479,17 @@ class SettingsMarkup extends obsidian.Component {
             // move the search component from the back to the front
             setting.nameEl.appendChild(setting.controlEl.lastChild);
             searchComponent.setValue(this.filterString);
-            searchComponent.onChange(obsidian.debounce((value) => {
-                this.filterString = value;
-                if (value) {
-                    this.filter();
-                }
-                else {
-                    this.clearFilter();
-                }
-            }, 250, true));
+            searchComponent.onChange((value) => {
+                customDebounce(() => {
+                    this.filterString = value;
+                    if (value) {
+                        this.filter();
+                    }
+                    else {
+                        this.clearFilter();
+                    }
+                }, 250);
+            });
             searchComponent.setPlaceholder('Search Style Settings...');
         });
         this.settingsContainerEl = containerEl.createDiv();
@@ -9517,21 +9504,20 @@ class SettingsMarkup extends obsidian.Component {
                     collapsed: (_a = s.collapsed) !== null && _a !== void 0 ? _a : true,
                     resetFn: () => {
                         plugin.settingsManager.clearSection(s.id);
-                        this.rerender();
+                        this.generate(this.settings);
                     },
                 },
                 ...s.settings,
             ];
             try {
                 const settingsComponentTree = buildSettingComponentTree({
-                    containerEl: this.settingsContainerEl,
                     isView: this.isView,
                     sectionId: s.id,
                     sectionName: s.name,
                     settings: options,
                     settingsManager: plugin.settingsManager,
                 });
-                this.addChild(settingsComponentTree);
+                settingsComponentTree.render(this.settingsContainerEl);
                 this.settingsComponentTrees.push(settingsComponentTree);
             }
             catch (e) {
@@ -9543,45 +9529,39 @@ class SettingsMarkup extends obsidian.Component {
      * Recursively filter all setting elements based on `filterString` and then re-renders.
      */
     filter() {
+        this.cleanup();
         for (const settingsComponentTree of this.settingsComponentTrees) {
             settingsComponentTree.filter(this.filterString);
+            settingsComponentTree.render(this.settingsContainerEl);
         }
     }
     /**
      * Recursively clears the filter and then re-renders.
      */
     clearFilter() {
+        this.cleanup();
         for (const settingsComponentTree of this.settingsComponentTrees) {
             settingsComponentTree.clearFilter();
+            settingsComponentTree.render(this.settingsContainerEl);
         }
     }
     rerender() {
-        this.cleanup();
-        this.display();
+        for (const settingsComponentTree of this.settingsComponentTrees) {
+            settingsComponentTree.render(this.settingsContainerEl);
+        }
     }
 }
 
 class CSSSettingsTab extends obsidian.PluginSettingTab {
     constructor(app, plugin) {
         super(app, plugin);
-        this.plugin = plugin;
-    }
-    setSettings(settings, errorList) {
-        this.settings = settings;
-        this.errorList = errorList;
-        if (this.settingsMarkup) {
-            this.settingsMarkup.setSettings(settings, errorList);
-        }
+        this.settingsMarkup = new SettingsMarkup(app, plugin, this.containerEl);
     }
     display() {
-        this.settingsMarkup = this.plugin.addChild(new SettingsMarkup(this.app, this.plugin, this.containerEl));
-        if (this.settings) {
-            this.settingsMarkup.setSettings(this.settings, this.errorList);
-        }
+        this.settingsMarkup.display();
     }
     hide() {
-        this.plugin.removeChild(this.settingsMarkup);
-        this.settingsMarkup = null;
+        this.settingsMarkup.cleanup();
     }
 }
 
@@ -9590,22 +9570,7 @@ class SettingsView extends obsidian.ItemView {
     constructor(plugin, leaf) {
         super(leaf);
         this.plugin = plugin;
-    }
-    setSettings(settings, errorList) {
-        this.settings = settings;
-        this.errorList = errorList;
-        if (this.settingsMarkup) {
-            this.settingsMarkup.setSettings(settings, errorList);
-        }
-    }
-    onload() {
-        this.settingsMarkup = this.addChild(new SettingsMarkup(this.plugin.app, this.plugin, this.contentEl, true));
-        if (this.settings) {
-            this.settingsMarkup.setSettings(this.settings, this.errorList);
-        }
-    }
-    onunload() {
-        this.settingsMarkup = null;
+        this.settingsMarkup = new SettingsMarkup(plugin.app, plugin, this.contentEl, true);
     }
     getViewType() {
         return viewType;
@@ -9615,6 +9580,16 @@ class SettingsView extends obsidian.ItemView {
     }
     getDisplayText() {
         return 'Style Settings';
+    }
+    onOpen() {
+        return __awaiter(this, void 0, void 0, function* () {
+            return this.settingsMarkup.display();
+        });
+    }
+    onClose() {
+        return __awaiter(this, void 0, void 0, function* () {
+            return this.settingsMarkup.cleanup();
+        });
     }
 }
 
@@ -9650,13 +9625,6 @@ class CSSSettingsPlugin extends obsidian.Plugin {
             this.darkEl = document.body.createDiv('theme-dark style-settings-ref');
             document.body.classList.add('css-settings-manager');
             this.parseCSS();
-            this.app.workspace.onLayoutReady(() => {
-                if (this.settingsList) {
-                    this.app.workspace.getLeavesOfType(viewType).forEach((leaf) => {
-                        leaf.view.setSettings(this.settingsList, this.errorList);
-                    });
-                }
-            });
         });
     }
     getCSSVar(id) {
@@ -9667,16 +9635,15 @@ class CSSSettingsPlugin extends obsidian.Plugin {
     }
     parseCSS() {
         clearTimeout(this.debounceTimer);
-        this.debounceTimer = activeWindow.setTimeout(() => {
-            this.settingsList = [];
-            this.errorList = [];
-            // remove registered theme commands (sadly undocumented API)
-            for (const command of this.commandList) {
-                // @ts-ignore
-                this.app.commands.removeCommand(command.id);
-            }
-            this.commandList = [];
-            this.settingsManager.removeClasses();
+        this.settingsList = [];
+        this.errorList = [];
+        // remove registered theme commands (sadly undocumented API)
+        for (const command of this.commandList) {
+            // @ts-ignore
+            this.app.commands.removeCommand(command.id);
+        }
+        this.commandList = [];
+        this.debounceTimer = window.setTimeout(() => {
             const styleSheets = document.styleSheets;
             for (let i = 0, len = styleSheets.length; i < len; i++) {
                 const sheet = styleSheets.item(i);
@@ -9684,11 +9651,10 @@ class CSSSettingsPlugin extends obsidian.Plugin {
             }
             // compatability with Settings Search Plugin
             this.registerSettingsToSettingsSearch();
-            this.settingsTab.setSettings(this.settingsList, this.errorList);
+            this.settingsTab.settingsMarkup.setSettings(this.settingsList, this.errorList);
             this.app.workspace.getLeavesOfType(viewType).forEach((leaf) => {
-                leaf.view.setSettings(this.settingsList, this.errorList);
+                leaf.view.settingsMarkup.setSettings(this.settingsList, this.errorList);
             });
-            this.settingsManager.setConfig(this.settingsList);
             this.settingsManager.initClasses();
             this.registerSettingCommands();
         }, 100);
@@ -9809,6 +9775,12 @@ class CSSSettingsPlugin extends obsidian.Plugin {
             callback: () => {
                 const value = !this.settingsManager.getSetting(section.id, setting.id);
                 this.settingsManager.setSetting(section.id, setting.id, value);
+                if (value) {
+                    document.body.classList.add(setting.id);
+                }
+                else {
+                    document.body.classList.remove(setting.id);
+                }
                 this.settingsTab.settingsMarkup.rerender();
                 for (const leaf of this.app.workspace.getLeavesOfType(viewType)) {
                     leaf.view.settingsMarkup.rerender();
@@ -9823,6 +9795,7 @@ class CSSSettingsPlugin extends obsidian.Plugin {
         this.darkEl = null;
         document.body.classList.remove('css-settings-manager');
         this.settingsManager.cleanup();
+        this.settingsTab.settingsMarkup.cleanup();
         this.deactivateView();
         this.unregisterSettingsFromSettingsSearch();
     }
@@ -9837,7 +9810,7 @@ class CSSSettingsPlugin extends obsidian.Plugin {
                 type: viewType,
                 active: true,
             });
-            leaf.view.setSettings(this.settingsList, this.errorList);
+            leaf.view.settingsMarkup.setSettings(this.settingsList, this.errorList);
         });
     }
 }
