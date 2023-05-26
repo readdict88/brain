@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-02.md",
+                "file": "@ index project thesis.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc155a75b916dd94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,13 +83,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "763e5a4dfb86647f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -102,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-02.md",
+                "file": "Eisenhower Priority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-02.md"
+                "file": "Eisenhower Priority.md"
               }
             }
           },
@@ -141,12 +160,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7869d0e1a37c9565",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +190,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5edba03e97575efa",
+  "active": "dc155a75b916dd94",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2023-04-27.md",
+    "Eisenhower Priority.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "ZETTELKASTEN/2. PERMANENT NOTE/2023-05-26 08.57.md",
+    "Untitled.canvas",
     "DAILY-INBOX-FLEETING/2023-05-02.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "DAILY-INBOX-FLEETING/2023-04-27.md",
     "DAILY-INBOX-FLEETING/2023-04-18.md",
     "DAILY-INBOX-FLEETING/2023-04-07.md",
     "DAILY-INBOX-FLEETING/2023-03-24.md",
