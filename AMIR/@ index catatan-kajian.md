@@ -17,5 +17,5 @@
 1. [[2021-11-29#^ba3469|Islamisasi #1]]
 
 # TUGAS KULIAH
-1. [[2021-12-06#^652b49|Tugas Tasawuf]]
+1. ~~[[2021-12-06#^652b49|Tugas Tasawuf]]~~
 2. 
