@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9861104ff23c69",
+        "id": "67a849ee6eab48db",
         "type": "tabs",
         "children": [
           {
-            "id": "d123ca9a64945854",
+            "id": "8bbdb6616c3ccd8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Darma Pohan dakwah US.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "format your notes",
+                "query": "hudaya",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Darma Pohan dawa US.md",
+                "file": "Darma Pohan dakwah US.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Darma Pohan dawa US.md"
+                "file": "Darma Pohan dakwah US.md"
               }
             }
           },
@@ -166,14 +170,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9e9984da6fe37a80",
+  "active": "8bbdb6616c3ccd8a",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2021-07-14.md",
+    "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
     "Context/AMIR.mdb",
-    "Darma Pohan dawa US.md",
+    "Darma Pohan dakwah US.md",
     "DAILY-INBOX-FLEETING/2023-05-26.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
-    "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
-    "DAILY-INBOX-FLEETING/2021-07-14.md",
     "@ index project thesis.md",
     "00 index buku referensi.md",
     "2023-W11.md",

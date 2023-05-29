@@ -30,4 +30,3 @@
 - Ability to speak Arabic and English hafidz, be imam in US.
 - Green card is given when your dakwah is accepted for 6 years to be citizen.
 - Study harder and smarter as the material to do dakwah as Rasulullah did
-- 
