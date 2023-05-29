@@ -1,0 +1,33 @@
+- Financial sacrifice is hard to be given in dakwah places
+- Greatest nikmah is living as Muslim
+- Promise made: spread Islam when education in the west is possible
+- 12rb students from Indonesia in US
+- Most students come home to Indonesia, white other countries stay in US
+- ICMI established in Indonesia and lots westerners embrace Islam through it
+- Most of US resident from Indonesia forget the education for second generation
+- ICMI provide school hospital and education for Indonesian Muslim especially for their children, the second generation, to love Islam and Indonesia
+- 4 Margie established in US, in los Angeles, TX, NY. Syamsi Ali. Washington DC masjid Al imam. And also Canada named Istiqlal.
+- The task now is to move outside. The role for Islam dakwah. Indonesian people are respected to be humble, polite, etc. But it is misused sometimes.
+- Rural area have not gotten dakwah, they know kita Islam from media.
+- Dakwah began with survey, the potential, strategy, and focus.
+- New Muslim mualaf must be educated with comprehensive education of Islam. It must touch also the older Muslim.
+- New Muslim must got new community for accustomed of new rules.
+- Himsa muhamadiyah Nahdhatul ulama are existed in US. To provide mentor and training for new Muslims.
+- Heavy topics are discussed and compare with bible teaching, the worship is also more frequent. Mentor tried to bring them back in Islam.
+- No one size fit for all. Treatment is different for each mualaf
+- Dakwah dibawa di kampus dengan pendidikan atas di US. MSA muslim student association.
+- 4 3 3 committed, so-so, gone
+- Ada kelas 14 Minggu, untuk mualaf. 
+- Free lunch with Indonesian cuisine, to introduce Indonesian culture.
+- Strategy of dakwah follows rasulullah. From aqidah.
+- We need more Muslims in every aspect and roles in US with Islamic characters and same outfit and name.
+- Every mualaf will be the agent of dakwah too, especially the parents
+- Don't change the names, only the character and heart. So then it introduces Islam.
+- US is open society. The main point is to show and bring prof that Islam as best religion, by performing the best in every aspect of life. Compass of life is in worship.
+- Any liar will not be trusted forever. 
+- Best way to preach Islam is with conduct and noble characters. 
+- M Muslim study harder than the Jews the Christian and any other religion followers.
+- Ability to speak Arabic and English hafidz, be imam in US.
+- Green card is given when your dakwah is accepted for 6 years to be citizen.
+- Study harder and smarter as the material to do dakwah as Rasulullah did
+- 
