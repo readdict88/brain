@@ -11,8 +11,10 @@
             "id": "b6f3aa741d2524c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "AMIR//"
+              }
             }
           }
         ]
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Darma Pohan dawa US.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Darma Pohan dawa US.md"
+              }
             }
           },
           {
@@ -163,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ac275fb49462e54",
+  "active": "b6f3aa741d2524c9",
   "lastOpenFiles": [
+    "Context/AMIR.mdb",
     "Darma Pohan dawa US.md",
     "DAILY-INBOX-FLEETING/2023-05-26.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
@@ -195,7 +201,6 @@
     "ZETTELKASTEN/().md",
     "DAILY-INBOX-FLEETING/2023-03-18.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/2023-03-19 17.06.md",
-    "DAILY-INBOX-FLEETING/2022-12-05.md",
-    "ZETTELKASTEN/Untitled.md"
+    "DAILY-INBOX-FLEETING/2022-12-05.md"
   ]
 }
