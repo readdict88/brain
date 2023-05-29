@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c583a6a826fbf536",
+        "id": "6d9861104ff23c69",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f3aa741d2524c9",
+            "id": "d123ca9a64945854",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "AMIR//"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6f3aa741d2524c9",
+  "active": "9e9984da6fe37a80",
   "lastOpenFiles": [
     "Context/AMIR.mdb",
     "Darma Pohan dawa US.md",
