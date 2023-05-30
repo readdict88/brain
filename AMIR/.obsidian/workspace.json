@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@ index catatan-kajian.md",
+                "file": "DAILY-INBOX-FLEETING/2023-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@ index catatan-kajian.md",
+                "file": "DAILY-INBOX-FLEETING/2023-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@ index catatan-kajian.md"
+                "file": "DAILY-INBOX-FLEETING/2023-05-30.md"
               }
             }
           },
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +173,13 @@
   },
   "active": "8bbdb6616c3ccd8a",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2023-05-30.md",
+    "ZETTELKASTEN/Format your notes.md",
+    "ZETTELKASTEN/ZETTELKASTEN.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
+    "ZETTELKASTEN/~$rmat your notes.docx",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/1. SOURCE-LITERATUR NOTE.md",
     "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
@@ -198,12 +206,6 @@
     "DAILY-INBOX-FLEETING/2023-03-22.md",
     "DAILY-INBOX-FLEETING/2023-03-21.md",
     "DAILY-INBOX-FLEETING/2023-03-31.md",
-    "DAILY-INBOX-FLEETING/2023-03-24.odt",
-    "DAILY-INBOX-FLEETING/2023-03-19.md",
-    "ZETTELKASTEN/Format your notes.md",
-    "ZETTELKASTEN/().md",
-    "DAILY-INBOX-FLEETING/2023-03-18.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/2023-03-19 17.06.md",
-    "DAILY-INBOX-FLEETING/2022-12-05.md"
+    "DAILY-INBOX-FLEETING/2023-03-24.odt"
   ]
 }
