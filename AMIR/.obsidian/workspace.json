@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67a849ee6eab48db",
+        "id": "59cfbd9adf04f832",
         "type": "tabs",
         "children": [
           {
-            "id": "8bbdb6616c3ccd8a",
+            "id": "f40498701730c8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-30.md",
+                "file": "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,19 +66,19 @@
             }
           },
           {
-            "id": "5ac275fb49462e54",
+            "id": "1e438a9e8e74ebd8",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-30.md",
+                "file": "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-05-30.md"
+                "file": "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md"
               }
             }
           },
@@ -171,8 +171,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8bbdb6616c3ccd8a",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
+    "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
     "DAILY-INBOX-FLEETING/2023-05-30.md",
     "ZETTELKASTEN/Format your notes.md",
     "ZETTELKASTEN/ZETTELKASTEN.md",
@@ -205,7 +206,6 @@
     "DAILY-INBOX-FLEETING/2023-03-24.md",
     "DAILY-INBOX-FLEETING/2023-03-22.md",
     "DAILY-INBOX-FLEETING/2023-03-21.md",
-    "DAILY-INBOX-FLEETING/2023-03-31.md",
     "DAILY-INBOX-FLEETING/2023-03-24.odt"
   ]
 }
