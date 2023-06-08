@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-06.md",
+                "file": "ZETTELKASTEN/ZETTELKASTEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-06.md",
+                "file": "ZETTELKASTEN/ZETTELKASTEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-06.md"
+                "file": "ZETTELKASTEN/ZETTELKASTEN.md"
               }
             }
           },
@@ -162,10 +162,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6ab183f30260958",
+  "active": "f40498701730c8e2",
   "lastOpenFiles": [
-    "00 index buku referensi.md",
+    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/1. SOURCE-LITERATUR NOTE.md",
     "DAILY-INBOX-FLEETING/2023-06-06.md",
+    "DAILY-INBOX-FLEETING/Untitled.md",
+    "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
+    "00 index buku referensi.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
     "DAILY-INBOX-FLEETING/2023-05-30.md",
@@ -174,10 +177,8 @@
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
     "ZETTELKASTEN/~$rmat your notes.docx",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/1. SOURCE-LITERATUR NOTE.md",
     "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
-    "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
     "Darma Pohan dakwah US.md",
     "DAILY-INBOX-FLEETING/2021-07-14.md",
     "Context/AMIR.mdb",
@@ -196,7 +197,6 @@
     "DAILY-INBOX-FLEETING/2023-04-27.md",
     "DAILY-INBOX-FLEETING/2023-04-18.md",
     "DAILY-INBOX-FLEETING/2023-04-07.md",
-    "DAILY-INBOX-FLEETING/2023-03-24.md",
     "DAILY-INBOX-FLEETING/2023-03-24.odt"
   ]
 }
