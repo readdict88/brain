@@ -4,6 +4,13 @@ AMIR/.trash/
 AMIR/.DS_Store
 AMIR/.obsidian/workspace
 AMIR/.obsidian/workspace.json
+<<<<<<< HEAD
 AMIR/.obsidian/community-plugins.json
 AMIR/.obsidian/workspace.json
 *.json
+=======
+*.json
+AMIR/.obsidian/app.json
+AMIR/.obsidian/appearance.json
+AMIR/.obsidian/hotkeys.json
+>>>>>>> 8bb50e793a7724debe47e4ad6ac8598bd53e22e5
