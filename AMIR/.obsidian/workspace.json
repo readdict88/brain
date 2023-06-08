@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 index buku referensi.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,17 +64,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "1e438a9e8e74ebd8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 index buku referensi.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 index buku referensi.md"
+                "file": "DAILY-INBOX-FLEETING/2023-06-06.md"
               }
             }
           },
@@ -171,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f40498701730c8e2",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
+    "00 index buku referensi.md",
+    "DAILY-INBOX-FLEETING/2023-06-06.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
     "DAILY-INBOX-FLEETING/2023-05-30.md",
@@ -185,7 +178,6 @@
     "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
     "DAILY-INBOX-FLEETING/DAILY-INBOX-FLEETING.md",
-    "00 index buku referensi.md",
     "Darma Pohan dakwah US.md",
     "DAILY-INBOX-FLEETING/2021-07-14.md",
     "Context/AMIR.mdb",
@@ -205,7 +197,6 @@
     "DAILY-INBOX-FLEETING/2023-04-18.md",
     "DAILY-INBOX-FLEETING/2023-04-07.md",
     "DAILY-INBOX-FLEETING/2023-03-24.md",
-    "DAILY-INBOX-FLEETING/2023-03-22.md",
     "DAILY-INBOX-FLEETING/2023-03-24.odt"
   ]
 }
