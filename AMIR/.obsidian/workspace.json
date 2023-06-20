@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-18.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-18.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-18.md"
+                "file": "DAILY-INBOX-FLEETING/2023-06-20.md"
               }
             }
           },
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +178,13 @@
   },
   "active": "7811df0f2cf983b0",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2023-06-14.md",
+    "ZETTELKASTEN/Format your notes.md",
+    "Untitled.md",
+    "DAILY-INBOX-FLEETING/2023-06-20.md",
     "DAILY-INBOX-FLEETING/2023-06-18.md",
+    "DAILY-INBOX-FLEETING/2023-06-14.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Kenapa sekolah atau kuliah 2022-01-21 11.03.md",
-    "ZETTELKASTEN/Format your notes.md",
     "DAILY-INBOX-FLEETING/2023-06-08.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Teleology 2022-06-07 22.11.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
@@ -202,9 +205,7 @@
     "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
     "Darma Pohan dakwah US.md",
-    "DAILY-INBOX-FLEETING/2021-07-14.md",
     "Context/AMIR.mdb",
-    "DAILY-INBOX-FLEETING/2023-05-26.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
