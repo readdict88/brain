@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-20.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-20.md",
+                "file": "DAILY-INBOX-FLEETING/2023-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-20.md"
+                "file": "DAILY-INBOX-FLEETING/2023-06-23.md"
               }
             }
           },
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +178,10 @@
   },
   "active": "7811df0f2cf983b0",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2023-06-20.md",
+    "DAILY-INBOX-FLEETING/2023-06-23.md",
     "ZETTELKASTEN/Format your notes.md",
     "Untitled.md",
-    "DAILY-INBOX-FLEETING/2023-06-20.md",
     "DAILY-INBOX-FLEETING/2023-06-18.md",
     "DAILY-INBOX-FLEETING/2023-06-14.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
@@ -203,7 +205,6 @@
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "DAILY-INBOX-FLEETING/2021-12-06.md",
     "@ index catatan-kajian.md",
-    "Darma Pohan dakwah US.md",
     "Context/AMIR.mdb",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
