@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md",
+                "file": "DAILY-INBOX-FLEETING/2023-08-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md",
+                "file": "DAILY-INBOX-FLEETING/2023-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md"
+                "file": "DAILY-INBOX-FLEETING/2023-08-04.md"
               }
             }
           },
@@ -171,8 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,13 +178,16 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "7811df0f2cf983b0",
   "lastOpenFiles": [
-    "DAILY-INBOX-FLEETING/2023-07-06.md",
     "DAILY-INBOX-FLEETING/2023-07-14.md",
+    "DAILY-INBOX-FLEETING/2023-08-04.md",
+    "DAILY-INBOX-FLEETING/2023-07-06.md",
     "DAILY-INBOX-FLEETING/2023-07-07.md",
     "assets/img/a/9/f",
     "assets/img/a/9",
@@ -216,7 +217,6 @@
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/masalah anggaran.md",
     "ZETTELKASTEN/3. PROJECT-INSIGHT NOTES/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
     "DAILY-INBOX-FLEETING/2023-05-30.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
     "ZETTELKASTEN/~$rmat your notes.docx",
     "Context/AMIR.mdb",
     "Untitled 2.canvas",
