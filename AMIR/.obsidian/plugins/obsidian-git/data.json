@@ -10,7 +10,7 @@
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
-  "updateSubmodules": false,
+  "updateSubmodules": true,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "C:\\Users\\STAF BAN-SM\\Documents\\Github\\brain",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
