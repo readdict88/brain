@@ -20,9 +20,6 @@
   "showLineNumber": false,
   "rightToLeft": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "id",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "strictLineBreaks": true
 }
