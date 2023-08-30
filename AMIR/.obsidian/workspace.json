@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "59cfbd9adf04f832",
+        "id": "b22149e45ada606a",
         "type": "tabs",
         "children": [
           {
-            "id": "f40498701730c8e2",
+            "id": "99558f5cc3d15c8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-06-08.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7811df0f2cf983b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2849ece24b85247a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2023-07-14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,11 +163,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2849ece24b85247a",
+  "active": "99558f5cc3d15c8c",
   "lastOpenFiles": [
+    "DAILY-INBOX-FLEETING/2023-06-08.md",
+    "DAILY-INBOX-FLEETING/2023-07-14.md",
     "DAILY-INBOX-FLEETING/2023-08-04.md",
     "DAILY-INBOX-FLEETING/2023-07-06.md",
-    "DAILY-INBOX-FLEETING/2023-07-14.md",
     "DAILY-INBOX-FLEETING/2023-07-07.md",
     "assets/img/a/9/f",
     "assets/img/a/9",
@@ -213,7 +184,6 @@
     "DAILY-INBOX-FLEETING/2023-06-14.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Kenapa sekolah atau kuliah 2022-01-21 11.03.md",
-    "DAILY-INBOX-FLEETING/2023-06-08.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Teleology 2022-06-07 22.11.md",
     "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
     "ZETTELKASTEN/2. PERMANENT NOTE/Everyhing is Fucked_a book about hope.md",
