@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3096bf8cbb4ffbc8",
+        "id": "2ced62b15000b766",
         "type": "tabs",
         "children": [
           {
-            "id": "36ffaccf81dc8130",
+            "id": "972496537dc2f9aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-06-07.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-06-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36ffaccf81dc8130",
+  "active": "972496537dc2f9aa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "DAILY-INBOX-FLEETING/2024-06-07.md",
+    "conflict-files-obsidian-git.md",
     "DAILY-INBOX-FLEETING/2024-05-28.md",
     "DAILY-INBOX-FLEETING/2024-05-21.md",
     "DAILY-INBOX-FLEETING/2023-09-16.md",
