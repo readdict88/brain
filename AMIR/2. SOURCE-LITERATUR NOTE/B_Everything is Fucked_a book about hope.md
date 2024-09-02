@@ -6,10 +6,9 @@ Publisher: HarperCollins
 Year: 2019
 Edition: 1
 ISBN: 978-0-06-288847-1
-
 ---
 
-cover::![[Pasted image 20220122152555.png]]
+cover:: ![[Pasted image 20220122152555.png]]
 
 ## SUMMARY
 > 

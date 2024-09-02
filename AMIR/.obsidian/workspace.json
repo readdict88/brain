@@ -6,6 +6,7 @@
       {
         "id": "2ced62b15000b766",
         "type": "tabs",
+        "dimension": 53.160700685453165,
         "children": [
           {
             "id": "972496537dc2f9aa",
@@ -13,10 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-02.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f0767fdb9e221d65",
+        "type": "tabs",
+        "dimension": 46.83929931454684,
+        "children": [
+          {
+            "id": "982c885f3ee6c382",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,8 +65,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Resources",
-                "matchingCase": false,
+                "query": "tag:#Areas",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -101,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md"
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-02.md"
               }
             }
           },
@@ -171,36 +188,38 @@
       "templates:Insert template": false
     }
   },
-  "active": "b6ab183f30260958",
+  "active": "972496537dc2f9aa",
   "lastOpenFiles": [
-    "ARSIP/INDEX BACAAN.md",
-    "Untitled",
-    "5. INDEXES",
-    "4. TAGS",
-    "ARSIP/ARSIP.md",
-    "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
-    "3. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
-    "3. PERMANENT NOTE/Kenapa sekolah atau kuliah 2022-01-21 11.03.md",
-    "3. PERMANENT NOTE/Teleology 2022-06-07 22.11.md",
-    "6. TEMPLATES/Zettel Template.md",
-    "6. TEMPLATES/WEB_template.md",
-    "6. TEMPLATES/Source-Ref Template.md",
-    "6. TEMPLATES/Meeting-Koordinasi.md",
-    "6. TEMPLATES/Index Template.md",
-    "6. TEMPLATES/Cornell Taking Notes.md",
-    "1. DAILY-INBOX-FLEETING/2024-09-02.md",
-    "1. DAILY-INBOX-FLEETING/2024-09-01.md",
+    "1. DAILY-INBOX-FLEETING/2022-01-18.md",
+    "1. DAILY-INBOX-FLEETING/2021-11-30.md",
+    "1. DAILY-INBOX-FLEETING/2021-11-04.md",
+    "1. DAILY-INBOX-FLEETING/2021-11-02.md",
+    "1. DAILY-INBOX-FLEETING/2021-10-13.md",
+    "1. DAILY-INBOX-FLEETING/2021-09-19.md",
+    "1. DAILY-INBOX-FLEETING/2021-09-06.md",
+    "1. DAILY-INBOX-FLEETING/2021-08-22.md",
+    "1. DAILY-INBOX-FLEETING/2021-08-12.md",
+    "1. DAILY-INBOX-FLEETING/2021-08-02.md",
+    "1. DAILY-INBOX-FLEETING/2021-07-14.md",
+    "3. PERMANENT NOTE/ust hudaya.md",
+    "4. TAGS/hudaya.md",
+    "4. TAGS/Islamisasi Ilmu.md",
+    "4. TAGS/muhasabah.md",
+    "4. TAGS/kematian.md",
+    "4. TAGS/youtube.md",
+    "4. TAGS/obsidian.md",
+    "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
+    "2. SOURCE-LITERATUR NOTE/B_Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
+    "2. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
+    "5. INDEXES/INDEX BACAAN.md",
+    "ARSIP/zFiles-Images/Pasted image 20220122152555.png",
+    "ARSIP/Format your notes.md",
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
     "ARSIP/Eisenhower Priority.md",
     "ARSIP/Darma Pohan dakwah US.md",
-    "ARSIP/2023-W11.md",
-    "3. PERMANENT NOTE/00 index buku referensi.md",
-    "ARSIP/@ index project thesis.md",
-    "ARSIP/@ index catatan-kajian.md",
-    "1. DAILY-INBOX-FLEETING/2024-06-07.md",
-    "conflict-files-obsidian-git.md",
-    "1. DAILY-INBOX-FLEETING/2024-05-28.md",
-    "1. DAILY-INBOX-FLEETING/2024-05-21.md",
+    "Untitled",
+    "5. INDEXES",
+    "4. TAGS",
     "ARSIP/assets/img/a/9/f",
     "ARSIP/assets/img/a/9",
     "ARSIP/assets/img/a",
