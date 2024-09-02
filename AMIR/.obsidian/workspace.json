@@ -11,8 +11,12 @@
             "id": "972496537dc2f9aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2024-09-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DAILY-INBOX-FLEETING/2024-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DAILY-INBOX-FLEETING/2024-09-01.md"
+              }
             }
           },
           {
@@ -166,6 +172,22 @@
   },
   "active": "972496537dc2f9aa",
   "lastOpenFiles": [
+    "Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
+    "INDEX BACAAN.md",
+    "Eisenhower Priority.md",
+    "Darma Pohan dakwah US.md",
+    "2023-W11.md",
+    "00 index buku referensi.md",
+    "@ index project thesis.md",
+    "@ index catatan-kajian.md",
+    "ztemplates/Zettel Template.md",
+    "ztemplates/WEB_template.md",
+    "ztemplates/Source-Ref Template.md",
+    "ztemplates/Meeting-Koordinasi.md",
+    "ztemplates/Index Template.md",
+    "ztemplates/Cornell Taking Notes.md",
+    "ZETTELKASTEN/ZETTELKASTEN.md",
+    "DAILY-INBOX-FLEETING/2024-09-01.md",
     "DAILY-INBOX-FLEETING/2024-06-07.md",
     "conflict-files-obsidian-git.md",
     "DAILY-INBOX-FLEETING/2024-05-28.md",
@@ -182,22 +204,6 @@
     "assets/img",
     "assets",
     "assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
-    "DAILY-INBOX-FLEETING/2023-06-23.md",
-    "DAILY-INBOX-FLEETING/2023-06-20.md",
-    "ZETTELKASTEN/Format your notes.md",
-    "Untitled.md",
-    "DAILY-INBOX-FLEETING/2023-06-18.md",
-    "DAILY-INBOX-FLEETING/2023-06-14.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Kenapa sekolah atau kuliah 2022-01-21 11.03.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Teleology 2022-06-07 22.11.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
-    "ZETTELKASTEN/2. PERMANENT NOTE/Everyhing is Fucked_a book about hope.md",
-    "ZETTELKASTEN/ZETTELKASTEN.md",
-    "DAILY-INBOX-FLEETING/2023-03-24.md",
-    "ZETTELKASTEN/1. SOURCE-LITERATUR NOTE/1. SOURCE-LITERATUR NOTE.md",
-    "DAILY-INBOX-FLEETING/2023-06-06.md",
-    "DAILY-INBOX-FLEETING/Untitled.md",
     "ZETTELKASTEN/~$rmat your notes.docx",
     "Context/AMIR.mdb",
     "Untitled 2.canvas",
