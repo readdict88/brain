@@ -6,7 +6,7 @@
       {
         "id": "2ced62b15000b766",
         "type": "tabs",
-        "dimension": 53.160700685453165,
+        "dimension": 41.90871369294606,
         "children": [
           {
             "id": "972496537dc2f9aa",
@@ -26,7 +26,7 @@
       {
         "id": "f0767fdb9e221d65",
         "type": "tabs",
-        "dimension": 46.83929931454684,
+        "dimension": 58.09128630705395,
         "children": [
           {
             "id": "982c885f3ee6c382",
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -118,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +186,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "972496537dc2f9aa",
+  "active": "982c885f3ee6c382",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2024-09-02.md",
     "1. DAILY-INBOX-FLEETING/2022-01-18.md",
     "1. DAILY-INBOX-FLEETING/2021-11-30.md",
     "1. DAILY-INBOX-FLEETING/2021-11-04.md",
@@ -216,7 +215,6 @@
     "ARSIP/Format your notes.md",
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
     "ARSIP/Eisenhower Priority.md",
-    "ARSIP/Darma Pohan dakwah US.md",
     "Untitled",
     "5. INDEXES",
     "4. TAGS",
