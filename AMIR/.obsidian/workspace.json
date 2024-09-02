@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-09-01.md",
+                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-09-01.md",
+                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY-INBOX-FLEETING/2024-09-01.md"
+                "file": "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md"
               }
             }
           },
@@ -167,50 +167,50 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:Insert template": false
     }
   },
-  "active": "972496537dc2f9aa",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
-    "Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
-    "INDEX BACAAN.md",
-    "Eisenhower Priority.md",
-    "Darma Pohan dakwah US.md",
-    "2023-W11.md",
-    "00 index buku referensi.md",
-    "@ index project thesis.md",
-    "@ index catatan-kajian.md",
-    "ztemplates/Zettel Template.md",
-    "ztemplates/WEB_template.md",
-    "ztemplates/Source-Ref Template.md",
-    "ztemplates/Meeting-Koordinasi.md",
-    "ztemplates/Index Template.md",
-    "ztemplates/Cornell Taking Notes.md",
-    "ZETTELKASTEN/ZETTELKASTEN.md",
-    "DAILY-INBOX-FLEETING/2024-09-01.md",
-    "DAILY-INBOX-FLEETING/2024-06-07.md",
+    "ARSIP/INDEX BACAAN.md",
+    "Untitled",
+    "5. INDEXES",
+    "4. TAGS",
+    "ARSIP/ARSIP.md",
+    "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
+    "3. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
+    "3. PERMANENT NOTE/Kenapa sekolah atau kuliah 2022-01-21 11.03.md",
+    "3. PERMANENT NOTE/Teleology 2022-06-07 22.11.md",
+    "6. TEMPLATES/Zettel Template.md",
+    "6. TEMPLATES/WEB_template.md",
+    "6. TEMPLATES/Source-Ref Template.md",
+    "6. TEMPLATES/Meeting-Koordinasi.md",
+    "6. TEMPLATES/Index Template.md",
+    "6. TEMPLATES/Cornell Taking Notes.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-02.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-01.md",
+    "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
+    "ARSIP/Eisenhower Priority.md",
+    "ARSIP/Darma Pohan dakwah US.md",
+    "ARSIP/2023-W11.md",
+    "3. PERMANENT NOTE/00 index buku referensi.md",
+    "ARSIP/@ index project thesis.md",
+    "ARSIP/@ index catatan-kajian.md",
+    "1. DAILY-INBOX-FLEETING/2024-06-07.md",
     "conflict-files-obsidian-git.md",
-    "DAILY-INBOX-FLEETING/2024-05-28.md",
-    "DAILY-INBOX-FLEETING/2024-05-21.md",
-    "DAILY-INBOX-FLEETING/2023-09-16.md",
-    "DAILY-INBOX-FLEETING/2023-06-08.md",
-    "DAILY-INBOX-FLEETING/2023-07-14.md",
-    "DAILY-INBOX-FLEETING/2023-08-04.md",
-    "DAILY-INBOX-FLEETING/2023-07-06.md",
-    "DAILY-INBOX-FLEETING/2023-07-07.md",
-    "assets/img/a/9/f",
-    "assets/img/a/9",
-    "assets/img/a",
-    "assets/img",
-    "assets",
-    "assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
+    "1. DAILY-INBOX-FLEETING/2024-05-28.md",
+    "1. DAILY-INBOX-FLEETING/2024-05-21.md",
+    "ARSIP/assets/img/a/9/f",
+    "ARSIP/assets/img/a/9",
+    "ARSIP/assets/img/a",
+    "ARSIP/assets/img",
+    "ARSIP/assets",
+    "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ZETTELKASTEN/~$rmat your notes.docx",
-    "Context/AMIR.mdb",
+    "ARSIP/Context/AMIR.mdb",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Context/spacesLastSync.log",
-    "Context",
-    "DAILY-INBOX-FLEETING/2023-03-24.odt"
+    "Untitled.canvas"
   ]
 }

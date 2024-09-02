@@ -12,8 +12,8 @@
   },
   "legacyEditor": false,
   "livePreview": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "zFiles-Images",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "ARSIP/zFiles-Images",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "showFrontmatter": true,
@@ -21,5 +21,6 @@
   "rightToLeft": false,
   "spellcheck": true,
   "spellcheckLanguages": null,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileFolderPath": "3. PERMANENT NOTE"
 }
