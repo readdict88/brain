@@ -8,7 +8,7 @@ Edition: 1
 
 ---
 
-![[Pasted image 20220121090549.png]]
+cover:: ![[Pasted image 20220121090549.png]]
 
 
 ---

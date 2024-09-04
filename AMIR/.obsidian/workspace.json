@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0767fdb9e221d65",
+        "id": "39ed74095a743407",
         "type": "tabs",
         "children": [
           {
-            "id": "982c885f3ee6c382",
+            "id": "54361777ed4c08bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARSIP/ARCHIVE/إحياء علوم الدين.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Areas",
+                "query": "tag:#filsafat/ilmu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARSIP/ARCHIVE/إحياء علوم الدين.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ARSIP/ARCHIVE/إحياء علوم الدين.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,21 +134,12 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "7869d0e1a37c9565",
-            "type": "leaf",
-            "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,35 +156,38 @@
       "templates:Insert template": false
     }
   },
-  "active": "982c885f3ee6c382",
+  "active": "54361777ed4c08bd",
   "lastOpenFiles": [
-    "ARSIP/@ index catatan-kajian.md",
-    "ARSIP/ARCHIVE/إحياء علوم الدين.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-01.md",
     "1. DAILY-INBOX-FLEETING/2024-09-02.md",
-    "1. DAILY-INBOX-FLEETING/2022-01-18.md",
-    "1. DAILY-INBOX-FLEETING/2021-11-30.md",
-    "1. DAILY-INBOX-FLEETING/2021-11-04.md",
-    "1. DAILY-INBOX-FLEETING/2021-11-02.md",
-    "1. DAILY-INBOX-FLEETING/2021-10-13.md",
-    "1. DAILY-INBOX-FLEETING/2021-09-19.md",
-    "1. DAILY-INBOX-FLEETING/2021-09-06.md",
-    "1. DAILY-INBOX-FLEETING/2021-08-22.md",
-    "1. DAILY-INBOX-FLEETING/2021-08-12.md",
-    "1. DAILY-INBOX-FLEETING/2021-08-02.md",
-    "1. DAILY-INBOX-FLEETING/2021-07-14.md",
-    "3. PERMANENT NOTE/ust hudaya.md",
-    "4. TAGS/hudaya.md",
-    "4. TAGS/Islamisasi Ilmu.md",
-    "4. TAGS/muhasabah.md",
-    "4. TAGS/kematian.md",
-    "4. TAGS/youtube.md",
-    "4. TAGS/obsidian.md",
+    "ARSIP/zFiles-Images/Recording 20240902224022.webm",
+    "Untitled.canvas",
+    "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
+    "2. SOURCE-LITERATUR NOTE/W_Consistency.md",
+    "2. SOURCE-LITERATUR NOTE/W_36 Questions to Love.md",
+    "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
-    "2. SOURCE-LITERATUR NOTE/B_Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
-    "2. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
+    "2. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
+    "2. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md",
     "5. INDEXES/INDEX BACAAN.md",
+    "2. SOURCE-LITERATUR NOTE/W_ Morning Routine Prodductivity.md",
+    "2. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
+    "2. SOURCE-LITERATUR NOTE/B_Models_Attract Women through Honesty.md",
+    "2. SOURCE-LITERATUR NOTE/B_Liberalisasi Pemikiran Islam.md",
+    "2. SOURCE-LITERATUR NOTE/B_Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
+    "2. SOURCE-LITERATUR NOTE/B_Digital Zettelkasten.md",
+    "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
+    "2. SOURCE-LITERATUR NOTE/B_Everything is Fucked_a book about hope.md",
+    "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
+    "6. TEMPLATES/Meeting-Koordinasi.md",
+    "6. TEMPLATES/Index Template.md",
+    "6. TEMPLATES/Cornell Taking Notes.md",
+    "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
+    "ARSIP/ARCHIVE/تعليم المتعلم.md",
+    "ARSIP/ARCHIVE/إحياء علوم الدين.md",
+    "ARSIP/@ index catatan-kajian.md",
+    "1. DAILY-INBOX-FLEETING/2022-01-18.md",
     "ARSIP/zFiles-Images/Pasted image 20220122152555.png",
-    "ARSIP/Format your notes.md",
     "Untitled",
     "5. INDEXES",
     "4. TAGS",
@@ -209,11 +196,8 @@
     "ARSIP/assets/img/a",
     "ARSIP/assets/img",
     "ARSIP/assets",
-    "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ZETTELKASTEN/~$rmat your notes.docx",
-    "ARSIP/Context/AMIR.mdb",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

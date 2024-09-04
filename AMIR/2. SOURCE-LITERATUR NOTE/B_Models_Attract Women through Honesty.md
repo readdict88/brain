@@ -7,7 +7,7 @@ Year: 2016
 Edition: 1
 
 ---
-![[Pasted image 20220121093559.png]]
+cover:: ![[Pasted image 20220121093559.png]]
 
 ## SUMMARY
 >
