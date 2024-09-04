@@ -11,8 +11,13 @@
             "id": "54361777ed4c08bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. INDEXES/INDEX DAILY NOTE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,17 +65,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "35e2587b540ebb87",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. INDEXES/INDEX DAILY NOTE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. INDEXES/INDEX DAILY NOTE.md"
+              }
             }
           },
           {
@@ -158,6 +157,7 @@
   },
   "active": "54361777ed4c08bd",
   "lastOpenFiles": [
+    "5. INDEXES/INDEX DAILY NOTE.md",
     "1. DAILY-INBOX-FLEETING/2024-09-01.md",
     "1. DAILY-INBOX-FLEETING/2024-09-02.md",
     "ARSIP/zFiles-Images/Recording 20240902224022.webm",
@@ -186,7 +186,6 @@
     "ARSIP/ARCHIVE/تعليم المتعلم.md",
     "ARSIP/ARCHIVE/إحياء علوم الدين.md",
     "ARSIP/@ index catatan-kajian.md",
-    "1. DAILY-INBOX-FLEETING/2022-01-18.md",
     "ARSIP/zFiles-Images/Pasted image 20220122152555.png",
     "Untitled",
     "5. INDEXES",
