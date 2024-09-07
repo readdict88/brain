@@ -1,3 +1,3 @@
 ```dataview
-list from [[]] and !outgoing([[]])
+list from "1. DAILY-INBOX-FLEETING"
 ```
