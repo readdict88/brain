@@ -15,6 +15,7 @@
               "state": {
                 "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -158,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:Insert template": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
