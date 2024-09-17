@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,12 +73,21 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "c067b3f6ba2f4a33",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -102,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md"
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md"
               }
             }
           },
@@ -176,7 +185,20 @@
   },
   "active": "6fecd1740af2e36a",
   "lastOpenFiles": [
+    "BUKU PROJECT/Wahabi/Index.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-17.md",
+    "ARSIP/ARSIP.md",
+    "BUKU PROJECT/Wahabi",
+    "BUKU PROJECT",
+    "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
+    "2. SOURCE-LITERATUR NOTE/B_Baharuddin Abdrahman, Islamisasi Ilmu Al-Attas_ Framework dan Implementasi.md",
+    "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
+    "1. DAILY-INBOX-FLEETING/2021-10-01.md",
+    "DAILY-INBOX-FLEETING/2021-07-14.md",
     "DAILY-INBOX-FLEETING/2024-09-01.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-01.md",
+    "1. DAILY-INBOX-FLEETING/2021-07-14.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-08.md",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ARSIP/assets/img/a/9/f",
     "ARSIP/assets/img/a/9",
@@ -201,27 +223,14 @@
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
     "ARSIP/zFiles-Images",
     "ARSIP/TULISAN UST HUDAYA",
-    "ARSIP/THESIS",
     "ARSIP/Format your notes.md",
-    "ARSIP/Format your notes.docx",
     "ARSIP/Eisenhower Priority.md",
     "ARSIP/Darma Pohan dakwah US.md",
-    "ARSIP/ARSIP.md",
     "ARSIP/@ index project thesis.md",
     "ARSIP/@ index catatan-kajian.md",
     "ARSIP/2023-W11.md",
     "ARSIP/#ZETTLEKASTEN MANUAL.md",
     "6. TEMPLATES/Zettel Template.md",
-    "6. TEMPLATES/WEB_template.md",
-    "6. TEMPLATES/Source-Ref Template.md",
-    "6. TEMPLATES/Meeting-Koordinasi.md",
-    "6. TEMPLATES/Index Template.md",
-    "6. TEMPLATES/Cornell Taking Notes.md",
-    "5. INDEXES/INDEX DAILY NOTE.md",
-    "5. INDEXES/INDEX BACAAN.md",
-    "4. TAGS/youtube.md",
-    "4. TAGS/obsidian.md",
-    "4. TAGS/muhasabah.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
