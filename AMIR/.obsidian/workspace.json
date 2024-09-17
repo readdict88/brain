@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b38354fe211f57d4",
+        "id": "23fa4955efd79c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "6fecd1740af2e36a",
+            "id": "edf1d93a0fe8e5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Resources",
+                "query": "yt-d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,12 +82,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -183,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fecd1740af2e36a",
+  "active": "edf1d93a0fe8e5cd",
   "lastOpenFiles": [
-    "BUKU PROJECT/Wahabi/Index.md",
+    "3. PERMANENT NOTE/Untitled Kanban.md",
     "1. DAILY-INBOX-FLEETING/2024-09-17.md",
+    "3. PERMANENT NOTE/scoop.sh.md",
+    "BUKU PROJECT/Wahabi/Index.md",
     "ARSIP/ARSIP.md",
     "BUKU PROJECT/Wahabi",
     "BUKU PROJECT",
@@ -229,8 +231,6 @@
     "ARSIP/@ index project thesis.md",
     "ARSIP/@ index catatan-kajian.md",
     "ARSIP/2023-W11.md",
-    "ARSIP/#ZETTLEKASTEN MANUAL.md",
-    "6. TEMPLATES/Zettel Template.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
