@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "biblatex",
-  "literatureNoteTitleTemplate": "@{{authorString}}, {{title}}",
-  "literatureNoteFolder": "ZETTELKASTEN\\1. SOURCE-LITERATUR NOTE",
-  "literatureNoteContentTemplate": "# {{title}}\n### authors: {{authorString}}\n### year: {{year}}\n### place: {{publisherPlace}}\n### publisher: {{publisher}}\n### DOI: {{DOI}}\n### [Link Online]({{URL}})\n[See in Zotero]({{zoteroSelectURI}})\n\n---\n# Abstract:\n{{abstract}}\n\n# Notes:\n{{note}}\n",
-  "markdownCitationTemplate": "[@{{citekey}}]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Users\\amirh\\Documents\\BOOKS\\AmirLibrary.bib"
-}

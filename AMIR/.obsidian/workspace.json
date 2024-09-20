@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yt-d",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edf1d93a0fe8e5cd",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
     "3. PERMANENT NOTE/Untitled Kanban.md",
     "1. DAILY-INBOX-FLEETING/2024-09-17.md",
