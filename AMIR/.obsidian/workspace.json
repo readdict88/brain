@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-08.md"
+                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md"
               }
             }
           },
@@ -173,9 +174,10 @@
   },
   "active": "6fecd1740af2e36a",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2024-09-08.md",
+    "1. DAILY-INBOX-FLEETING/2024-11-11.md",
     "1. DAILY-INBOX-FLEETING/2024-05-28.md",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
-    "1. DAILY-INBOX-FLEETING/2024-09-08.md",
     "DAILY-INBOX-FLEETING/2024-09-01.md",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ARSIP/assets/img/a/9/f",
@@ -218,7 +220,6 @@
     "6. TEMPLATES/Cornell Taking Notes.md",
     "5. INDEXES/INDEX DAILY NOTE.md",
     "5. INDEXES/INDEX BACAAN.md",
-    "4. TAGS/youtube.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
