@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "23fa4955efd79c3d",
+        "id": "4346b787ea4c5d88",
         "type": "tabs",
         "children": [
           {
-            "id": "edf1d93a0fe8e5cd",
+            "id": "4a6cd4d162e60bd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#literaturenote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md",
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-09-17.md"
+                "file": "1. DAILY-INBOX-FLEETING/2024-09-20.md"
               }
             }
           },
@@ -151,19 +152,19 @@
             }
           },
           {
-            "id": "7869d0e1a37c9565",
+            "id": "4d7eadb3f0047742",
             "type": "leaf",
             "state": {
-              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "type": "ReferenceListView",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6ab183f30260958",
+  "active": "4a6cd4d162e60bd1",
   "lastOpenFiles": [
-    "3. PERMANENT NOTE/Untitled Kanban.md",
+    "ARSIP/Zotero/@greenBasicAssumptionsIndividual2012.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-20.md",
+    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
+    "ARSIP/TULISAN UST HUDAYA/masalah anggaran.md",
+    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
+    "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
+    "6. TEMPLATES/Zettel Template.md",
+    "6. TEMPLATES/Zotero.md",
+    "1. DAILY-INBOX-FLEETING/2022-06-05.md",
+    "ARSIP/Zotero/assets",
+    "ARSIP/Zotero",
     "1. DAILY-INBOX-FLEETING/2024-09-17.md",
+    "3. PERMANENT NOTE/Untitled Kanban.md",
     "3. PERMANENT NOTE/scoop.sh.md",
     "BUKU PROJECT/Wahabi/Index.md",
     "ARSIP/ARSIP.md",
@@ -212,24 +224,12 @@
     "ARSIP/zFiles-Images/Pasted image 20220121092720.png",
     "ARSIP/zFiles-Images/Pasted image 20220121091059.png",
     "ARSIP/zFiles-Images/Pasted image 20220121090549.png",
-    "ARSIP/zFiles-Images/Pasted image 20220121090408.png",
-    "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
-    "ARSIP/TULISAN UST HUDAYA/masalah anggaran.md",
     "ARSIP/THESIS/Individual Psychology - Alfred Adler.md",
     "ARSIP/Context/spacesLastSync.log",
     "ARSIP/Context/AMIR.mdb",
-    "ARSIP/assets/img",
     "ARSIP/ARCHIVE/تعليم المتعلم.md",
     "ARSIP/ARCHIVE/إحياء علوم الدين.md",
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
-    "ARSIP/zFiles-Images",
-    "ARSIP/TULISAN UST HUDAYA",
-    "ARSIP/Format your notes.md",
-    "ARSIP/Eisenhower Priority.md",
-    "ARSIP/Darma Pohan dakwah US.md",
-    "ARSIP/@ index project thesis.md",
-    "ARSIP/@ index catatan-kajian.md",
-    "ARSIP/2023-W11.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
