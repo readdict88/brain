@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-11-11"
             }
-          },
-          {
-            "id": "9d1d57925788ee39",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2024-11-11"
             }
           },
           {
@@ -157,9 +145,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2024-11-11"
             }
           },
           {
@@ -206,10 +196,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9d1d57925788ee39",
+  "active": "6fecd1740af2e36a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2024-11-11.md",
+    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
+    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
+    "ARSIP/Zotero/assets",
+    "ARSIP/Zotero/@greenBasicAssumptionsIndividual2012.md",
+    "ARSIP/Zotero",
+    "6. TEMPLATES/Zotero.md",
+    "1. DAILY-INBOX-FLEETING/2024-11-15.md",
+    "1. DAILY-INBOX-FLEETING/2024-09-20.md",
     "BUKU PROJECT/Wahabi/Index.md",
     "BUKU PROJECT/Wahabi",
     "BUKU PROJECT",
@@ -230,17 +228,13 @@
     "ARSIP/zFiles-Images/Pasted image 20220121092720.png",
     "ARSIP/zFiles-Images/Pasted image 20220121091059.png",
     "ARSIP/zFiles-Images/Pasted image 20220121090549.png",
-    "ARSIP/zFiles-Images/Pasted image 20220121090408.png",
     "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
     "ARSIP/TULISAN UST HUDAYA/masalah anggaran.md",
     "ARSIP/THESIS/Individual Psychology - Alfred Adler.md",
     "ARSIP/Context/spacesLastSync.log",
-    "ARSIP/Context/AMIR.mdb",
-    "ARSIP/assets/img",
     "ARSIP/ARCHIVE/تعليم المتعلم.md",
     "ARSIP/ARCHIVE/إحياء علوم الدين.md",
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
-    "ARSIP/zFiles-Images",
     "ARSIP/Format your notes.md",
     "ARSIP/Eisenhower Priority.md",
     "ARSIP/Darma Pohan dakwah US.md",
@@ -249,11 +243,6 @@
     "ARSIP/@ index catatan-kajian.md",
     "ARSIP/2023-W11.md",
     "ARSIP/#ZETTLEKASTEN MANUAL.md",
-    "6. TEMPLATES/Zettel Template.md",
-    "6. TEMPLATES/WEB_template.md",
-    "6. TEMPLATES/Source-Ref Template.md",
-    "6. TEMPLATES/Meeting-Koordinasi.md",
-    "6. TEMPLATES/Index Template.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"

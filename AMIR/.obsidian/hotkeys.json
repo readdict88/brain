@@ -97,5 +97,22 @@
       ],
       "key": "A"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-Chicago Full Note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Referensi": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }
