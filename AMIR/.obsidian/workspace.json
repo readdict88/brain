@@ -33,9 +33,36 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.6"
             }
+          },
+          {
+            "id": "f2f5330f5244b867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "d2cceaef66300a13",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -168,9 +196,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -192,6 +222,20 @@
               "icon": "quote-glyph",
               "title": "References"
             }
+          },
+          {
+            "id": "c49d1123a8ef597f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from conflict-files-obsidian-git"
+            }
           }
         ],
         "currentTab": 5
@@ -211,14 +255,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baa06aa3900ed323",
+  "active": "f2f5330f5244b867",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-18.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-13.md",
+    "1. DAILY-INBOX-FLEETING/2024-12-08.md",
+    "1. DAILY-INBOX-FLEETING/2024-11-11.md",
     "1. DAILY-INBOX-FLEETING/2024-09-20.md",
     "1. DAILY-INBOX-FLEETING/2024-11-15.md",
     "ARSIP/Zotero/@greenBasicAssumptionsIndividual2012.md",
@@ -245,8 +293,6 @@
     "DAILY-INBOX-FLEETING/2021-07-14.md",
     "DAILY-INBOX-FLEETING/2024-09-01.md",
     "1. DAILY-INBOX-FLEETING/2024-09-01.md",
-    "1. DAILY-INBOX-FLEETING/2021-07-14.md",
-    "1. DAILY-INBOX-FLEETING/2024-09-08.md",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ARSIP/assets/img/a/9/f",
     "ARSIP/assets/img/a/9",
@@ -259,12 +305,8 @@
     "ARSIP/zFiles-Images/Pasted image 20220121092720.png",
     "ARSIP/zFiles-Images/Pasted image 20220121091059.png",
     "ARSIP/zFiles-Images/Pasted image 20220121090549.png",
-    "ARSIP/THESIS/Individual Psychology - Alfred Adler.md",
     "ARSIP/Context/spacesLastSync.log",
     "ARSIP/Context/AMIR.mdb",
-    "ARSIP/ARCHIVE/تعليم المتعلم.md",
-    "ARSIP/ARCHIVE/إحياء علوم الدين.md",
-    "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
