@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-01-27"
             }
+          },
+          {
+            "id": "b339676901983549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +212,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35e2587b540ebb87",
+  "active": "b339676901983549",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
+    "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
     "1. DAILY-INBOX-FLEETING/2025-01-13.md",
     "1. DAILY-INBOX-FLEETING/2024-11-11.md",
     "1. DAILY-INBOX-FLEETING/2024-12-08.md",
-    "conflict-files-obsidian-git.md",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
     "ARSIP/Zotero/assets",
