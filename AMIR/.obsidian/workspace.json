@@ -83,12 +83,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -197,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd5b56f724472eef",
+  "active": "35e2587b540ebb87",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
