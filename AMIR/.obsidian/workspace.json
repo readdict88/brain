@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-02-10.md",
+                "file": "1. DAILY-INBOX-FLEETING/2025-01-28.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-10"
+              "title": "2025-01-28"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -83,8 +83,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,11 +212,11 @@
   },
   "active": "bd5b56f724472eef",
   "lastOpenFiles": [
-    "3. PERMANENT NOTE/Untitled.md",
-    "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
-    "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
+    "1. DAILY-INBOX-FLEETING/2025-02-10.md",
+    "3. PERMANENT NOTE/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
     "1. DAILY-INBOX-FLEETING/2025-01-13.md",
     "1. DAILY-INBOX-FLEETING/2024-11-11.md",
