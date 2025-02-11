@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DAILY-INBOX-FLEETING/2025-02-10.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -214,8 +213,9 @@
   },
   "active": "bd5b56f724472eef",
   "lastOpenFiles": [
-    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
+    "3. PERMANENT NOTE/Untitled.md",
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
     "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
@@ -259,7 +259,6 @@
     "ARSIP/Worldview Islam Prof Hamid d42c4a50bb7249bea05a760dddc88877.md",
     "ARSIP/Format your notes.md",
     "ARSIP/Eisenhower Priority.md",
-    "ARSIP/Darma Pohan dakwah US.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
