@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4346b787ea4c5d88",
+        "id": "428f203e30992b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a6cd4d162e60bd1",
+            "id": "e840dc380b6a6756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-01-28.md",
+                "file": "1. DAILY-INBOX-FLEETING/2025-02-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,47 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-28"
-            }
-          },
-          {
-            "id": "f1899631f2b55deb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
-            "id": "bdbeab8043d27b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2025-02-13"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -144,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -268,14 +231,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdbeab8043d27b07",
+  "active": "e840dc380b6a6756",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
-    "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "1. DAILY-INBOX-FLEETING/2024-11-15.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
     "1. DAILY-INBOX-FLEETING/2025-01-13.md",
