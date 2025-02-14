@@ -15,14 +15,36 @@
               "state": {
                 "file": "1. DAILY-INBOX-FLEETING/2025-01-28.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2025-01-28"
             }
+          },
+          {
+            "id": "f1899631f2b55deb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +112,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -179,8 +201,8 @@
             "state": {
               "type": "ReferenceListView",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -193,8 +215,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-28"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -207,6 +229,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
       "templates:Insert template": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
@@ -220,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a6cd4d162e60bd1",
+  "active": "f1899631f2b55deb",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
