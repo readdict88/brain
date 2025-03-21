@@ -35,12 +35,24 @@
             "id": "0a8cfda18fbcf2af",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "1. DAILY-INBOX-FLEETING/2025-03-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "2025-03-21"
             }
           }
         ],
@@ -246,6 +258,7 @@
   },
   "active": "0a8cfda18fbcf2af",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-03-21.md",
     "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
@@ -271,7 +284,6 @@
     "1. DAILY-INBOX-FLEETING/2024-11-15.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
     "1. DAILY-INBOX-FLEETING/2025-01-13.md",
-    "1. DAILY-INBOX-FLEETING/2024-12-08.md",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
     "ARSIP/Zotero/assets",
