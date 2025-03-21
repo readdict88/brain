@@ -32,27 +32,15 @@
             }
           },
           {
-            "id": "0c17b70047476cda",
+            "id": "0a8cfda18fbcf2af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-03-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.8.9"
               },
-              "icon": "lucide-file",
-              "title": "2025-03-11"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
@@ -256,13 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c17b70047476cda",
+  "active": "0a8cfda18fbcf2af",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
-    "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "2. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
     "2. SOURCE-LITERATUR NOTE/B_Liberalisasi Pemikiran Islam.md",
