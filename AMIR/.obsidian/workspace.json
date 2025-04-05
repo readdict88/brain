@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-03-23.md",
-                "mode": "preview",
+                "file": "1. DAILY-INBOX-FLEETING/2025-04-05.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-23"
+              "title": "2025-04-05"
+            }
+          },
+          {
+            "id": "8f0e2ab5f8bf10ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. DAILY-INBOX-FLEETING/2025-04-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-05"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -256,13 +281,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a8cfda18fbcf2af",
+  "active": "8f0e2ab5f8bf10ce",
   "lastOpenFiles": [
+    "ARSIP/zFiles-Images/Pasted image 20250405085419.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405085408.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405083039.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405082952.png",
+    "1. DAILY-INBOX-FLEETING/2025-04-05.md",
+    "ARSIP/zFiles-Images/Pasted image 20250405082246.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405082126.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405081232.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405081130.png",
+    "ARSIP/zFiles-Images/Pasted image 20250405080946.png",
+    "1. DAILY-INBOX-FLEETING/2025-03-23.md",
     "ARSIP/zFiles-Images/Pasted image 20250323110023.png",
     "ARSIP/zFiles-Images/Pasted image 20250323110004.png",
-    "ARSIP/zFiles-Images/Pasted image 20250323105340.png",
     "1. DAILY-INBOX-FLEETING/2025-03-21.md",
-    "1. DAILY-INBOX-FLEETING/2025-03-23.md",
     "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
@@ -285,23 +319,14 @@
     "BUKU PROJECT/Wahabi/Index.md",
     "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
-    "1. DAILY-INBOX-FLEETING/2024-11-15.md",
-    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
     "ARSIP/Zotero/assets",
     "ARSIP/Zotero",
     "BUKU PROJECT/Wahabi",
     "BUKU PROJECT",
-    "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
     "ARSIP/assets/img/a/9/f",
     "ARSIP/assets/img/a/9",
     "ARSIP/assets/img/a",
-    "ARSIP/zFiles-Images/Pasted image 20230319164931.png",
-    "ARSIP/zFiles-Images/Pasted image 20230319164912.png",
-    "ARSIP/zFiles-Images/Pasted image 20220601204019.png",
-    "ARSIP/zFiles-Images/Pasted image 20220122152555.png",
-    "ARSIP/zFiles-Images/Pasted image 20220121093559.png",
-    "ARSIP/zFiles-Images/Pasted image 20220121092720.png",
     "ARSIP/Context/spacesLastSync.log",
     "ARSIP/Context/AMIR.mdb",
     "Untitled 2.canvas",
