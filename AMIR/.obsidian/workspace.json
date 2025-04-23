@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "0a8cfda18fbcf2af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-04-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-05"
-            }
-          },
-          {
             "id": "8f0e2ab5f8bf10ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-04-05.md",
+                "file": "1. DAILY-INBOX-FLEETING/2025-04-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-05"
+              "title": "2025-04-24"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,12 +88,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PKM",
+                "query": "gagal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -153,7 +129,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -283,22 +260,22 @@
   },
   "active": "8f0e2ab5f8bf10ce",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-02-13.md",
+    "1. DAILY-INBOX-FLEETING/2025-04-24.md",
+    "1. DAILY-INBOX-FLEETING/2025-03-23.md",
+    "1. DAILY-INBOX-FLEETING/2025-04-05.md",
     "ARSIP/zFiles-Images/Pasted image 20250405085822.png",
     "ARSIP/zFiles-Images/Pasted image 20250405085504.png",
     "ARSIP/zFiles-Images/Pasted image 20250405085419.png",
     "ARSIP/zFiles-Images/Pasted image 20250405085408.png",
     "ARSIP/zFiles-Images/Pasted image 20250405083039.png",
     "ARSIP/zFiles-Images/Pasted image 20250405082952.png",
-    "1. DAILY-INBOX-FLEETING/2025-04-05.md",
     "ARSIP/zFiles-Images/Pasted image 20250405082246.png",
     "ARSIP/zFiles-Images/Pasted image 20250405082126.png",
     "ARSIP/zFiles-Images/Pasted image 20250405081232.png",
     "ARSIP/zFiles-Images/Pasted image 20250405081130.png",
-    "ARSIP/zFiles-Images/Pasted image 20250405080946.png",
-    "1. DAILY-INBOX-FLEETING/2025-03-23.md",
     "1. DAILY-INBOX-FLEETING/2025-03-21.md",
     "1. DAILY-INBOX-FLEETING/2025-03-11.md",
-    "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
