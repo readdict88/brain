@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "2025-04-24"
             }
+          },
+          {
+            "id": "01ad27a54ec687a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f0e2ab5f8bf10ce",
+  "active": "01ad27a54ec687a3",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "1. DAILY-INBOX-FLEETING/2025-04-24.md",
