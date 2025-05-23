@@ -54,21 +54,9 @@
               "icon": "lucide-file",
               "title": "2025-04-24"
             }
-          },
-          {
-            "id": "01ad27a54ec687a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +75,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -100,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gagal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,13 +129,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -270,12 +256,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01ad27a54ec687a3",
+  "active": "8f0e2ab5f8bf10ce",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-05-23.md",
+    "1. DAILY-INBOX-FLEETING/2023-05-30.md",
+    "1. DAILY-INBOX-FLEETING/2023-05-02.md",
+    "1. DAILY-INBOX-FLEETING/2023-06-08.md",
+    "1. DAILY-INBOX-FLEETING/2024-12-08.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
+    "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "1. DAILY-INBOX-FLEETING/2025-02-13.md",
+    "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-04-24.md",
     "1. DAILY-INBOX-FLEETING/2025-03-23.md",
     "1. DAILY-INBOX-FLEETING/2025-04-05.md",
+    "1. DAILY-INBOX-FLEETING/2025-03-21.md",
+    "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "ARSIP/zFiles-Images/Pasted image 20250405085822.png",
     "ARSIP/zFiles-Images/Pasted image 20250405085504.png",
     "ARSIP/zFiles-Images/Pasted image 20250405085419.png",
@@ -286,11 +282,7 @@
     "ARSIP/zFiles-Images/Pasted image 20250405082126.png",
     "ARSIP/zFiles-Images/Pasted image 20250405081232.png",
     "ARSIP/zFiles-Images/Pasted image 20250405081130.png",
-    "1. DAILY-INBOX-FLEETING/2025-03-21.md",
-    "1. DAILY-INBOX-FLEETING/2025-03-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
-    "1. DAILY-INBOX-FLEETING/2025-02-10.md",
-    "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "2. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
     "2. SOURCE-LITERATUR NOTE/B_Liberalisasi Pemikiran Islam.md",
@@ -302,12 +294,6 @@
     "3. PERMANENT NOTE/00 index buku referensi.md",
     "3. PERMANENT NOTE/Feeling-emotions drives action-behavior 2022-01-21 10.35.md",
     "3. PERMANENT NOTE/Untitled.md",
-    "ARSIP/ARCHIVE/إحياء علوم الدين.md",
-    "ARSIP/ARCHIVE/تعليم المتعلم.md",
-    "ARSIP/ARSIP.md",
-    "BUKU PROJECT/Wahabi/Index.md",
-    "conflict-files-obsidian-git.md",
-    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012",
     "ARSIP/Zotero/assets",
     "ARSIP/Zotero",
