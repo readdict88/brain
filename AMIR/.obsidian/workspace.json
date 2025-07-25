@@ -79,8 +79,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
