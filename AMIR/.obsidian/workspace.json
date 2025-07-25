@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DAILY-INBOX-FLEETING/2025-02-13.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,6 +79,16 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "823c5061e429edda",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
@@ -104,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -158,8 +168,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -168,8 +178,8 @@
             "state": {
               "type": "online.tokuhirom.obsidian-pomodoro-plugin",
               "state": {},
-              "icon": "clock",
-              "title": "Pomodoro timer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -185,6 +195,16 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "04e02a4df731b910",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {},
+              "icon": "clock",
+              "title": "Pomodoro timer"
+            }
           }
         ],
         "currentTab": 4
@@ -198,16 +218,16 @@
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "templates:Insert template": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
