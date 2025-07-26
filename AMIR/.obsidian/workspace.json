@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -97,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -114,8 +114,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md",
+                "file": "1. DAILY-INBOX-FLEETING/2025-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-11-11"
+              "title": "Backlinks for 2025-02-13"
             }
           },
           {
@@ -156,10 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2024-11-11.md"
+                "file": "1. DAILY-INBOX-FLEETING/2025-02-13.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-11"
+              "title": "Outline of 2025-02-13"
             }
           },
           {
@@ -168,8 +171,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -207,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,8 +234,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd5b56f724472eef",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
+    "POSTS",
     "assets/img/9/8/e",
     "assets/img/9/8",
     "assets/img/9",
@@ -243,7 +247,6 @@
     "assets/img/b/0",
     "assets/img/c/9/5",
     "assets/img/c/9",
-    "assets/img/c",
     "assets/img/9/8/e/98e2dac903d83edc1fe29c8600dbdb88f86b67e5204852d0944ce7be50c0a2da.png",
     "assets/img/0/e/7/0e79b644d7dd2954616effed563a89d047ee45e462e169db4a9d6f6514f26cb6.png",
     "assets/img/b/0/3/b038e16fe9f97e08ebdcaab3913f2a31c2274479440ac3144f0b2faabbbe6851.png",
