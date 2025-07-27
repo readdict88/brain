@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. DAILY-INBOX-FLEETING/2025-02-13.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -234,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6ab183f30260958",
+  "active": "bd5b56f724472eef",
   "lastOpenFiles": [
     "POSTS",
     "assets/img/9/8/e",
