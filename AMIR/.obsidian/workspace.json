@@ -11,14 +11,12 @@
             "id": "bd5b56f724472eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "posts/TEST!.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/img/0/e/7/0e79b644d7dd2954616effed563a89d047ee45e462e169db4a9d6f6514f26cb6.png"
               },
-              "icon": "lucide-file",
-              "title": "TEST!"
+              "icon": "lucide-image",
+              "title": "0e79b644d7dd2954616effed563a89d047ee45e462e169db4a9d6f6514f26cb6"
             }
           }
         ]
@@ -236,8 +234,8 @@
   },
   "active": "bd5b56f724472eef",
   "lastOpenFiles": [
-    "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "posts/TEST!.md",
+    "1. DAILY-INBOX-FLEETING/2025-02-13.md",
     "posts",
     "POSTS",
     "assets/img/9/8/e",
