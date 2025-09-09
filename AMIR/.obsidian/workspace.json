@@ -4,7 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "07595235ad03b0f5",
+        "id": "5200938f0e9a5c84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada83e8df10659f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "902e7ff3bceb3461",
         "type": "tabs",
         "children": [
           {
@@ -157,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of W_How to Not Procrastinate"
+              "title": "Outline"
             }
           },
           {
@@ -235,8 +250,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b438b16b2666ef0",
+  "active": "ada83e8df10659f5",
   "lastOpenFiles": [
+    "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
     "posts/TEST!.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "1. DAILY-INBOX-FLEETING/2025-05-25.md",
@@ -282,7 +298,6 @@
     "1. DAILY-INBOX-FLEETING/2024-05-28.md",
     "DAILY-INBOX-FLEETING/2024-09-01.md",
     "ARSIP/TULISAN UST HUDAYA/TULISAN UST HUDAYA.md",
-    "ARSIP/TULISAN UST HUDAYA/masalah anggaran.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
