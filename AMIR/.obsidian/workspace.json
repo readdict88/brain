@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "W_How to Not Procrastinate"
             }
-          },
-          {
-            "id": "3aa98d6c766f02e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of W_How to Not Procrastinate"
             }
           },
           {
@@ -247,7 +235,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3aa98d6c766f02e4",
+  "active": "7b438b16b2666ef0",
   "lastOpenFiles": [
     "posts/TEST!.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
