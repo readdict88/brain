@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5200938f0e9a5c84",
+        "id": "2bb08f032dced930",
         "type": "tabs",
         "children": [
           {
             "id": "ada83e8df10659f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "902e7ff3bceb3461",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b438b16b2666ef0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
-                "mode": "preview",
+                "file": "3. PERMANENT NOTE/How to Read Book Summary QnA.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "W_How to Not Procrastinate"
+              "title": "How to Read Book Summary QnA"
             }
           }
         ]
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Resources",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,12 +94,12 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -173,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3. PERMANENT NOTE/How to Read Book Summary QnA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of How to Read Book Summary QnA"
             }
           },
           {
@@ -230,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,6 +239,7 @@
   "active": "ada83e8df10659f5",
   "lastOpenFiles": [
     "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
+    "3. PERMANENT NOTE/How to Read Book Summary QnA.md",
     "posts/TEST!.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "1. DAILY-INBOX-FLEETING/2025-05-25.md",
@@ -281,7 +268,6 @@
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "1. DAILY-INBOX-FLEETING/2025-01-28.md",
     "1. DAILY-INBOX-FLEETING/2025-01-27.md",
-    "3. PERMANENT NOTE/Untitled.md",
     "conflict-files-obsidian-git.md",
     "1. DAILY-INBOX-FLEETING/2025-01-18.md",
     "1. DAILY-INBOX-FLEETING/2025-01-13.md",
