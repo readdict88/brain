@@ -11,7 +11,7 @@ views:
       - file.name
       - file.path
       - tags
-  - type: table
+  - type: cards
     name: BUKU
     filters:
       and:
