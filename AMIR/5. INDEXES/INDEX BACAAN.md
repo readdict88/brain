@@ -4,7 +4,7 @@ TABLE
 medium AS Medium,
 topics AS Topics,
 shared AS "Email share?"
-FROM #InternetExploration AND -"003 Templates"
+FROM #web AND -"2. SOURCE-LITERATURE NOTE"
 SORT file.ctime DESC
 LIMIT 5
 ```
