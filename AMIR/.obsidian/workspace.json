@@ -11,14 +11,41 @@
             "id": "3d75bb00fde50d16",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "3. PERMANENT NOTE/INDEX REFERENSI.base",
+                "viewName": "BUKU"
+              },
+              "icon": "lucide-table",
+              "title": "INDEX REFERENSI"
+            }
+          },
+          {
+            "id": "b6c3b635d09d89a0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "5. INDEXES/INDEX BACAAN.md",
-                "mode": "preview",
+                "file": "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDEX BACAAN"
+              "title": "W_ To Wake Up Early_Go To Bed Early"
+            }
+          },
+          {
+            "id": "ce4919abaee9125d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B_How To Take Smart Notes"
             }
           }
         ]
@@ -94,7 +121,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. INDEXES/INDEX BACAAN.md",
+                "file": "3. PERMANENT NOTE/INDEX REFERENSI.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of INDEX BACAAN"
+              "title": "Outline of INDEX REFERENSI"
             }
           },
           {
@@ -216,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. INDEXES/INDEX BACAAN.md",
+                "file": "3. PERMANENT NOTE/INDEX REFERENSI.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from INDEX BACAAN"
+              "title": "Outgoing links from INDEX REFERENSI"
             }
           }
         ],
@@ -261,16 +289,21 @@
   },
   "active": "3d75bb00fde50d16",
   "lastOpenFiles": [
+    "2. SOURCE-LITERATUR NOTE/Untitled.md",
     "5. INDEXES/INDEX BACAAN.md",
+    "3. PERMANENT NOTE/INDEX REFERENSI.base",
+    "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
+    "posts/TEST!.md",
+    "3. PERMANENT NOTE/Untitled.md",
+    "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
+    "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
+    "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "5. INDEXES/INDEX DAILY NOTE.md",
     "6. TEMPLATES/WEB_template.md",
-    "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "2. SOURCE-LITERATUR NOTE/B_Subtle Art of not Giving A Fuck.md",
     "2. SOURCE-LITERATUR NOTE/W_ Morning Routine Productivity.md",
-    "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "2. SOURCE-LITERATUR NOTE/W_36 Questions to Love.md",
     "2. SOURCE-LITERATUR NOTE/W_Consistency.md",
-    "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
     "2. SOURCE-LITERATUR NOTE/W_How to Read Book Summary QnA.md",
     "2. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
     "2. SOURCE-LITERATUR NOTE/W_power of drafts.md",
@@ -279,9 +312,7 @@
     "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
-    "3. PERMANENT NOTE/Untitled.base",
     "ARSIP/ARSIP.md",
-    "posts/TEST!.md",
     "1. DAILY-INBOX-FLEETING/2025-05-25.md",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
@@ -303,9 +334,6 @@
     "assets/img/3/c/4/3c45555bae773fddffed80eb16e5cb92018c4af881edaa7b6b26e2a3d91224ec.png",
     "1. DAILY-INBOX-FLEETING/2025-02-11.md",
     "1. DAILY-INBOX-FLEETING/2025-02-10.md",
-    "1. DAILY-INBOX-FLEETING/2025-01-28.md",
-    "1. DAILY-INBOX-FLEETING/2025-01-27.md",
-    "conflict-files-obsidian-git.md",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

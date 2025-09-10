@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("2. SOURCE-LITERATUR NOTE")
+views:
+  - type: table
+    name: WEB
+    filters:
+      and:
+        - file.tags.contains("web")
+    order:
+      - file.name
+      - file.path
+      - tags
+  - type: table
+    name: BUKU
+    filters:
+      and:
+        - file.tags.contains("book")
+    order:
+      - file.name
+      - file.path
