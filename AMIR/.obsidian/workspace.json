@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "5. INDEXES/INDEX BACAAN.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -246,11 +247,21 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false
     }
   },
   "active": "3d75bb00fde50d16",
   "lastOpenFiles": [
+    "5. INDEXES/INDEX BACAAN.md",
     "5. INDEXES/INDEX DAILY NOTE.md",
     "6. TEMPLATES/WEB_template.md",
     "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
@@ -265,7 +276,6 @@
     "2. SOURCE-LITERATUR NOTE/W_power of drafts.md",
     "2. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md",
     "2. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
-    "5. INDEXES/INDEX BACAAN.md",
     "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
     "2. SOURCE-LITERATUR NOTE/Y_Conceptual Taking Note Obsidian.md",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
