@@ -11,13 +11,14 @@
             "id": "3d75bb00fde50d16",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "3. PERMANENT NOTE/INDEX REFERENSI.base",
-                "viewName": "BUKU"
+                "file": "7. PROJECTS/MAULID NABI SYAROFUL ANAM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "INDEX REFERENSI"
+              "icon": "lucide-file",
+              "title": "MAULID NABI SYAROFUL ANAM"
             }
           },
           {
@@ -121,13 +122,11 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -192,16 +191,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of INDEX REFERENSI"
-            }
-          },
-          {
-            "id": "e32692853496ef15",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
             }
           },
           {
@@ -275,7 +264,6 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
@@ -289,11 +277,14 @@
   },
   "active": "3d75bb00fde50d16",
   "lastOpenFiles": [
+    "posts/TEST!.md",
+    "7. PROJECTS/MAULID NABI SYAROFUL ANAM.md",
+    "BUKU PROJECT/Wahabi/Index.md",
+    "3. PERMANENT NOTE/INDEX REFERENSI.base",
+    "7. PROJECTS",
     "2. SOURCE-LITERATUR NOTE/Untitled.md",
     "5. INDEXES/INDEX BACAAN.md",
-    "3. PERMANENT NOTE/INDEX REFERENSI.base",
     "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
-    "posts/TEST!.md",
     "3. PERMANENT NOTE/Untitled.md",
     "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
@@ -324,7 +315,6 @@
     "assets/img/9/8",
     "assets/img/9",
     "assets/img/0/e/7",
-    "assets/img/0/e",
     "assets/img/9/8/e/98e2dac903d83edc1fe29c8600dbdb88f86b67e5204852d0944ce7be50c0a2da.png",
     "assets/img/b/0/3/b038e16fe9f97e08ebdcaab3913f2a31c2274479440ac3144f0b2faabbbe6851.png",
     "assets/img/c/9/5/c950b9f34515976970e8b59189b649eb44779e722bf42b3c238b76b78a6cea52.png",
@@ -332,8 +322,6 @@
     "assets/img/3/7/f/37f38259aa864a296875e7021fd3fbb24c03f00f211cf1831f0b51fbc4d1c912.png",
     "assets/img/b/7/a/b7aa390ca41138ffb4a98de460d0d720b6ae0b7d9e3653f425ed564c25b0e2f0.png",
     "assets/img/3/c/4/3c45555bae773fddffed80eb16e5cb92018c4af881edaa7b6b26e2a3d91224ec.png",
-    "1. DAILY-INBOX-FLEETING/2025-02-11.md",
-    "1. DAILY-INBOX-FLEETING/2025-02-10.md",
     "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
