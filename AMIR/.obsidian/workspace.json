@@ -20,34 +20,6 @@
               "icon": "lucide-file",
               "title": "MAULID NABI SYAROFUL ANAM"
             }
-          },
-          {
-            "id": "b6c3b635d09d89a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "W_ To Wake Up Early_Go To Bed Early"
-            }
-          },
-          {
-            "id": "ce4919abaee9125d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B_How To Take Smart Notes"
-            }
           }
         ]
       }
@@ -126,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f2a0172622a795fe",
