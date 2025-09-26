@@ -221,7 +221,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -232,6 +231,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "zk-prefixer:Create new unique note": false,
       "templater-obsidian:Templater": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
