@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2025-09-26.md",
+                "file": "1. DAILY-INBOX-FLEETING/2025-10-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-26"
+              "title": "2025-10-16"
             }
           }
         ]
@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 386,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,6 +250,7 @@
   "active": "fc562610f5fac1e5",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2025-09-26.md",
+    "1. DAILY-INBOX-FLEETING/2025-10-16.md",
     "assets/img/3/7/f/37f38259aa864a296875e7021fd3fbb24c03f00f211cf1831f0b51fbc4d1c912.png",
     "assets/img/1/0/3/103c6ffb836032e25a63ced755c177cad56ae4629622647ab8ef4fccf9adc88d.png",
     "assets/img/0/e/7/0e79b644d7dd2954616effed563a89d047ee45e462e169db4a9d6f6514f26cb6.png",
@@ -257,7 +259,6 @@
     "3. PERMANENT NOTE/Untitled.md",
     "3. PERMANENT NOTE/Untitled.base",
     "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
-    "1. DAILY-INBOX-FLEETING/2025-09-26.md",
     "3. PERMANENT NOTE/wikilinks.md",
     "7. PROJECTS/MAULID NABI SYAROFUL ANAM.md",
     "posts/TEST!.md",
@@ -279,7 +280,6 @@
     "2. SOURCE-LITERATUR NOTE/W_JAMES CLEAR-First Principles_Elon Musk on the Power of Thinking for Yourself.md",
     "2. SOURCE-LITERATUR NOTE/W_power of drafts.md",
     "2. SOURCE-LITERATUR NOTE/W_Prolific Writer Blog Everyday.md",
-    "2. SOURCE-LITERATUR NOTE/W_To Fall in Love With Anyone, Do This.md",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
