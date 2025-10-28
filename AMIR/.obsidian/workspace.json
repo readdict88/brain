@@ -244,11 +244,13 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "whatsapp-export-note:Exportar nota": false
     }
   },
   "active": "fc562610f5fac1e5",
   "lastOpenFiles": [
+    "1. DAILY-INBOX-FLEETING/2025-10-16-whatsapp-2025-10-28T00_22_48.762Z.md",
     "1. DAILY-INBOX-FLEETING/2025-09-26.md",
     "1. DAILY-INBOX-FLEETING/2025-10-16.md",
     "assets/img/3/7/f/37f38259aa864a296875e7021fd3fbb24c03f00f211cf1831f0b51fbc4d1c912.png",
