@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-03-17"
             }
-          },
-          {
-            "id": "e4b3ef35e6fa57b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -263,7 +250,7 @@
       "whatsapp-export-note:Exportar nota": false
     }
   },
-  "active": "e4b3ef35e6fa57b7",
+  "active": "78b8f1b8aa6af172",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2026-03-18.md",
     "1. DAILY-INBOX-FLEETING/2026-03-17.md",
