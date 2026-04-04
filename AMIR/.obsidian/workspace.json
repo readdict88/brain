@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2026-04-04.md",
+                "file": "Clippings/1 SIMPLE mental technique that will SKYROCKET your sales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-04"
+              "title": "1 SIMPLE mental technique that will SKYROCKET your sales"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seek to understand",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,13 +95,11 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f2a0172622a795fe",
@@ -250,9 +248,11 @@
       "whatsapp-export-note:Exportar nota": false
     }
   },
-  "active": "80208f3519a7c6d5",
+  "active": "b6ab183f30260958",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2026-04-04.md",
+    "Clippings/1 SIMPLE mental technique that will SKYROCKET your sales.md",
+    "Clippings",
     "1. DAILY-INBOX-FLEETING/2026-03-26.md",
     "1. DAILY-INBOX-FLEETING/2026-03-21.md",
     "1. DAILY-INBOX-FLEETING/2026-03-24.md",
@@ -283,7 +283,6 @@
     "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
     "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
     "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
-    "2. SOURCE-LITERATUR NOTE/B_Atomic Habits.md",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
@@ -291,7 +290,6 @@
     "POSTS",
     "assets/img/9/8/e",
     "assets/img/9/8",
-    "assets/img/9",
     "assets/img/9/8/e/98e2dac903d83edc1fe29c8600dbdb88f86b67e5204852d0944ce7be50c0a2da.png",
     "assets/img/b/0/3/b038e16fe9f97e08ebdcaab3913f2a31c2274479440ac3144f0b2faabbbe6851.png",
     "assets/img/c/9/5/c950b9f34515976970e8b59189b649eb44779e722bf42b3c238b76b78a6cea52.png",
