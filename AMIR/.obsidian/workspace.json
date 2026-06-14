@@ -11,17 +11,14 @@
             "id": "58277ede574c7c92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CUSTOMER JOURNEY PROSPEK PENJUAL.canvas",
-                "viewState": {
-                  "x": -740.0093456618408,
-                  "y": -367.2943031649458,
-                  "zoom": 0.09339546159451886
-                }
+                "file": "1. DAILY-INBOX-FLEETING/2026-06-14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CUSTOMER JOURNEY PROSPEK PENJUAL"
+              "icon": "lucide-file",
+              "title": "2026-06-14"
             }
           }
         ],
@@ -252,8 +249,9 @@
   },
   "active": "58277ede574c7c92",
   "lastOpenFiles": [
-    "3. PERMANENT NOTE/Untitled.md",
     "CUSTOMER JOURNEY PROSPEK PENJUAL.canvas",
+    "1. DAILY-INBOX-FLEETING/2026-06-14.md",
+    "3. PERMANENT NOTE/Untitled.md",
     "3. PERMANENT NOTE/Untitled 1.base",
     "1. DAILY-INBOX-FLEETING/2026-04-26.md",
     "1. DAILY-INBOX-FLEETING/2026-04-25.md",
@@ -288,7 +286,6 @@
     "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
     "3. PERMANENT NOTE/wikilinks.md",
     "7. PROJECTS/MAULID NABI SYAROFUL ANAM.md",
-    "posts/TEST!.md",
     "7. PROJECTS",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
