@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7bae9eb1e8e5810a",
+        "id": "5cb51adba3933ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "80208f3519a7c6d5",
+            "id": "58277ede574c7c92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Clippings/1 SIMPLE mental technique that will SKYROCKET your sales.md",
-                "mode": "source",
-                "source": false
+                "file": "CUSTOMER JOURNEY PROSPEK PENJUAL.canvas",
+                "viewState": {
+                  "x": -740.0093456618408,
+                  "y": -367.2943031649458,
+                  "zoom": 0.09339546159451886
+                }
               },
-              "icon": "lucide-file",
-              "title": "1 SIMPLE mental technique that will SKYROCKET your sales"
+              "icon": "lucide-layout-dashboard",
+              "title": "CUSTOMER JOURNEY PROSPEK PENJUAL"
             }
           }
         ],
@@ -59,7 +62,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -218,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386,
-    "collapsed": true
+    "width": 386
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,18 +250,30 @@
       "whatsapp-export-note:Exportar nota": false
     }
   },
-  "active": "b6ab183f30260958",
+  "active": "58277ede574c7c92",
   "lastOpenFiles": [
+    "3. PERMANENT NOTE/Untitled.md",
+    "CUSTOMER JOURNEY PROSPEK PENJUAL.canvas",
+    "3. PERMANENT NOTE/Untitled 1.base",
+    "1. DAILY-INBOX-FLEETING/2026-04-26.md",
+    "1. DAILY-INBOX-FLEETING/2026-04-25.md",
+    "1. DAILY-INBOX-FLEETING/2026-04-11.md",
     "1. DAILY-INBOX-FLEETING/2026-04-04.md",
-    "Clippings/1 SIMPLE mental technique that will SKYROCKET your sales.md",
-    "Clippings",
+    "1. DAILY-INBOX-FLEETING/2026-04-03.md",
+    "1. DAILY-INBOX-FLEETING/2026-03-31.md",
     "1. DAILY-INBOX-FLEETING/2026-03-26.md",
-    "1. DAILY-INBOX-FLEETING/2026-03-21.md",
     "1. DAILY-INBOX-FLEETING/2026-03-24.md",
+    "1. DAILY-INBOX-FLEETING/2026-03-18.md",
     "1. DAILY-INBOX-FLEETING/2026-03-17.md",
     "1. DAILY-INBOX-FLEETING/2026-03-30.md",
-    "1. DAILY-INBOX-FLEETING/2026-03-31.md",
-    "1. DAILY-INBOX-FLEETING/2026-03-18.md",
+    "1. DAILY-INBOX-FLEETING/2026-03-21.md",
+    "1. DAILY-INBOX-FLEETING/2026-04-24.md",
+    "assets/img/e/b/3",
+    "assets/img/e/b",
+    "assets/img/e",
+    "assets/img/e/b/3/eb37efd5a01c78fb8a8a105ebfb43ff9d22f39e02bd0e83a2d701b3883d76bda.png",
+    "Clippings/1 SIMPLE mental technique that will SKYROCKET your sales.md",
+    "Clippings",
     "3. PERMANENT NOTE/Untitled.base",
     "1. DAILY-INBOX-FLEETING/2025-10-16.md",
     "1. DAILY-INBOX-FLEETING/2025-11-01.md",
@@ -271,33 +285,20 @@
     "assets/img/0/e/7/0e79b644d7dd2954616effed563a89d047ee45e462e169db4a9d6f6514f26cb6.png",
     "ARSIP/ARSIP.md",
     "3. PERMANENT NOTE/INDEX REFERENSI.base",
-    "3. PERMANENT NOTE/Untitled.md",
     "2. SOURCE-LITERATUR NOTE/2. SOURCE-LITERATUR NOTE.md",
     "3. PERMANENT NOTE/wikilinks.md",
     "7. PROJECTS/MAULID NABI SYAROFUL ANAM.md",
     "posts/TEST!.md",
-    "BUKU PROJECT/Wahabi/Index.md",
     "7. PROJECTS",
-    "2. SOURCE-LITERATUR NOTE/Untitled.md",
-    "5. INDEXES/INDEX BACAAN.md",
-    "2. SOURCE-LITERATUR NOTE/W_How to Not Procrastinate.md",
-    "2. SOURCE-LITERATUR NOTE/W_ To Wake Up Early_Go To Bed Early.md",
-    "2. SOURCE-LITERATUR NOTE/B_How To Take Smart Notes.md",
     "3. PERMANENT NOTE/MY KNOWLEDGE.base",
     "1. DAILY-INBOX-FLEETING/Wasathiyah Islam vs Moderasi Agama.pdf",
     "ARSIP/assets/img/a/9/f/a9f57ce75fe2cddb0d284bf4147ebccf16c165605e359e1cea1f8257fec7b9a7.png",
-    "posts",
-    "POSTS",
-    "assets/img/9/8/e",
-    "assets/img/9/8",
     "assets/img/9/8/e/98e2dac903d83edc1fe29c8600dbdb88f86b67e5204852d0944ce7be50c0a2da.png",
     "assets/img/b/0/3/b038e16fe9f97e08ebdcaab3913f2a31c2274479440ac3144f0b2faabbbe6851.png",
     "assets/img/c/9/5/c950b9f34515976970e8b59189b649eb44779e722bf42b3c238b76b78a6cea52.png",
     "assets/img/b/7/a/b7aa390ca41138ffb4a98de460d0d720b6ae0b7d9e3653f425ed564c25b0e2f0.png",
     "assets/img/3/c/4/3c45555bae773fddffed80eb16e5cb92018c4af881edaa7b6b26e2a3d91224ec.png",
-    "ARSIP/Zotero/assets/greenBasicAssumptionsIndividual2012/img-5-x194-y520.png",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
