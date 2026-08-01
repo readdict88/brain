@@ -151,5 +151,31 @@
       ],
       "key": "L"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-text-format:cycle-case": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F3"
+    }
   ]
 }
