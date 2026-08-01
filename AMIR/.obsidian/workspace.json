@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-04-25"
             }
+          },
+          {
+            "id": "d7bee14226522c5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -42,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -247,7 +262,7 @@
       "whatsapp-export-note:Exportar nota": false
     }
   },
-  "active": "58277ede574c7c92",
+  "active": "d7bee14226522c5d",
   "lastOpenFiles": [
     "1. DAILY-INBOX-FLEETING/2026-04-26.md",
     "1. DAILY-INBOX-FLEETING/2026-06-14.md",
