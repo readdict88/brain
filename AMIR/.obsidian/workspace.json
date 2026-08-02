@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. DAILY-INBOX-FLEETING/2026-08-01.md",
+                "file": "1. DAILY-INBOX-FLEETING/2026-08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-01"
+              "title": "2026-08-02"
             }
           }
         ],
@@ -238,14 +238,6 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
-      "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": false,
-      "tasknotes:Open task list": false,
-      "tasknotes:Open notes": false,
-      "tasknotes:Open agenda": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": false,
       "tasknotes:Create new task": false,
       "whatsapp-export-note:Exportar nota": false,
       "tasknotes:Open mini calendar view": false,
@@ -259,8 +251,8 @@
   },
   "active": "ec54e7bf669f2e66",
   "lastOpenFiles": [
-    "TaskNotes/Start Here.md",
     "1. DAILY-INBOX-FLEETING/2026-08-01.md",
+    "TaskNotes/Start Here.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base",
